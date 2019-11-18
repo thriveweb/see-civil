@@ -1,0 +1,28 @@
+.GoogleMap {
+    padding-bottom: 30vw;
+    margin-top: 3rem;
+}
+
+a[href^="http://maps.google.com/maps"]{display:none !important}
+a[href^="https://maps.google.com/maps"]{display:none !important}
+
+.gmnoprint a, .gmnoprint span, .gm-style-cc {
+    display:none;
+}
+.gmnoprint div {
+    background:none !important;
+}
+
+
+@media only screen and (max-width: 765px) {
+  .GoogleMap {
+    margin-top: 0;
+    padding-bottom: 40vw;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .GoogleMap {
+    padding-bottom: 75vw;
+  }
+}

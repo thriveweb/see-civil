@@ -1,0 +1,43 @@
+@import '../styles/variables';
+
+.Form {
+  input, textarea, select {
+		appearance: none;
+		box-shadow: none;
+		border: 1px solid transparent;
+		padding: 1rem 1.5rem;
+		outline: none;
+		transition: all ease-in-out 0.2s;
+		font-size: 1.6em;
+		margin-bottom: 1.5rem;
+    width: 100%;
+    resize: none;
+
+		&:focus {
+			border-color: rgba(0,0,0,0.5);
+		}
+	}
+
+  textarea {
+    height: 16rem;
+  }
+
+  .button {
+    display: inline-block;
+    background-color: transparent;
+    border-color: rgba(255,255,255,0.4);
+    border-bottom-color: $orange;
+    color: $white;
+    width: auto;
+    padding: 1.5rem 5rem;
+    cursor: pointer;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .Form {
+    .button {
+      width: 100%;
+    }
+  }
+}

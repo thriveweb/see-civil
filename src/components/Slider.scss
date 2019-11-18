@@ -1,0 +1,119 @@
+.slider {
+    .container:first-child {
+        position: relative;
+    }
+
+    .container {
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .slider--slide {
+        height: 0;
+        padding-bottom: 40%;
+        opacity: 0;
+        z-index: -1;
+        visibility: hidden;
+        position: absolute;
+        transition: opacity ease-in-out 0s;
+
+        &.active {
+            position: static;
+            opacity: 1;
+            visibility: visible;
+            z-index: 0;
+            transition: opacity ease-in-out 1s;
+        }
+    }
+
+    .slider--dots {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 2rem auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+
+        .slider--dot {
+            width: 1.5rem;
+            height: 1.5rem;
+            display: block;
+            background-color: white;
+            border-radius: 50%;
+            margin: 0 0.5rem;
+            opacity: 0.3;
+            cursor: pointer;
+            transition: all ease-in-out 0.2s;
+
+            &:hover {
+                opacity: 0.5;
+            }
+
+            &.active {
+                opacity: 1;
+            }
+        }
+    }
+
+    .slider--arrows {
+        position: absolute;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 95%;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+
+        .slider--arrow {
+            flex: 0 0 auto;
+            display: block;
+            cursor: pointer;
+            transition: all ease-in-out 0.2s;
+            opacity: 0.5;
+
+            svg {
+                height: 3rem;
+
+                * {
+                    fill: white;
+                }
+            }
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
+
+    .slider--navfor {
+        display: inline-flex;
+        justify-content: flex-start;
+        margin: 2.5rem auto 0;
+        overflow: hidden;
+        max-width: 100%;
+
+        .slider--navfor-item {
+            width: 10rem;
+            flex: 0 0 10rem;
+            height: 10rem;
+            opacity: 0.4;
+            cursor: pointer;
+            transition: all ease-in-out 0.2s;
+
+            &:hover {
+                opacity: 0.5;
+            }
+
+            &.active {
+                opacity: 1;
+            }
+        }
+    }
+}

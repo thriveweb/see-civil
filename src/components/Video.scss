@@ -1,0 +1,168 @@
+@import '../styles/variables';
+
+.video-section {
+	margin: 6rem auto;
+	width: 80rem;
+	max-width: 90%;
+	cursor: pointer;
+	background-color: black;
+
+	.video-wrapper {
+		position: relative;
+		height: 0;
+		padding-bottom: 56.25%;
+	}
+
+ 	> * {
+		max-width: 100% !important;
+	}
+
+	.video {
+	  width: 100%;
+	  border: none;
+	  display: block;
+	  min-height: 50rem;
+	}
+
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.overlay-content {
+		position: absolute;
+		margin: 0;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		transition: all ease-in-out .5s;
+		opacity: 0;
+		visibility: hidden;
+		z-index: -1;
+
+
+		.content {
+			position: relative;
+			z-index: 3;
+			top: 2rem;
+			left: 2rem;
+
+			* {
+				color: $white;
+			}
+		}
+
+		.play-button {
+			position: absolute;
+			top: 50%;
+			left: 0;
+			right: 0;
+			margin: 0 auto;
+			background-color: $white;
+			border-radius: 100%;
+			width: 8rem;
+			height: 8rem;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			transform: scale(1) translateY(-50%);
+			transition: all ease-in-out .2s;
+			z-index: 3;
+
+			svg {
+				height: 3rem;
+				width: 3rem;
+				margin-left: .5rem;
+
+				* {
+					fill: $orange;
+				}
+			}
+		}
+
+		&:before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(0,0,0,0.6);
+			transition: all ease-in-out .2s;
+			z-index: 2;
+		}
+
+		&.active {
+			opacity: 1;
+			visibility: visible;
+			z-index: 1;
+		}
+	}
+}
+
+.video-section.videoOverlay .video {
+	min-height: 55rem;
+	position: relative;
+	margin: 0;
+}
+
+.video-section:hover .overlay-content:before {
+	background-color: rgba(0,0,0,0.8);
+}
+
+.video-section:hover .overlay-content .play-button {
+	transform: scale(1.05) translateY(-50%);
+}
+
+.single-project-content {
+	.video-section {
+		width: 100%;
+		padding-bottom: 56.25%;
+		margin: 2rem 0;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.video-section {
+		width: auto;
+	}
+}
+
+@media only screen and (max-width: 420px) {
+	.video-section {
+		margin: 4rem auto;
+
+		.overlay-content {
+			.play-button {
+				width: 6rem;
+				height: 6rem;
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.video-section {
+		.overlay-content {
+			.content {
+				top: 1rem;
+				left: 1rem;
+			}
+			.play-button {
+				width: 5rem;
+				height: 5rem;
+
+				svg {
+					height: 2rem;
+					width: 2rem;
+				}
+			}
+		}
+	}
+}

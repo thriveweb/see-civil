@@ -1,0 +1,23 @@
+@import '../styles/variables';
+
+.home-projects {
+  text-align: center;
+  padding-bottom: 6rem;
+
+  .button {
+    display: inline-block;
+  }
+}
+
+.project-listing {
+  padding: 5rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+}
+
+@media only screen and (max-width: 420px) {
+  .project-listing {
+    padding: 3rem 0;
+  }
+}

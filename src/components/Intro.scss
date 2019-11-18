@@ -1,0 +1,164 @@
+@import '../styles/variables';
+
+.intro-section {
+  padding: 7rem 0;
+
+  .container {
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    .title-fade {
+      top: -6rem;
+      left: -6rem;
+    }
+
+    .intro-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    h3 {
+      margin-right: 10rem;
+      font-weight: 600;
+      flex: 0 0 30%;
+      font-size: 3.2rem;
+    }
+
+    .content {
+      flex: 0 0 70%;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 4rem;
+    }
+  }
+
+  &.cta {
+    background-color: $orange;
+
+    * {
+      color: $white;
+    }
+
+    .container {
+      .title-fade {
+        color: rgba(246,244,244,0.14);
+      }
+    }
+
+    .button {
+      border-color: rgba(255,255,255,0.4);
+      border-bottom-color: $white !important;
+
+      &:hover {
+        background-color: $white;
+        color: $orange;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .intro-section {
+    .container {
+      align-items: flex-start;
+
+      h3 {
+        font-size: 2.8rem;
+        margin-right: 6rem;
+      }
+    }
+
+    &.cta {
+      .container {
+        align-items: center;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .intro-section {
+    .container {
+      .title-fade {
+        left: -3rem;
+        font-size: 12rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1020px) {
+  .intro-section {
+    .container {
+      flex-wrap: wrap;
+      text-align: center;
+
+      h3 {
+        flex: 0 0 100%;
+        margin: 0 0 2rem;
+      }
+    }
+
+    &.cta {
+      .container {
+        flex-wrap: nowrap;
+        text-align: left;
+      }
+
+      h3 {
+        flex: 0 0 40%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 765px) {
+  .intro-section {
+    &.cta {
+      .container {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+      }
+
+      h3 {
+        flex: 0 0 100%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .intro-section {
+    .container {
+      .title-fade {
+        font-size: 6rem;
+        left: 1rem;
+      }
+
+      h3 {
+        font-size: 2.4rem;
+      }
+
+      p {
+        font-size: 1.6rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .intro-section {
+    padding: 4rem 0;
+
+    .container {
+      .title-fade {
+        font-size: 4rem;
+        top: -2rem;
+      }
+    }
+  }
+}

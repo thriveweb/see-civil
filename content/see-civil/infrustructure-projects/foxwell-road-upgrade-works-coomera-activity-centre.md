@@ -1,0 +1,24 @@
+---
+template: SingleProject
+title: Foxwell Road Upgrade Works & Coomera Activity Centre
+featuredImage: >-
+  https://ucarecdn.com/ad30692a-0aef-4b8a-b6c5-fd6ccacc0adb/-/preview/-/enhance/50/
+specs: |-
+  * Location - Coomera, QLD
+  * Completion Date - 2019
+  * Value - $29 Million
+  * Client - Scentre
+date: 2018-10-22T03:54:04.694Z
+projectstatus: completed
+content: "Project Description –\r\n\nAs part of the Coomera Town Centre Master Planned Area, SEE Civil is undertaking road improvement works on Foxwell Road at Coomera. Works include widening a section of Foxwell Road, improvements to nearby local roads and the construction of a new local road. The works are being undertaken adjacent to the Westfield Coomera construction site on both sides of Foxwell Road and will provide additional capacity around the new shopping centre."
+videoSection:
+  title: ''
+accordion:
+  - title: Scope of works
+    content: "* Widening of 750 metres of Foxwell Road to two lanes in each direction, between Railway Road and the Old Pacific Highway\r\n* Widening of approximately 640 metres of Railway Road\r\n* Construction of a left-turning lane from Railway Road to Foxwell Road, including reclaiming and providing earth retaining for a portion of the existing Queensland Rail carpark\r\n* Construction of a new local road (Creek Road) providing additional access from Foxwell Road to the new Westfield Coomera shopping centre\r\n* Significant service relocation works including gas, sewer, communications, water and high voltage power\r\n* Extension of a 7-cell culvert to facilitate road widening\r\n* Installation of new drainage infrastructure, diagonally across the Railway and Foxwell Roads intersection\r\n* Complex traffic staging and switches to accommodate construction activities\r\n* Significant liaison with various stakeholders including the shopping centre developer, Queensland Rail, Gold Coast City Council and various utility providers.\r\n\nMore SEE Civil infrastructure projects\r\n\nMore about the Coomera Town Centre Master Planned Area & Westfield Coomera"
+cta:
+  buttonText: ''
+  buttonUrl: ''
+meta: {}
+---
+

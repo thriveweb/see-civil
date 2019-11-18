@@ -1,0 +1,79 @@
+@import '../styles/variables';
+
+.single-leader {
+  padding: 5rem 0 8rem;
+  text-align: center;
+
+  .container {
+    display: flex;
+    text-align: left;
+  }
+
+  .profile-image {
+    flex: 0 0 28rem;
+    overflow: hidden;
+    position: relative;
+    padding-right: 5rem;
+    margin-right: 5rem;
+    border-right: .2rem solid rgba(23,23,23,0.1);
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .leader-content {
+    flex: 1;
+
+    h2 {
+      margin: 0 0 .5rem;
+    }
+
+    .occupation {
+      opacity: 0.4;
+    }
+
+    .content {
+      margin-top: 4rem;
+    }
+  }
+
+  .button {
+    display: inline-block;
+    margin-top: 10rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .single-leader {
+    .container {
+      flex-wrap: wrap;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .profile-image {
+      margin: 0 0 2rem;
+      border: none;
+      padding: 0;
+    }
+
+    .leader-content {
+      flex: 0 0 100%;
+      padding-left: 0;
+      margin-left: 0;
+      border: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .single-leader {
+    padding: 4rem 0;
+
+    .button {
+      margin-top: 6rem;
+    }
+  }
+}

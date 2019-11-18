@@ -1,0 +1,384 @@
+@import '../styles/variables';
+
+header {
+  padding: 2rem 0;
+  z-index: 9999;
+  transition: all ease-in-out .2s;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .home-link-container {
+      display: flex;
+      align-items: center;
+      position: relative;
+      padding-left: 11.5rem;
+
+      .header-logo {
+        margin-right: 2rem;
+        transform: scale(1);
+        transition: all ease-in-out .2s;
+
+        svg {
+          height: 6rem;
+          width: 8rem;
+          opacity: 0.7;
+
+          * {
+            transition: all ease-in-out .2s;
+            fill: white;
+          }
+        }
+
+        &.ics-logo {
+          svg {
+            height: 8rem;
+            width: 10rem;
+          }
+        }
+
+        &.current {
+          position: absolute;
+          left: 0;
+          top: 50%;
+          transform: translateY(-50%) scale(1.3);
+
+          svg {
+            opacity: 1;
+
+            .hover-fill {
+              fill: $orange;
+            }
+          }
+
+          &:hover {
+            transform: translateY(-50%) scale(1.4);
+          }
+        }
+
+        &:hover {
+          transform: scale(1.1);
+
+          svg {
+            opacity: 1;
+
+            .hover-fill {
+              fill: $orange;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &.active {
+    background-color: black;
+  }
+}
+
+// See Group
+	.see-group {
+		header {
+			.container {
+				.home-link-container {
+          padding-left: 12rem;
+
+          .see-group-logo {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%) scale(1.3);
+
+            svg {
+              opacity: 1;
+
+              .hover-fill {
+                fill: $orange;
+              }
+            }
+
+            &:hover {
+              transform: translateY(-50%) scale(1.4);
+            }
+          }
+				}
+			}
+		}
+	}
+
+
+// See Civil
+	.see-civil {
+		header {
+			.container {
+				.home-link-container {
+          padding-left: 12rem;
+
+          .see-civil-logo {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%) scale(1.3);
+
+            svg {
+              opacity: 1;
+
+              .hover-fill {
+                fill: $orange;
+              }
+            }
+
+            &:hover {
+              transform: translateY(-50%) scale(1.4);
+            }
+          }
+				}
+			}
+		}
+	}
+
+
+// Integrated Concrete Solutions
+	.integrated-concrete-solutions {
+		header {
+			.container {
+				.home-link-container {
+          padding-left: 14rem;
+
+          .ics-logo {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%) scale(1.3);
+
+            svg {
+              opacity: 1;
+
+              .hover-fill {
+                fill: $orange;
+              }
+            }
+
+            &:hover {
+              transform: translateY(-50%) scale(1.4);
+            }
+          }
+				}
+			}
+		}
+	}
+
+
+// Quarry Solutions
+	.quarry-solutions {
+		header {
+			.container {
+				.home-link-container {
+          padding-left: 11rem;
+
+          .quarry-solutions-logo {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%) scale(1.3);
+
+            svg {
+              opacity: 1;
+
+              .hover-fill {
+                fill: $orange;
+              }
+            }
+
+            &:hover {
+              transform: translateY(-50%) scale(1.4);
+            }
+          }
+				}
+			}
+		}
+	}
+
+
+.mobile-menu-button {
+  position: relative;
+  width: 2.5rem;
+  height: 1.6rem;
+  cursor: pointer;
+  transition: all ease-in-out 0.2s;
+  display: block;
+
+  span {
+    width: 70%;
+    height: 0.15rem;
+    background: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all ease-in-out 0.2s;
+
+    + span {
+      left: 50%;
+
+      + span {
+        top: 50%;
+        left: 0;
+
+        + span {
+          left: 50%;
+
+          + span {
+            top: 100%;
+            left: 0;
+
+            + span {
+                left: 50%;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.mobile-active {
+  .mobile-menu-button {
+    span {
+      transform: rotate(45deg);
+      top: 0;
+      left: 0;
+
+      + span {
+        transform: rotate(-45deg);
+        left: 50%;
+
+        + span {
+          transform: rotate(0);
+          left: -100%;
+          opacity: 0;
+          top: 50%;
+
+          + span {
+            left: 100%;
+
+            + span {
+              transform: rotate(-45deg);
+              opacity: 1;
+              left: 0;
+              top: 90%;
+
+              + span {
+                transform: rotate(45deg);
+                left: 50%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.single-project {
+  header {
+    background-color: black;
+  }
+}
+
+@media only screen and (max-width: 765px) {
+  header {
+    padding: 1rem 0;
+
+    .container {
+      .home-link-container {
+        padding-left: 8.5rem;
+
+        .header-logo {
+          svg {
+            height: 4rem;
+            width: 6rem;
+          }
+
+          &.ics-logo {
+            svg {
+              height: 5rem;
+              width: 7rem;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .see-civil,
+  .see-group,
+  .quarry-solutions {
+    header {
+      .container {
+        .home-link-container {
+          padding-left: 8.5rem;
+        }
+      }
+    }
+  }
+
+  .integrated-concrete-solutions {
+    header {
+      .container {
+        .home-link-container {
+          padding-left: 10rem;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  header {
+    .container {
+      .home-link-container {
+        padding-left: 6.5rem;
+
+        .header-logo {
+          margin-right: .5rem;
+
+          svg {
+            height: 3rem;
+            width: 5rem;
+          }
+
+          &.ics-logo {
+            svg {
+              height: 3rem;
+              width: 5rem;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .see-civil,
+  .see-group,
+  .quarry-solutions {
+    header {
+      .container {
+        .home-link-container {
+          padding-left: 6.5rem;
+        }
+      }
+    }
+  }
+
+  .integrated-concrete-solutions {
+    header {
+      .container {
+        .home-link-container {
+          padding-left: 7.5rem;
+        }
+      }
+    }
+  }
+}

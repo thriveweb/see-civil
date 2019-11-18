@@ -1,0 +1,11 @@
+@import '../styles/variables';
+
+.default-page {
+  background-color: $lightGrey;
+  .container {
+    position: relative;
+    top: -4rem;
+    background-color: white;
+    padding: 6rem 4rem;
+  }
+}

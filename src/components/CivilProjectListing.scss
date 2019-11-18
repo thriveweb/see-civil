@@ -1,0 +1,72 @@
+@import '../styles/variables';
+
+.civil-project-types {
+  display: flex;
+  flex-wrap: wrap;
+
+  .title-banner {
+    flex: 0 0 100%;
+  }
+
+  .archive-project-link {
+    flex: 0 0 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12rem 6rem;
+    position: relative;
+    text-align: center;
+
+    h3, .button {
+      position: relative;
+      z-index: 1;
+    }
+
+    h3 {
+      color: white;
+    }
+
+    .button {
+      display: block;
+      color: white;
+      border-color: rgba(255,255,255,0.6);
+      border-bottom-color: $orange;
+      margin-top: 2rem;
+      transition: all ease-in-out .2s;
+    }
+
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.6);
+    }
+
+    &:hover {
+      .button {
+        border-color: $orange;
+        background-color: $orange;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .civil-project-types {
+    .archive-project-link {
+      padding: 6rem 1rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .civil-project-types {
+    .archive-project-link {
+      flex: 0 0 100%;
+    }
+  }
+}

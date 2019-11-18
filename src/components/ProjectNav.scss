@@ -1,0 +1,97 @@
+@import '../styles/variables';
+
+.project-nav {
+  padding: 4rem 0;
+  background-color: $lightGrey;
+  display: flex;
+  justify-content: center;
+
+  .project-nav--items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    li {
+      text-decoration: none;
+      list-style: none;
+      font-size: 1.8em;
+      margin-right: 7rem;
+      text-transform: uppercase;
+      color: #092047;
+      font-weight: 900;
+      border-bottom: .2rem solid transparent;
+      cursor: pointer;
+
+      a {
+        padding: 1rem;
+        display: inline-block;
+      }
+
+      &:last-of-type {
+        margin-right: 0;
+      }
+
+      &:hover {
+        border-bottom-color: $orange;
+      }
+
+      &.active {
+        border-bottom-color: $orange;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .project-nav {
+    .project-nav--items {
+      li {
+        font-size: 1.6rem;
+        margin-right: 5rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .project-nav {
+    padding: 3rem 0;
+
+    .project-nav--items {
+      li {
+        font-size: 1.4rem;
+        margin-right: 3rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .project-nav {
+    padding: 3rem 0;
+
+    .project-nav--items {
+      li {
+        font-size: 1.2rem;
+        margin-right: 2rem;
+        text-align: center;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .project-nav {
+    padding: 2rem 0;
+
+    .project-nav--items {
+      li {
+        flex: 1;
+
+        a {
+          padding: .5rem;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="61px" viewBox="0 0 43 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>maps-and-flags</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contact-" transform="translate(-655.000000, -984.000000)" fill="#F58C1F" fill-rule="nonzero">
+            <g id="Screen-Shot-2018-07-24-at-3.59.18-pm" transform="translate(0.000000, 787.000000)">
+                <g id="maps-and-flags" transform="translate(655.000000, 197.000000)">
+                    <path d="M21.5,0 C9.64483597,0 0,9.7479025 0,21.7296359 C0,36.5993415 19.2403938,58.4289384 20.0595706,59.3509708 C20.3181004,59.6419914 20.802641,60.1916524 21.5131924,60.9999538 C22.210717,60.18653 22.6864627,59.636869 22.9404294,59.3509708 C23.7596062,58.4289384 43,36.5993415 43,21.7296359 C42.9997681,9.7479025 33.3550481,0 21.5,0 Z M21.5,32.6624226 C15.5353724,32.6624226 10.6829237,27.7580026 10.6829237,21.7296359 C10.6829237,15.7012691 15.5354884,10.7969663 21.5,10.7969663 C27.4645116,10.7969663 32.3169603,15.7013863 32.3169603,21.729753 C32.3169603,27.7581198 27.4645116,32.6624226 21.5,32.6624226 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

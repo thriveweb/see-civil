@@ -1,0 +1,1396 @@
+
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 13848c2ac3711e868483
+
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "see-group"
+    label: "See Group Pages"
+    files:
+      - file: "content/see-group/home.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "HomePage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "home"}
+          - {label: "Business Name", name: "businessName", widget: "hidden", default: "See Group"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Logo", name: "logo", widget: "image", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - {label: "Description", name: "description", widget: "text", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Capabilities"
+            name: "capabilities"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title Banner", name: "titleBanner", widget: "string", default: "", required: false}
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - label: "Icon List"
+                name: "iconList"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+                  - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-group/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "AboutPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "about"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Division Intro"
+            name: "divisionIntro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Logo", name: "logo", widget: "image", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-group/how-we-operate.md"
+        label: "How We Operate"
+        name: "operation"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "HowWeOperate"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "how-we-operate"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Icon List"
+            name: "iconList"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - {label: "List Image", name: "listImage", widget: "image", default: "", required: false}
+          - label: "General Content"
+            name: "generalContent"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Strategies", name: "strategies", widget: "markdown", default: "", required: false}
+          - label: "Content Columns"
+            name: "contentColumns"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+              - {label: "Title Fade", name: "titleFade", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Partners"
+            name: "partners"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - label: "Partner"
+                name: "partner"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "Image", name: "image", widget: "image", default: "", required: false}
+              - label: "Meta"
+                required: false
+                name: "meta"
+                widget: "object"
+                fields:
+                  - {label: Title, name: title, widget: string, required: false}
+                  - {label: Description, name: description, widget: text, required: false}
+                  - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-group/leaders.md"
+        label: "Leaders"
+        name: "leaders"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveLeaders"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "leaders"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "groupleaders"
+    label: "See Group Leaders"
+    folder: content/see-group/leaders
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleLeader}
+      - {label: Title, name: title, widget: string}
+      - label: "General Occupation"
+        name: "generalOccupation"
+        widget: "select"
+        options: ["director", "executive-general manager", "operational manager"]
+      - {label: Occupation, name: occupation, widget: string, required: false}
+      - {label: "Profile Image", name: "profileImage", widget: "image", required: false}
+      - {label: "Biography", name: "biography", widget: "markdown"}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+
+
+# SEE CIVIL
+
+  - name: "civil"
+    label: "See Civil Pages"
+    files:
+      - file: "content/see-civil/home.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "HomePage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "home"}
+          - {label: "Business Name", name: "businessName", widget: "hidden", default: "See Civil"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Logo", name: "logo", widget: "image", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - {label: "Description", name: "description", widget: "text", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Capabilities"
+            name: "capabilities"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - label: "Icon List"
+                name: "iconList"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+                  - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-civil/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "AboutPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "about"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Downloads"
+            name: "downloads"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "File", name: "file", widget: "file", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-civil/capabilities.md"
+        label: "Capabilities"
+        name: "capabilities"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "CapabilitiesPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "capabilities"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Icon List"
+            name: "iconList"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Downloads"
+            name: "downloads"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "File", name: "file", widget: "file", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-civil/infrustructure-projects.md"
+        label: "Infrustructure Projects"
+        name: "infrustructure-projects"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "projects"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - label: "Call To Action"
+            name: "cta"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-civil/urban-projects.md"
+        label: "Urban Projects"
+        name: "urban-projects"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "projects"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - label: "Call To Action"
+            name: "cta"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/see-civil/leaders.md"
+        label: "Leaders"
+        name: "leaders"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveLeaders"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "leaders"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "infrustructureprojects"
+    label: "Infrustructure Projects"
+    folder: content/see-civil/infrustructure-projects
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleProject}
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Specs", name: "specs", widget: "markdown", required: false}
+      - {label: "Date", name: "date", widget: "date", required: false}
+      - label: "Project Status"
+        name: "projectstatus"
+        widget: "select"
+        options: ["current", "completed"]
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - label: Video Section
+        name: videoSection
+        required: false
+        widget: object
+        fields:
+          - {label: Image Overlay, name: imageOverlay, widget: image, required: false}
+          - {label: Title, name: title, widget: markdown, required: false, default: ''}
+          - {label: Video, name: video, widget: string, required: false}
+      - {label: Content Secondary, name: contentSecondary, widget: markdown, required: false}
+      - label: Accordion
+        name: accordion
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Title", name: "title", widget: "string", default: ""}
+          - {label: "Content", name: "content", widget: "markdown", default: ""}
+      - label: "Call To Action"
+        name: "cta"
+        widget: "object"
+        required: false
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "urbanprojects"
+    label: "Urban Projects"
+    folder: content/see-civil/urban-projects
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleProject}
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Specs", name: "specs", widget: "markdown", required: false}
+      - {label: "Date", name: "date", widget: "date", required: false}
+      - label: "Project Status"
+        name: "projectstatus"
+        widget: "select"
+        options: ["current", "completed"]
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - label: Video Section
+        name: videoSection
+        required: false
+        widget: object
+        fields:
+          - {label: Image Overlay, name: imageOverlay, widget: image, required: false}
+          - {label: Title, name: title, widget: markdown, required: false, default: ''}
+          - {label: Video, name: video, widget: string, required: false}
+      - {label: Content Secondary, name: contentSecondary, widget: markdown, required: false}
+      - label: Accordion
+        name: accordion
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Title", name: "title", widget: "string", default: ""}
+          - {label: "Content", name: "content", widget: "markdown", default: ""}
+      - label: "Call To Action"
+        name: "cta"
+        widget: "object"
+        required: false
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "civilleaders"
+    label: "See Civil Leaders"
+    folder: content/see-civil/leaders
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleLeader}
+      - {label: Title, name: title, widget: string}
+      - label: "General Occupation"
+        name: "generalOccupation"
+        widget: "select"
+        options: ["director", "executive-general manager", "operational manager"]
+      - {label: Occupation, name: occupation, widget: string, required: false}
+      - {label: "Profile Image", name: "profileImage", widget: "image", required: false}
+      - {label: "Biography", name: "biography", widget: "markdown"}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+
+# Integrated Concrete Solutions
+
+  - name: "integrated-concrete-solutions"
+    label: "Integrated Concrete Solutions Pages"
+    files:
+      - file: "content/integrated-concrete-solutions/home.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "HomePage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "home"}
+          - {label: "Business Name", name: "businessName", widget: "hidden", default: "Integrated Concrete Solutions"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Logo", name: "logo", widget: "image", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - {label: "Description", name: "description", widget: "text", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Capabilities"
+            name: "capabilities"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - label: "Icon List"
+                name: "iconList"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+                  - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/integrated-concrete-solutions/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "AboutPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "about"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Downloads"
+            name: "downloads"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "File", name: "file", widget: "file", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/integrated-concrete-solutions/capabilities.md"
+        label: "Capabilities"
+        name: "capabilities"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "CapabilitiesPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "capabilities"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Icon List"
+            name: "iconList"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Downloads"
+            name: "downloads"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "File", name: "file", widget: "file", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/integrated-concrete-solutions/locations.md"
+        label: "Locations"
+        name: "locations"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "projects"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/integrated-concrete-solutions/leaders.md"
+        label: "Leaders"
+        name: "leaders"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveLeaders"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "leaders"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "integrated-concrete-solutions-locations"
+    label: "Integrated Concrete Solutions Locations"
+    folder: content/integrated-concrete-solutions/locations
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleProject}
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Specs", name: "specs", widget: "markdown", required: false}
+      - {label: "Date", name: "date", widget: "date", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - label: Video Section
+        name: videoSection
+        required: false
+        widget: object
+        fields:
+          - {label: Image Overlay, name: imageOverlay, widget: image, required: false}
+          - {label: Title, name: title, widget: markdown, required: false, default: ''}
+          - {label: Video, name: video, widget: string, required: false}
+      - {label: Content Secondary, name: contentSecondary, widget: markdown, required: false}
+      - label: Accordion
+        name: accordion
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Title", name: "title", widget: "string", default: ""}
+          - {label: "Content", name: "content", widget: "markdown", default: ""}
+          - {label: "File", name: "file", widget: "file", default: ""}
+      - label: "Call To Action"
+        name: "cta"
+        widget: "object"
+        required: false
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "integrated-concrete-solutions-leaders"
+    label: "Integrated Concrete Solutions Leaders"
+    folder: content/integrated-concrete-solutions/leaders
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleLeader}
+      - {label: Title, name: title, widget: string}
+      - label: "General Occupation"
+        name: "generalOccupation"
+        widget: "select"
+        options: ["director", "executive-general manager", "operational manager"]
+      - {label: Occupation, name: occupation, widget: string, required: false}
+      - {label: "Profile Image", name: "profileImage", widget: "image", required: false}
+      - {label: "Biography", name: "biography", widget: "markdown"}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+
+# QUARRY SOLUTIONS
+
+  - name: "quarrysolutions"
+    label: "Quarry Solutions Pages"
+    files:
+      - file: "content/quarry-solutions/home.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "HomePage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "home"}
+          - {label: "Business Name", name: "businessName", widget: "hidden", default: "Quarry Solutions"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Logo", name: "logo", widget: "image", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - {label: "Description", name: "description", widget: "text", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Capabilities"
+            name: "capabilities"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - label: "Icon List"
+                name: "iconList"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+                  - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/quarry-solutions/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "AboutPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "about"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Content Banner"
+            name: "contentBanner"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+          - label: "Downloads"
+            name: "downloads"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "File", name: "file", widget: "file", default: "", required: false}
+              - label: "Meta"
+                required: false
+                name: "meta"
+                widget: "object"
+                fields:
+                  - {label: Title, name: title, widget: string, required: false}
+                  - {label: Description, name: description, widget: text, required: false}
+                  - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/quarry-solutions/capabilities.md"
+        label: "Capabilities"
+        name: "capabilities"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "CapabilitiesPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "capabilities"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Icon List"
+            name: "iconList"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Icon", name: "icon", widget: "image", default: "", required: false}
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Downloads"
+            name: "downloads"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "File", name: "file", widget: "file", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/quarry-solutions/quarries.md"
+        label: "Projects"
+        name: "projects"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "projects"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/quarry-solutions/leaders.md"
+        label: "Leaders"
+        name: "leaders"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveLeaders"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "leaders"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "quarrysolutionsquarries"
+    label: "Quarry Solutions Quarries"
+    folder: content/quarry-solutions/quarries
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleProject}
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Specs", name: "specs", widget: "markdown", required: false}
+      - {label: "Date", name: "date", widget: "date", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - label: Video Section
+        name: videoSection
+        required: false
+        widget: object
+        fields:
+          - {label: Image Overlay, name: imageOverlay, widget: image, required: false}
+          - {label: Title, name: title, widget: markdown, required: false, default: ''}
+          - {label: Video, name: video, widget: string, required: false}
+      - {label: Content Secondary, name: contentSecondary, widget: markdown, required: false}
+      - label: Accordion
+        name: accordion
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Title", name: "title", widget: "string", default: ""}
+          - {label: "Content", name: "content", widget: "markdown", default: ""}
+          - {label: "File", name: "file", widget: "file", default: ""}
+      - label: "Call To Action"
+        name: "cta"
+        widget: "object"
+        required: false
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "quarrysolutionsleaders"
+    label: "Quarry Solutions Leaders"
+    folder: content/quarry-solutions/leaders
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleLeader}
+      - {label: Title, name: title, widget: string}
+      - label: "General Occupation"
+        name: "generalOccupation"
+        widget: "select"
+        options: ["director", "executive-general manager", "operational manager"]
+      - {label: Occupation, name: occupation, widget: string, required: false}
+      - {label: "Profile Image", name: "profileImage", widget: "image", required: false}
+      - {label: "Biography", name: "biography", widget: "markdown"}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+
+# CIVIL RENT
+
+  # - name: "civilrent"
+  #   label: "Civil Rent Pages"
+  #   files:
+  #     - file: "content/civil-rent/home.md"
+  #       label: "Home"
+  #       name: "home"
+  #       fields:
+  #         - {label: "Template", name: "template", widget: "hidden", default: "HomePage"}
+  #         - {label: "Slug", name: "slug", widget: "hidden", default: "home"}
+  #         - {label: "Business Name", name: "businessName", widget: "hidden", default: "Civil Rent"}
+  #         - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #         - {label: "Logo", name: "logo", widget: "image", default: "", required: false}
+  #         - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+  #         - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+  #         - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+  #         - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+  #         - {label: "Description", name: "description", widget: "text", default: "", required: false}
+  #         - label: "Intro"
+  #           name: "intro"
+  #           widget: "object"
+  #           required: false
+  #           fields:
+  #             - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #             - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+  #             - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+  #             - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+  #             - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+  #         - label: "Featured Equipment"
+  #           name: "featuredEquipment"
+  #           widget: "list"
+  #           required: false
+  #           fields:
+  #             - label: "Equipment"
+  #               name: "equipment"
+  #               widget: "relation"
+  #               collection: "civilrentequipment"
+  #               searchFields: ["title"]
+  #               valueField: "title"
+  #         - label: "Content Banner"
+  #           name: "contentBanner"
+  #           widget: "object"
+  #           required: false
+  #           fields:
+  #             - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #             - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+  #             - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+  #             - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+  #             - {label: "Image", name: "image", widget: "image", default: "", required: false}
+  #         - label: "Meta"
+  #           required: false
+  #           name: "meta"
+  #           widget: "object"
+  #           fields:
+  #             - {label: Title, name: title, widget: string, required: false}
+  #             - {label: Description, name: description, widget: text, required: false}
+  #             - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+  #
+  #     - file: "content/civil-rent/about.md"
+  #       label: "About"
+  #       name: "about"
+  #       fields:
+  #         - {label: "Template", name: "template", widget: "hidden", default: "AboutPage"}
+  #         - {label: "Slug", name: "slug", widget: "hidden", default: "about"}
+  #         - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #         - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+  #         - label: "Intro"
+  #           name: "intro"
+  #           widget: "object"
+  #           required: false
+  #           fields:
+  #             - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #             - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+  #             - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+  #         - label: "Content Banner"
+  #           name: "contentBanner"
+  #           widget: "object"
+  #           required: false
+  #           fields:
+  #             - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #             - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+  #             - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+  #             - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+  #             - {label: "Image", name: "image", widget: "image", default: "", required: false}
+  #         - label: "Downloads"
+  #           name: "downloads"
+  #           widget: "list"
+  #           required: false
+  #           fields:
+  #             - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #             - {label: "File", name: "file", widget: "file", default: "", required: false}
+  #         - label: "Meta"
+  #           required: false
+  #           name: "meta"
+  #           widget: "object"
+  #           fields:
+  #             - {label: Title, name: title, widget: string, required: false}
+  #             - {label: Description, name: description, widget: text, required: false}
+  #             - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+  #
+  #     - file: "content/civil-rent/equipment.md"
+  #       label: "Equipment"
+  #       name: "equipment"
+  #       fields:
+  #         - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
+  #         - {label: "Slug", name: "slug", widget: "hidden", default: "equipment"}
+  #         - {label: "Title", name: "title", widget: "string", default: "", required: false}
+  #         - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+  #         - label: "Meta"
+  #           required: false
+  #           name: "meta"
+  #           widget: "object"
+  #           fields:
+  #             - {label: Title, name: title, widget: string, required: false}
+  #             - {label: Description, name: description, widget: text, required: false}
+  #             - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+  #
+  # - name: "civilrentequipment"
+  #   label: "Civil Rent Equipment"
+  #   folder: content/civil-rent/equipment
+  #   create: true
+  #   fields:
+  #     - {label: Template, name: template, widget: hidden, default: SingleProject}
+  #     - {label: Title, name: title, widget: string}
+  #     - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+  #     - {label: "Specs", name: "specs", widget: "markdown", required: false}
+  #     - {label: "Date", name: "date", widget: "date", required: false}
+  #     - label: "Categories"
+  #       name: "categories"
+  #       widget: "list"
+  #       required: false
+  #       fields:
+  #         - label: "Category"
+  #           name: "category"
+  #           widget: "relation"
+  #           collection: "categories"
+  #           searchFields: ["title"]
+  #           valueField: "title"
+  #     - {label: "Content", name: "content", widget: "markdown", required: false}
+  #     - label: Accordion
+  #       name: accordion
+  #       widget: "list"
+  #       required: false
+  #       fields:
+  #         - {label: "Title", name: "title", widget: "string", default: ""}
+  #         - {label: "Content", name: "content", widget: "markdown", default: ""}
+  #         - {label: "File", name: "file", widget: "file", default: ""}
+  #     - label: "Meta"
+  #       required: false
+  #       name: "meta"
+  #       widget: "object"
+  #       fields:
+  #         - {label: Title, name: title, widget: string, required: false}
+  #         - {label: Description, name: description, widget: text, required: false}
+  #         - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+  #
+  # - name: "categories"
+  #   label: "Equipment Categories"
+  #   folder: content/categories
+  #   editor:
+  #     preview: false
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: Template, name: template, widget: hidden, default: CategoryPage}
+  #     - {label: Title, name: title, widget: string}
+  #     - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+  #     - {label: "Description", name: "description", widget: "markdown", default: "", required: false}
+  #     - label: "Meta"
+  #       required: false
+  #       name: "meta"
+  #       widget: "object"
+  #       fields:
+  #         - {label: Title, name: title, widget: string, required: false}
+  #         - {label: Description, name: description, widget: text, required: false}
+  #         - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+
+# GLOBAL PAGES
+
+  - name: "globalPages"
+    label: "Global Pages"
+    files:
+      - file: "content/global-pages/careers.md"
+        label: "People and Careers"
+        name: "careers"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "Careers"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "careers"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "text", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: "Content Column"
+            name: "contentColumn"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Image", name: "image", widget: "image", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+          - label: Video Section
+            name: videoSection
+            required: false
+            widget: object
+            fields:
+              - {label: Image Overlay, name: imageOverlay, widget: image}
+              - {label: Title, name: title, widget: markdown, required: false, default: ''}
+              - {label: Video, name: video, widget: string}
+          - label: "Call To Action"
+            name: "cta"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+      - file: "content/global-pages/contact.md"
+        label: "Contact"
+        name: "contact"
+        editor:
+          preview: false
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "AboutPage"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "about"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+# Default Page
+
+  - name: "default-pages"
+    label: "Default Pages"
+    folder: content/default
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: Default}
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+
+# Settings
+
+  - name: "settings"
+    label: "Settings"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - file: "content/settings/global.yml"
+        label: "Global Settings"
+        name: "global-settings"
+        fields:
+          - {label: Site Title, name: siteTitle, widget: string}
+          - {label: Site Url, name: siteUrl, widget: string, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
+          - {label: Open Graph Card, name: openGraphCard, widget: image, required: false}
+          - {label: "Phone", name: "phone", widget: "string", default: "", required: false}
+          - {label: "Fax", name: "fax", widget: "string", default: "", required: false}
+          - {label: "Email", name: "email", widget: "string", default: "", required: false}
+          - {label: "Linkedin", name: "linkedin", widget: "string", default: "", required: false}
+          - {label: "Postal Address", name: "postalAddress", widget: "text", default: "", required: false}
+          - {label: "Head Office", name: "headOffice", widget: "text", default: "", required: false}
+          - {label: "Latitude", name: "latitude", widget: "string", default: "", required: false}
+          - {label: "Longitude", name: "longitude", widget: "string", default: "", required: false}

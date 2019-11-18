@@ -1,0 +1,22 @@
+@import '../styles/variables';
+
+.partners-section {
+  padding: 4rem 0;
+
+  .container {
+    text-align: center;
+
+    .partners {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 5rem;
+
+      img {
+        flex: 1;
+        max-width: 10rem;
+        max-height: 10rem;
+      }
+    }
+  }
+}
