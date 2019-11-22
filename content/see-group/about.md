@@ -21,14 +21,6 @@ intro:
     industry. 
 
 
-    ```
-
-
-    ```
-
-
-
-
     ## The SEE Group Difference
 
 
