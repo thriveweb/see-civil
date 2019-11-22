@@ -10,8 +10,28 @@ content: ''
 videoSection:
   title: ''
 accordion:
-  - title: 'Description of works '
-    content: "* Construction of fuel farm for BP including construction of roads and manoeuvring areas, bases for fuel tanks and other infrastructure.\r\n* Road Name – BP JUHI, Gold Coast Airport\r\n* Pavement – heavy duty pavement construction to accommodate fuel tanker movements\r\n* Installation of electrical and other services\r\n* Piling works for capping slabs for tanks\r\n* Area 5,000m2\r\n* Stormwater construction\r\n* Working airside in a high security environment\r\n* Working in a controlled environment as part of BP Australia’s safety and environmental systems.\r\n\nThis project was required to meet BP and SEE Integrated Management System (IMS) requirements ISO 9001, ISO 14001 and AS/NZS 4802"
+  - title: Scope of Works
+    content: >-
+      * Construction of fuel farm for BP including construction of roads and
+      manoeuvring areas, bases for fuel tanks and other infrastructure.
+
+      * Road Name – BP JUHI, Gold Coast Airport
+
+      * Pavement – heavy duty pavement construction to accommodate fuel tanker
+      movements
+
+      * Installation of electrical and other services
+
+      * Piling works for capping slabs for tanks
+
+      * Area 5,000m2
+
+      * Stormwater construction
+
+      * Working airside in a high security environment
+
+      * Working in a controlled environment as part of BP Australia’s safety and
+      environmental systems.
 cta:
   buttonText: ''
   buttonUrl: ''
