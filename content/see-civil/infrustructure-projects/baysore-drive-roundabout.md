@@ -45,7 +45,7 @@ accordion:
 
       ![](https://ucarecdn.com/6a3df68d-15de-47d7-90e0-6015fbe6fe9f/)
 
-      ![]()
+      ![](https://ucarecdn.com/27aafe28-9db2-4f48-83bd-06ee80ccc6c3/)
 cta:
   buttonText: ''
   buttonUrl: ''
