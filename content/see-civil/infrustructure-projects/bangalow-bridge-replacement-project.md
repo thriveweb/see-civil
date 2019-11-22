@@ -40,10 +40,14 @@ accordion:
       Brisge - lowering falsework ")
 
 
-      ![]()
+      ![O'Mearas Bridge after it was
+      demolished](https://ucarecdn.com/79a58663-b329-47ea-be67-11964938d6f9/
+      "O'Mearas Bridge")
 
 
-      ![]()
+      ![Looking across O'Mearas Creek from each bridge
+      abutment](https://ucarecdn.com/f4743b64-e460-4d31-a902-38e27d1477fd/
+      "O'Mearas Creek bridge")
 cta:
   buttonText: ''
   buttonUrl: ''
