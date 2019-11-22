@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: BP Joint User Hyndrant - Gold Coast Airport
+title: BP Joint User Hydrant - Gold Coast Airport
 featuredImage: >-
   https://ucarecdn.com/1028d98b-b4a2-4947-9061-325058b41721/-/preview/-/enhance/50/
 specs: "* Location - Coolangatta, QLD\r\n* Completion Date - 2012\r\n* Value - $2.4 Million\n* Client - BP Australia"
