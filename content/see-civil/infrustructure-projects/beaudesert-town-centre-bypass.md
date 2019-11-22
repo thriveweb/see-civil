@@ -27,67 +27,35 @@ videoSection:
 accordion:
   - title: Project Scope
     content: >-
-      * 20,000m3 of onsite excavation
+      * All bulk and detailed earthworks for the project including 20,000 cubic
+      metres of on site excavation, 100,000 tonne of import embankment material
+      placed on black soil, 20,000 square metres of subgrade treatment and 3,500
+      cubic metres of special embankment (rock fill into lagoon). 
 
-      * 100,000T of import embankment material to be placed on black soil
+      * Construction of plant-mixed stabilised pavements, dense grade asphalt
+      and stone matic asphalt.
 
-      * 20,000m2 of subgrade treatments
+      * Construction of a three-span bridge over Spring Creek 
 
-      * 3,500m3 of Special Embankment (Rock Fill into Lagoon)
+      * Significant changes to bridge construction methodology due to on site
+      ground conditions which prevented a full redesign of the bridge. 
 
-      * 35,000T of Plant Mixed Stabilised Pavements
+      * Construction of two new signalised intersections and installation of
+      Intelligent Transport System infrastracture. 
 
-      * 6,000T of Heavy Duty Dense Grade Asphalt
+      * Complex environmental management, especially associated with
+      construction works over the environmentally sensitive Spring Creek. 
 
-      * 2,300T of Stone Mastic
+      * Recovery of the construction program following a significant flood event
+      caused by ex-Tropical Cyclone Debbie in which 247mm of rain fell in one
+      day, to deliver the project on budget and one month ahead of schedule. 
 
-      * 1,400 lm of RCPA s
+      * Implementation of complex traffic staging and management on the Mount
+      Lindesay Highway. 
 
-      * 170 lm of Box Culverts
-
-      * 900m3 of Culvert Bases and Aprons
-
-      * 150m3 of Wing Walls and Head Walls
-
-      * 3 Span Bridge Over Spring Creek
-
-      * 26 Precast Pre-Stressed Concrete Piles
-
-      * 80m3 of Concrete in Bridge Sub-Structure
-
-      * 57 Pre-Stressed Concrete Deck and Kerb Units
-
-      * Post Tensioning
-
-      * Complex Earthworks for Temporary works for ground stability including
-      sheet piles
-
-      * Complex Formwork to Cantilever and Support the Headstock Falsework
-
-      * Complex Environmental Management to construct the Bridge over an
-      Environmental No-Go Zone
-
-      * Construction under Traffic of two tie-ins
-
-      * Complex Staging of Construction Works
-
-      * Multiple Traffic Alignment changes
-
-      * Management of 25,000 VPD at each tie-in
-
-      * Street Lighting
-
-      * Traffic signals
-
-      * ITS
-
-      *   * Realignment of the existing Mount Lindesay Highway from the
-      intersection of Brisbane Street and Helen Street (northern end) to
-      Beaudesert – Boonah Road (Bromelton Street) (southern end);
-        * Construction under traffic of two tie-ins;
-        * Upgrading of Beaudesert-Boonah Road from St Mary’s School to Lupton Road;
-        * Construction of significant drainage structures;
-        * Construction of a three-span bridge within a highly environmentally sensitive area.
+      * Project area classified as a Category 5 - High Risk for Cultural
+      Heritage finds, resulting in dedicated management procedures incorporated
+      into the works and environmental managmeent planning.
   - title: images
     content: |-
       ![](https://ucarecdn.com/dede8d1e-d9bc-4dc7-bf8a-f70c1e5b3121/)
