@@ -13,7 +13,7 @@ intro:
 
     Our projects range from $2 million to $150 million and we engage through
     several contracting methods, including design and construction, schedule of
-    rates/bill of quantities, lump sum, joint ventures and alliancing. 
+    rates/bill of quantities, lump sum and joint ventures. 
 
 
     SEE Civil adopts an integrated approach to project delivery, utilising the
