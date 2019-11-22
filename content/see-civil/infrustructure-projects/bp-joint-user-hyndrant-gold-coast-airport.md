@@ -15,16 +15,12 @@ accordion:
       * Construction of fuel farm for BP including construction of roads and
       manoeuvring areas, bases for fuel tanks and other infrastructure.
 
-      * Road Name – BP JUHI, Gold Coast Airport
-
       * Pavement – heavy duty pavement construction to accommodate fuel tanker
       movements
 
       * Installation of electrical and other services
 
       * Piling works for capping slabs for tanks
-
-      * Area 5,000m2
 
       * Stormwater construction
 
