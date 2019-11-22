@@ -21,7 +21,9 @@ content: >-
   immunity, including a three-span (51 metres) bridge over Spring Creek and
   major multi-cell drainage structures.
 videoSection:
-  title: ''
+  imageOverlay: 'https://ucarecdn.com/33b16016-1dde-4ddc-a7fb-0d39fa5ae980/'
+  title: Flyover - Beaudesert Town Centre Bypass
+  video: 'https://vimeo.com/374817472'
 accordion:
   - title: Project Scope –
     content: >-
