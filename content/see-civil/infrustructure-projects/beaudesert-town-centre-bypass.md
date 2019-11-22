@@ -23,10 +23,7 @@ content: >-
 videoSection:
   imageOverlay: 'https://ucarecdn.com/33b16016-1dde-4ddc-a7fb-0d39fa5ae980/'
   title: Flyover - Beaudesert Town Centre Bypass
-  video: >-
-    <iframe src="https://player.vimeo.com/video/374817472" width="640"
-    height="360" frameborder="0" allow="autoplay; fullscreen"
-    allowfullscreen></iframe>
+  video: '374817472'
 accordion:
   - title: Project Scope –
     content: >-
