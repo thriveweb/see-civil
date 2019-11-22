@@ -10,7 +10,10 @@ specs: |-
   * Client - Department of Transport and Main Roads
 date: 2014-09-30T04:32:15.019Z
 projectstatus: completed
-content: "Description of Works –\r\n\n* Traffic Management\r\n* Earthworks\r\n* Drainage works\r\n* Pavement works\r\n* Foamed bitumen pavement stabilisation\r\n* Bitumen surfacing"
+content: >-
+  The Bruce Highway Feluga Road to Broderick Road project involved the
+  duplication of the Bruce Highway to accomodate separated dual overtaking
+  lanes.
 videoSection:
   title: ''
 accordion:
