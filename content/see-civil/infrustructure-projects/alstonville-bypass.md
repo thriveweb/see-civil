@@ -7,7 +7,7 @@ specs: |-
   * Location - Alstonville, NSW
   * Completion Date - 2010
   * Value - $44 million
-  * Client - Roads and Maritime
+  * Client - Roads and Maritime Services
 date: 2010-07-22T03:49:03.141Z
 projectstatus: completed
 content: >-
