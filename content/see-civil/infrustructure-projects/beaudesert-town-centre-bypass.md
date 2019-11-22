@@ -25,7 +25,7 @@ videoSection:
   title: Flyover - Beaudesert Town Centre Bypass
   video: '374817472'
 accordion:
-  - title: Project Scope –
+  - title: Project Scope
     content: >-
       * 20,000m3 of onsite excavation
 
@@ -88,6 +88,15 @@ accordion:
         * Upgrading of Beaudesert-Boonah Road from St Mary’s School to Lupton Road;
         * Construction of significant drainage structures;
         * Construction of a three-span bridge within a highly environmentally sensitive area.
+  - title: images
+    content: |-
+      ![](https://ucarecdn.com/dede8d1e-d9bc-4dc7-bf8a-f70c1e5b3121/)
+
+      ![](https://ucarecdn.com/13dcdfc7-12ee-4d24-a137-c7b1981baf19/)
+
+      ![](https://ucarecdn.com/11062546-0431-4a9b-91fd-0924e5ef9a98/)
+
+      ![](https://ucarecdn.com/692a1b6f-5f7c-4f69-98f9-973f754cca1e/)
 cta:
   buttonText: ''
   buttonUrl: ''
