@@ -43,6 +43,7 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  title: Alstonville Bypass | SEE Civil project
 ---
 
