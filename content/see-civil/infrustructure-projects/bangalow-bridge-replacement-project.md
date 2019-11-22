@@ -34,10 +34,14 @@ accordion:
   - title: Scope of works
     content: "* ​Management of existing overhead power (two bridge sites) and existing Telstra services (three bridge sites) including some relocation.\r\n* Traffic control including full long-term closure (12 weeks) at most bridge sites.\r\n* Environmental controls including flora and fauna management and erosion and sediment control.\r\n* Clearing and grubbing (and disposal) at each bridge site, including minimisation of clearing limits and impacts where possible.\r\n* Earthworks to construction bridge accesses, abutments and temporary launch platforms.\r\n* Construction of slope stabilisation, foundations for bridge launch, foundations for permanent bridge, abutments and scour protection.\r\n* Dismantle and salvage existing timber bridges and existing steel bridge to a nominated location.\r\n* Assembly, launching, installation and securing of modular steel bridges including barrier rails, bridge decks and surface treatments. ​\r\n* Construction of retaining and short ramp ledge support walls.\r\n* Construction​ of approach roads earthworks, pavement works and seal."
   - title: Images
-    content: |-
-      ![](https://ucarecdn.com/8fc432e6-ba95-4046-badc-a1e0ab7fb822/)
+    content: >-
+      ![Bridge lowering falsework at James Creek bridge
+      ](https://ucarecdn.com/8fc432e6-ba95-4046-badc-a1e0ab7fb822/ "James Creek
+      Brisge - lowering falsework ")
+
 
       ![]()
+
 
       ![]()
 cta:
