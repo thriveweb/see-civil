@@ -100,6 +100,11 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil constructed the Beaudesert Town Cetre Bypass project in 2017. The
+    Beaudesert Bypass included earthworks, drainage, bridge construction and
+    pavements. 
+  title: Beaudesert Bypass | SEE Civil project
 ---
 
