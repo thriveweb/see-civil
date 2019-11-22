@@ -2,7 +2,7 @@
 template: SingleProject
 title: Alstonville Bypass
 featuredImage: >-
-  https://ucarecdn.com/cd8a2b40-5f2e-46e3-a53c-b2fe6a3d16c2/-/preview/-/enhance/50/
+  https://ucarecdn.com/cd8a2b40-5f2e-46e3-a53c-b2fe6a3d16c2/-/crop/1024x448/0,184/-/preview/-/enhance/50/
 specs: |-
   * Location - Alstonville, NSW
   * Completion Date - 2010
