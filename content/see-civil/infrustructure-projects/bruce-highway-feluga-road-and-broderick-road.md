@@ -12,8 +12,8 @@ date: 2014-09-30T04:32:15.019Z
 projectstatus: completed
 content: >-
   The Bruce Highway Feluga Road to Broderick Road project involved the
-  duplication of the Bruce Highway to accomodate separated dual overtaking
-  lanes.
+  duplication of approximately 2.5 kilometres of the highway to accomodate
+  separated dual overtaking lanes.
 videoSection:
   title: ''
 accordion:
