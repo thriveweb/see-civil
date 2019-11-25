@@ -64,6 +64,10 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil undertook works to build new overtaking lanes between Feluga Road
+    and Broderick Road on the Bruce Highway near Tully in Far North Queensland. 
+  title: Bruce Highway upgrade - Feluga Road to Broderick Road | SEE Civil project
 ---
 
