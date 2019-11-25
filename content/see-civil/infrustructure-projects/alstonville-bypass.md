@@ -44,6 +44,9 @@ cta:
   buttonText: ''
   buttonUrl: ''
 meta:
+  description: >-
+    SEE Civil was part of the construction of the Alstonville Bypass
+    construction project for Roads and Maritime Services (RMS). 
   title: Alstonville Bypass | SEE Civil project
 ---
 
