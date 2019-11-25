@@ -60,6 +60,10 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil completed a construction project at the Gold Coast Airport to
+    deliver a new Joint User Hydrant Infrastructure (JUHI) facility for BP. 
+  title: GCAL BP JUHI | SEE Civil project
 ---
 
