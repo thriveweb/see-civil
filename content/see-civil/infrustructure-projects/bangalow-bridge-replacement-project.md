@@ -51,6 +51,10 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil replaced five bridges in the Byron Shire, outside Bangalow, using
+    modular steel bridges (Bailey bridges). 
+  title: Bangalow Bridge Replacement | SEE Civil project
 ---
 
