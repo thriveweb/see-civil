@@ -32,6 +32,10 @@ accordion:
       general fill material to the project via truck and dogs. This equated to
       more than 1000 truck movements made without incident. 
 
+      * Installation of a 300mm, fabric-wrapped drainage blanket for the entire
+      length of the project. This design feature was incorporated due to the
+      poor condition of subgrades along the project alignment. 
+
       * Construction of drainage infrastructure including 6 individual culvert
       structures, using 680 individual pre-cast culvert units. The largest
       culvert was a 12 span, 32 metre wide structure. 
@@ -42,6 +46,8 @@ accordion:
 
       * Construction of new road pavements including a 250mm Foam Bitumen
       stabilised base layer.
+  - title: IMAGES
+    content: '![]()'
 cta:
   buttonText: ''
   buttonUrl: ''
