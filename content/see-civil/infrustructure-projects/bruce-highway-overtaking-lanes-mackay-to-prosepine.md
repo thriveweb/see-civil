@@ -10,12 +10,16 @@ specs: |-
   * Client - Department of Transport and Main Roads
 date: 2013-06-30T04:21:05.544Z
 projectstatus: completed
-content: "Description of Works –\r\n\n* 5km of new pavement reconstruction between along the Bruce Highway including road widening and shoulder widening to accommodate four new overtaking lanes.\r\n* Upgrade existing stormwater culverts and structures"
+content: >-
+  The Bruce Highway Overtaking Lanes - Mackay to Prosepine project involved the
+  construction of 5 kilometres of new pavements as well as upgrades to
+  stromwater infrastructure adjacent to the Bruce Highway between Mackay and
+  Prosepine.
 videoSection:
   title: ''
 accordion:
-  - title: Special features
-    content: "* Cement Stabilised Pavements\r\n* Stabilised Subgrades\r\n* Culvert Reconstructions\r\n* Live traffic conditions with high percentage heavy vehicles\r\n* Works undertaken and managed partly in the tropical wet season\r\n* Ground water and soft soils present"
+  - title: Scope of Works
+    content: '*'
 cta:
   buttonText: ''
   buttonUrl: ''
