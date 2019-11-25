@@ -50,7 +50,10 @@ cta:
   buttonText: ''
   buttonUrl: ''
 meta:
-  description: bayshore drive roundabout construction byron bay
+  description: >-
+    SEE Civil completed a construction project of a new roundabout on Ewingsdale
+    Road in Byron Bay. The roundabout provides safe and efficient access to the
+    busy Byron Arts and Industrial Estate. 
   title: Bayshore Drive Roundabout SEE Civil project
 ---
 
