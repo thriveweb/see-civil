@@ -27,6 +27,9 @@ cta:
   buttonText: ''
   buttonUrl: ''
 meta:
-  title: Curtis Island Eastern Perimeter
+  description: >-
+    SEE Civil was appointed by Bechtel to undertake construction works for their
+    Eastern Perimeter Ditch Culvert on Curtis Island. 
+  title: Curtis Island Eastern Perimeter Ditch Culvert | SEE Civil
 ---
 
