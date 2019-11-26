@@ -17,6 +17,11 @@ content: >-
   construction of a new local road. The works are being undertaken adjacent to
   the Westfield Coomera construction site on both sides of Foxwell Road and will
   provide additional capacity around the new shopping centre.
+
+
+
+
+  Coomera Activity Centre ($9.48 million)
 videoSection:
   title: SEE Civil - Foxwell Road and Coomera Activity Centre Aerial video
   video: '375565534'
