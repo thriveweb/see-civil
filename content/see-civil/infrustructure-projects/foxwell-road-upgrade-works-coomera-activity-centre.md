@@ -22,7 +22,33 @@ videoSection:
   video: '375565534'
 accordion:
   - title: Scope of works
-    content: "* Widening of 750 metres of Foxwell Road to two lanes in each direction, between Railway Road and the Old Pacific Highway\r\n* Widening of approximately 640 metres of Railway Road\r\n* Construction of a left-turning lane from Railway Road to Foxwell Road, including reclaiming and providing earth retaining for a portion of the existing Queensland Rail carpark\r\n* Construction of a new local road (Creek Road) providing additional access from Foxwell Road to the new Westfield Coomera shopping centre\r\n* Significant service relocation works including gas, sewer, communications, water and high voltage power\r\n* Extension of a 7-cell culvert to facilitate road widening\r\n* Installation of new drainage infrastructure, diagonally across the Railway and Foxwell Roads intersection\r\n* Complex traffic staging and switches to accommodate construction activities\r\n* Significant liaison with various stakeholders including the shopping centre developer, Queensland Rail, Gold Coast City Council and various utility providers.\r\n\nMore SEE Civil infrastructure projects\r\n\nMore about the Coomera Town Centre Master Planned Area & Westfield Coomera"
+    content: >-
+      * Widening of 750 metres of Foxwell Road to two lanes in each direction,
+      between Railway Road and the Old Pacific Highway
+
+      * Widening of approximately 640 metres of Railway Road
+
+      * Construction of a left-turning lane from Railway Road to Foxwell Road,
+      including reclaiming and providing earth retaining for a portion of the
+      existing Queensland Rail carpark
+
+      * Construction of a new local road (Creek Road) providing additional
+      access from Foxwell Road to the new Westfield Coomera shopping centre
+
+      * Significant service relocation works including gas, sewer,
+      communications, water and high voltage power
+
+      * Extension of a 7-cell culvert to facilitate road widening
+
+      * Installation of new drainage infrastructure, diagonally across the
+      Railway and Foxwell Roads intersection
+
+      * Complex traffic staging and switches to accommodate construction
+      activities
+
+      * Significant liaison with various stakeholders including the shopping
+      centre developer, Queensland Rail, Gold Coast City Council and various
+      utility providers.
 cta:
   buttonText: ''
   buttonUrl: ''
