@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Curtis Island - Eastern Perimetre Ditch Culvert
+title: Curtis Island - Eastern Perimeter Ditch Culvert
 featuredImage: >-
   https://ucarecdn.com/2cd9e1dd-c886-4af5-b14c-bab0af1aec99/-/preview/-/enhance/50/
 specs: |-
@@ -26,6 +26,7 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  title: Curtis Island Eastern Perimeter
 ---
 
