@@ -79,6 +79,16 @@ accordion:
       * Testing and comissioning of the new rising main and pump station
       including a full as constructed survey and prepartion of user and
       maintenance manuals.
+  - title: IMAGES
+    content: >-
+      ![A new roundabout was constructed on Ewginsdale
+      Road](https://ucarecdn.com/7d831a5e-eaa5-4100-8be6-fa8de4d37af9/
+      "Completed concrete roundabout on Ewignsdale Road ")
+
+
+      ![Works completed for underground emergency storage water
+      tanks](https://ucarecdn.com/423a7840-dab3-4487-812e-3e23c2930617/
+      "Completed works as part of the Pump Station and Rising Main package ")
 cta:
   buttonText: ''
   buttonUrl: ''
