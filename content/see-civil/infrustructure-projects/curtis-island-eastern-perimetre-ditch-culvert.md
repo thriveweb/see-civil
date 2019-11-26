@@ -30,6 +30,17 @@ accordion:
       "Formwork for insitu culvert structures ")
 
 
+      ![Pre-cast and cast insitu culvert portions were installed in the drain.
+      ](https://ucarecdn.com/2025fa26-e036-410f-943d-8accab25629d/ "Cast in-situ
+      headwall under construction ")
+
+
+      ![Ditch culvert structures were deep, access to and fromt he culvert site
+      needed to be carefully managed.
+      ](https://ucarecdn.com/c71320ee-a3b0-4698-bdd4-9b08d9db12a0/ "Culvert
+      pours in the base of the perimeter ditch. ")
+
+
       ![Deep excavations were required in the existing perimeter
       culvert](https://ucarecdn.com/aab808ac-1b13-49ac-a79c-5a8ec7a856fc/
       "Curtis Island Perimeter Ditch Culvert")
