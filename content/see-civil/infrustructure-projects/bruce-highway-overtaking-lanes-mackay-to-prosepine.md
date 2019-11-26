@@ -11,18 +11,46 @@ specs: |-
 date: 2013-06-30T04:21:05.544Z
 projectstatus: completed
 content: >-
-  The Bruce Highway Overtaking Lanes - Mackay to Prosepine project involved the
-  construction of 5 kilometres of new pavements as well as upgrades to
-  stromwater infrastructure adjacent to the Bruce Highway between Mackay and
-  Prosepine.
+  The Bruce Highway Overtaking Lanes - Mackay to Prosepine project involved
+  widening of road shoulders and reconstruction of pavement formations to
+  accomodate three new overtaking lanes on the highway. The project involved
+  reconstruction of around 5 kilometres of highway standard pavements.
 videoSection:
   title: ''
+contentSecondary: ''
 accordion:
   - title: Scope of Works
-    content: '*'
+    content: >-
+      * Earthworks for construction including import and placement of fill
+      materials. 
+
+      * Construction of a geotextile strengthened subgrade 
+
+      * Culvert construction within waterways
+
+      * Traffi management of the Bruce Highway including considerations for the
+      high percentage of heavy vehicles. 
+
+      * Works managed through the tropical wet season.
+  - title: IMAGES
+    content: >-
+      ![Looking northbound along the Bruce Highway on the Mackay to Prosepine
+      overtaking lanes
+      project](https://ucarecdn.com/ef9ac2ef-99e0-414b-9a4e-c23728b080bb/
+      "Mackay to Prosepine Bruce Highway Upgrade")
+
+
+      ![Looking southbound on the Bruce Highway upgrade Mackay to Propsepine
+      project](https://ucarecdn.com/733e6f65-10c5-440c-ae3d-59a92aecf635/ "Bruce
+      Highway - Mackay to Prosepine overtaking lanes project")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil undertook a Bruce Highway upgrade project - widening the highway
+    in three locations between Mackay and Prosepine to accomodate new overtaking
+    lanes. 
+  title: Mackay to Prosepine - Bruce Highway Upgrade | SEE Civil Project
 ---
 
