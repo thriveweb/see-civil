@@ -28,7 +28,7 @@ accordion:
 
       * Culvert construction within waterways
 
-      * Traffi management of the Bruce Highway including considerations for the
+      * Traffic management of the Bruce Highway including considerations for the
       high percentage of heavy vehicles. 
 
       * Works managed through the tropical wet season.
