@@ -46,9 +46,32 @@ accordion:
 
       * Stringent environmental management associated with the works which were
       carried out within the Great Barrier Reef Marine Park.
+  - title: IMAGES
+    content: >-
+      ![All equipment, materials and personnel had to be transported to Curtis
+      Island via barge.
+      ](https://ucarecdn.com/31bf8356-1e5b-427e-bd05-864367b547f1/ "Aerial view
+      of Temporary Accomodation Facility site ")
+
+
+      ![Earthworks and civil infrastructure works were completed before builders
+      installed temporary
+      buildings](https://ucarecdn.com/ecf7957e-f200-4f44-a4cc-73fc2e32fb36/
+      "Civil works ongoing around the temporary accomodation buildings")
+
+
+      ![The temporary accomodation facility could hold up to 1600
+      workers](https://ucarecdn.com/4569fb25-a825-4895-a11b-3eca43a9de34/
+      "Temporary Accomodation Facility after compeltion ")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+  title: ''
+meta:
+  description: >-
+    SEE Civil was engaged to build Bechtel's Curtis Island Temporary Workers
+    Accomodation Facility. At completion the facility held around 1600 temporary
+    workers. 
+  title: Curtis Island Temporary Accomodation Facility | SEE Civil project
 ---
 
