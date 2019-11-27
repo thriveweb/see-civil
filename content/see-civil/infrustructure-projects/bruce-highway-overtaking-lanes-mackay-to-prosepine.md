@@ -32,7 +32,7 @@ accordion:
       high percentage of heavy vehicles. 
 
       * Works managed through the tropical wet season.
-  - title: IMAGES
+  - title: photos
     content: >-
       ![Looking northbound along the Bruce Highway on the Mackay to Prosepine
       overtaking lanes
