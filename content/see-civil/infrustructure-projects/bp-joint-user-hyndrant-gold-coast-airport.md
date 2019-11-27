@@ -42,7 +42,7 @@ accordion:
 
       * Working in a controlled environment as part of BP Australia’s safety and
       environmental systems.
-  - title: IMAGES
+  - title: photos
     content: >-
       ![Aerial view of BP JUHI project under
       construction](https://ucarecdn.com/e857c776-1245-4379-b776-ff28198d13a3/
