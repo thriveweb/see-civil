@@ -46,7 +46,7 @@ accordion:
 
       * Construction of new road pavements including a 250mm Foam Bitumen
       stabilised base layer.
-  - title: IMAGES
+  - title: photos
     content: >-
       ![Fabric-wrapped drainage rock blanket on the Feluga Road overtaking lanes
       project](https://ucarecdn.com/74da0217-47c8-42b4-8a54-70fd3923888c/
