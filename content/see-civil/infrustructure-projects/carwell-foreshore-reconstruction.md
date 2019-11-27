@@ -87,7 +87,7 @@ accordion:
 
       * Design and construction of car parking facilities, irrigation
       reticulation and park lighting.
-  - title: IMAGES
+  - title: photos
     content: >-
       ![An excavator placing rocks to construct the new rock
       seawall](https://ucarecdn.com/786297d9-b258-4763-a56c-c59c28df55a4/ "Rock
