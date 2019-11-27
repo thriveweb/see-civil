@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/9e874221-6840-4e23-ae38-eb70a77ef222/-/preview/-/enhance/50/
 specs: |-
   * Location - Coolangatta, QLD
-  * Completion Date - 
+  * Completion Date - March 2019 
   * Value - $10 Million
   * Client - Gold Coast Airport Corporation
 date: 2019-03-01T03:58:56.718Z
