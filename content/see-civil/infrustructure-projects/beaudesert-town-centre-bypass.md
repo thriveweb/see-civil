@@ -56,7 +56,7 @@ accordion:
       * Project area classified as a Category 5 - High Risk for Cultural
       Heritage finds, resulting in dedicated management procedures incorporated
       into the works and environmental managmeent planning.
-  - title: images
+  - title: photos
     content: |-
       ![](https://ucarecdn.com/dede8d1e-d9bc-4dc7-bf8a-f70c1e5b3121/)
 
