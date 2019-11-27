@@ -10,12 +10,28 @@ specs: |-
   * Client - Gold Coast Airport Corporation
 date: 2015-04-30T04:34:08.201Z
 projectstatus: completed
-content: "Description of Works –\r\n\n* Location of services\r\n* Installation of storm water drainage\r\n* Installation of fuel mains\r\n* Hydrants and valves\r\n* Pavement works\r\n* Concrete storm water drain construction\r\n* Electrical works\r\n* Asphaltic concrete and line marking"
+content: >-
+  SEE Civil constructed the northern aircraft apron and widened Taxiway Echo as
+  well as facilitating the installation of new refuelling infrastructure at this
+  location. The project required complex work staging to ensure works did not
+  impact on normal airport operations. SEE Civil was also required to liaise
+  heavily between their client (the airport), Caltex as the refuelling
+  infrastructrue owner and Caltex's preferred mechanical and electrical
+  subcontractor (Lendlease) to facilitate the programming of the works required.
 videoSection:
   title: ''
 accordion:
-  - title: Special Features
-    content: "* Supply and installation of storm water interceptors\r\n* Construction of fine crushed rock pavement layers"
+  - title: Scope of Works
+    content: |-
+      * 
+      * Location of services
+      * Installation of storm water drainage
+      * Installation of fuel mains
+      * Hydrants and valves
+      * Pavement works
+      * Concrete storm water drain construction
+      * Electrical works
+      * Asphaltic concrete and line marking
 cta:
   buttonText: ''
   buttonUrl: ''
