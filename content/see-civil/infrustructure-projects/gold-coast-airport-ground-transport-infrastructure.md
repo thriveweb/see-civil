@@ -101,6 +101,12 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil constructed new roads and car parking areas and major drainage
+    structures as part of the Ground Transport Infrastructure project for the
+    Gold Coast Airport. Works also upgraded the main road into the airport,
+    Terminal Drive. 
+  title: Gold Coast Airport - Ground Transport Infrastructure | SEE Civil project
 ---
 
