@@ -22,16 +22,7 @@ videoSection:
   title: ''
 accordion:
   - title: Scope of Works
-    content: |-
-      * 
-      * Location of services
-      * Installation of storm water drainage
-      * Installation of fuel mains
-      * Hydrants and valves
-      * Pavement works
-      * Concrete storm water drain construction
-      * Electrical works
-      * Asphaltic concrete and line marking
+    content: '*'
 cta:
   buttonText: ''
   buttonUrl: ''
