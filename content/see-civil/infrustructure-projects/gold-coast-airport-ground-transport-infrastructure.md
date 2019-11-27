@@ -5,22 +5,32 @@ featuredImage: >-
   https://ucarecdn.com/9e874221-6840-4e23-ae38-eb70a77ef222/-/preview/-/enhance/50/
 specs: |-
   * Location - Coolangatta, QLD
+  * Completion Date - 
   * Value - $10 Million
   * Client - Gold Coast Airport Corporation
-date: 2019-02-28T03:58:56.718Z
+date: 2019-03-01T03:58:56.718Z
 projectstatus: completed
 content: >-
-  The ground transport infrastructure (GTI) project at the Gold Coast Airport
-  involves the diversion and filling of existing stormwater features to
-  accommodate future construction. When complete, the GTI project will allow for
-  roads, taxi ranks and bus parking areas to be constructed at the airport.
+  The Ground Transport Infrastructure (GTI) project undertaken at the Gold Coast
+  Airport involved upgrades to existing and construction of new roads, taxi
+  ranks, bus parking and car parking areas. A key scope of the works was
+  permanently diverting, then backfilling a significant drainage area to
+  facilitate future airport upgrades including the construction of a new hotel.
 
 
-  As principal contractor, SEE Civil is responsible for the overall
-  Environmental, Traffic and Health and Safety Management requirements of the
-  site.
+  As Principal Contractor, SEE Civil was responsible for the overall
+  environmental, safety and traffic management for the site. 
+
+
+  SEE Civil has delivered many projects at the Gold Coast Airport, become a
+  trusted contractor for the Gold Coast Airport Corporation. This was evidenced
+  on the GTI project when SEE Civil assisted with progressive desing development
+  of works packages following initial award. The SEE Civil team also developed
+  construction methods that addressed acid sulfate soil and PFAS soil issues as
+  well as delivering time and cost efficiencies for the project.
 videoSection:
   title: ''
+  video: '307147056'
 accordion:
   - title: 'Scope of works '
     content: >-
