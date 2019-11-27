@@ -6,30 +6,36 @@ featuredImage: >-
 specs: |-
   * Location - Coomera, QLD
   * Completion Date - 2019
-  * Value - $29 Million
+  * Value - $29 Million 
   * Client - Scentre
 date: 2018-10-22T03:54:04.694Z
 projectstatus: completed
 content: >-
-  As part of the Coomera Town Centre Master Planned Area, SEE Civil is
-  undertaking road improvement works on Foxwell Road at Coomera. Works include
-  widening a section of Foxwell Road, improvements to nearby local roads and the
-  construction of a new local road. The works are being undertaken adjacent to
-  the Westfield Coomera construction site on both sides of Foxwell Road and will
-  provide additional capacity around the new shopping centre.
+  SEE Civil undertook the Foxwell Road upgrade and Coomera Activity Centre
+  projects as part of the construction of the Coomera Town Centre master planned
+  area. 
 
 
+  **Foxwell Road** works including widening a section of Foxwell Road and
+  improvements to and construction of new local roads. Foxwell Road was upgraded
+  to provide additional capacity around the new Coomera shopping centre and
+  improve traffic flows to and from the Pacific Motorway in this area.  
 
 
-  Coomera Activity Centre ($9.48 million)
+  The **Coomera Activity Centre** project included the bulk and detailed
+  earthworks and civil works for a future recreational parkland area between the
+  Pacific Motorway and the Coomera Train Station.
 videoSection:
   title: SEE Civil - Foxwell Road and Coomera Activity Centre Aerial video
   video: '375565534'
 accordion:
   - title: Scope of works
     content: >-
+      **Foxwell Road upgrade:** 
+
+
       * Widening of 750 metres of Foxwell Road to two lanes in each direction,
-      between Railway Road and the Old Pacific Highway
+      between Railway Road and the Pacific Motorway exit
 
       * Widening of approximately 640 metres of Railway Road
 
@@ -53,7 +59,25 @@ accordion:
 
       * Significant liaison with various stakeholders including the shopping
       centre developer, Queensland Rail, Gold Coast City Council and various
-      utility providers.
+      utility providers
+
+
+      **Coomera Activity Centre**
+
+
+      * Bulk and detailed earthworks for the 14 hectare site
+
+      * Construction of a signifcant drainage structure and channel at the
+      northern end of the site using pre-cast and cast-insitu concrete elements 
+
+      * Cut over of Oakey Creek into full creek diversion 
+
+      * Construction of internal local roads and pedestrian and shared user path
+      ways
+
+      * Installation of all service conduits and pits 
+
+      * Hard and soft landscaping assocaited with future parklands works.
 cta:
   buttonText: ''
   buttonUrl: ''
