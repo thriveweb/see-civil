@@ -78,9 +78,32 @@ accordion:
       * Installation of all service conduits and pits 
 
       * Hard and soft landscaping assocaited with future parklands works.
+  - title: PHOTOS
+    content: >-
+      ![The Foxwell Road and Coomera Activity Centre projects were undertaken
+      concurrently on either side of the Westfield Coomera shopping
+      centre](https://ucarecdn.com/8edc48ad-b260-4352-90d9-8f7e10fd7aeb/ "Aerial
+      view of the Foxwell Road and Coomera Activity Centre projects")
+
+
+      ![Works were in close proximity to the Coomera Train
+      station](https://ucarecdn.com/f096c8d5-df32-4d62-9c76-a9f265b4832f/
+      "Aerial view of works on Railway Road and near the Coomera Train Station.
+      ")
+
+
+      ![The Coomera Activity Centre included bulk and detailed earthworks for a
+      future parkland/recreation area
+      project](https://ucarecdn.com/514efd5e-6588-4062-a45e-f107579c1335/
+      "Aerial view of Coomera Activity Centre works")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil constructed the Foxwell Road upgrade project and Coomera Activity
+    Centre project as part of the overall construction of the Coomera Town
+    Centre Master Planned Area. 
+  title: Foxwell Road upgrade | Coomera Activity Centre | SEE Civil project
 ---
 
