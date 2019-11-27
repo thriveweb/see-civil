@@ -30,6 +30,18 @@ accordion:
       * SEE Civil also researched and identified an appropriate local quarry
       site and negotiate with quarry owners to eastablish a third-party
       operation within their quarry to produce rock for the project.
+  - title: PHOTOS
+    content: >-
+      ![](https://ucarecdn.com/88cb290a-9048-431f-88a7-2932b65e8628/ "Aerial
+      view of rock")
+
+
+      ![](https://ucarecdn.com/c380993d-4f7b-4065-b52c-b07da4da5adb/ "Aerial
+      view")
+
+
+      ![](https://ucarecdn.com/f64500bb-c9eb-4dab-a1fa-09478452e735/ "Trommel in
+      production")
 cta:
   buttonText: ''
   buttonUrl: ''
