@@ -76,6 +76,11 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil undertook a Joint User Hydrant Infrastructure (JUHI) expansion
+    project for the Gold Coast Airport to increase capacity prior to the 2018
+    Gold Coast Commonwealth Games. 
+  title: Gold Coast Airport - JUHI | SEE Civil Project
 ---
 
