@@ -22,10 +22,47 @@ videoSection:
   title: ''
 accordion:
   - title: Scope of Works
-    content: '*'
+    content: >-
+      * Supply and installation of three aquaceptor gross pollutant traps
+
+      * Construction of asphalt and concrete pavements to airfield
+      specifications 
+
+      * Location of and works around existing services including a live aircraft
+      fuel main
+
+      * Installation of stormwater drainage including connection of 1350mm
+      diametre storm water pipes and a 400 m long concrete lined stormwater
+      drain to the aquceptor system. 
+
+      * Line marking on the aircraft apron and taxiway 
+
+      * Relocation of existing and installation of new flood lighting and
+      airfield ground lighting
+  - title: PHOTOS
+    content: >-
+      ![Construction works were undertaken on the northern apron and Taxiway
+      Echo at the Gold Coast
+      Airport](https://ucarecdn.com/5783abab-ad41-4a20-9638-a61fc95a1b1d/ "Gold
+      Coast Airport - Taxiway echo widening")
+
+
+      ![The taxiway Echo widening was constructed while the taxiway remained
+      operational](https://ucarecdn.com/b7c0f55b-0fa7-43e4-b745-358e1da12109/
+      "Taxiway Echo widening works - Gold Coast Airport")
+
+
+      ![Heavy duty asphalt pavements were required in the airside
+      environment](https://ucarecdn.com/e5aa25a5-c953-4f08-b1c8-930d50d4151a/
+      "Heavy duty asphalt pavements for the Taxiway Echo widening")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil constructed the northern aircraft apron and widened Taxiway Echo
+    as well as facilitating the installation of new refuelling infrastructure at
+    this location.
+  title: Gold Coast Airport Taxiway Echo and Northern Apron works | SEE Civil project
 ---
 
