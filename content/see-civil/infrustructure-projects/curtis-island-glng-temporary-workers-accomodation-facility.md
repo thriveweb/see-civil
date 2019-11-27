@@ -46,7 +46,7 @@ accordion:
 
       * Stringent environmental management associated with the works which were
       carried out within the Great Barrier Reef Marine Park.
-  - title: IMAGES
+  - title: photos
     content: >-
       ![All equipment, materials and personnel had to be transported to Curtis
       Island via barge.
