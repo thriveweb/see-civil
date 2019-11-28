@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Gold Coast Airport - Northern Apron and Taxiway Echo Widening
+title: Gold Coast Airport Northern Apron and Taxiway Echo Widening
 featuredImage: >-
   https://ucarecdn.com/a7946ce8-6745-43bd-a8e7-cd489804562c/-/preview/-/enhance/50/
 specs: |-
