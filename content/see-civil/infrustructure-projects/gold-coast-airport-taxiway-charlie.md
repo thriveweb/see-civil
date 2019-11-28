@@ -4,7 +4,7 @@ title: Gold Coast Airport Taxiway Charlie
 featuredImage: 'https://ucarecdn.com/e0451387-9752-40a4-99d1-aaadc3209113/'
 specs: |-
   * Location - Coolangatta, QLD
-  * Completion Date - 2018
+  * Completion Date - November, 2018
   * Value - $11 Million
   * Client - Gold Coast Airport Corporation
 date: 2018-11-10T03:47:10.744Z
@@ -21,15 +21,7 @@ content: >-
   treadt rock base course was required as part of the project.
 videoSection:
   title: ''
-contentSecondary: >-
-  ![Taxiway Charlie Aerial view of new
-  pavement](https://ucarecdn.com/a571e69f-698f-4e62-8549-da46a420c9f6/ "Taxiway
-  Charlie Aerial - Gold Coast Airport")
-
-
-  ![Nightworks to place asphalt for the Taxiway Charlie Project
-  ](https://ucarecdn.com/72a8fcc1-3c06-4621-9c4d-69cdad6fd57b/ "Taxiway Charlie
-  night works - Gold Coast Airport")
+contentSecondary: ''
 accordion:
   - title: 'Scope of Works '
     content: >-
@@ -56,13 +48,31 @@ accordion:
       * Close liaison with airport operational and logistical staff to
       successfully completed works during runway and taxiway closures without
       impact to normal airport operations.
+  - title: photos
+    content: >-
+      ![The Taxiway Charlie project involved construction a new piece of
+      pavement linking taxiways at the Gold Coast
+      Airport](https://ucarecdn.com/74f28d9f-af50-4d4c-b6b5-de068ee1006e/
+      "Aerial view of the Taxiway Charlie project, nearing completion")
+
+
+      ![The pavements were built in a secure airside environment requiring
+      dedicated management procedures.
+      ](https://ucarecdn.com/e6e41085-4153-4f69-b960-0a929f101c4e/ "Aerial view
+      of the taxiway charlie project nearing completion")
+
+
+      ![A majority of the asphalt works needed to be undertaken at night when
+      the taxiways could be safely
+      closed.](https://ucarecdn.com/4d78b2bb-dbfe-4f06-8830-35013c5e94ff/
+      "Nightworks for taxiway charlie")
 cta:
   buttonText: ''
   buttonUrl: ''
 meta:
   description: >-
     SEE Civil completed about 450 metres of linking pavement between taxiways at
-    the Gold Coast Airport
-  title: Gold Coast Airport SEE Civil project Taxiway Charlie
+    the Gold Coast Airport. 
+  title: Gold Coast Airport Taxiway Charlie | SEE Civil project
 ---
 
