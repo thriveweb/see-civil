@@ -42,9 +42,35 @@ accordion:
       * Traffic Management on the Pacific Highway under live traffic conditions
 
       * Installation of approximately 5000 square metres of noise barrier walls
+  - title: Photos
+    content: >-
+      ![The Kirkwood Road east interchange roundabout was constructed as part of
+      the project. ](https://ucarecdn.com/c7657aee-f440-4cf9-87e2-14d289792406/
+      "Kirkwood Road east interchange")
+
+
+      ![The extension of Kirkwood Road included the construction of a new off
+      ramp fromt he Pacific Motorway.
+      ](https://ucarecdn.com/090bcdc0-9203-4f5b-a7ad-2dd6b021451d/ "Asphalt
+      construction at Kirkwood Road")
+
+
+      ![The project also involved the construction of significant noise wall to
+      protect the local community from road noise in the future.
+      ](https://ucarecdn.com/220d3f8d-c45b-457b-99e6-d580a13cfb89/ "Construction
+      of a noise wall along the Kirkwood Road off ramp")
+
+
+      ![Other features included a foot bridge and service relocations
+      ](https://ucarecdn.com/b90a2d95-357f-48cc-a819-46d38086138b/ "Placing
+      concrete")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil undertook an upgrade of Kirkwood Road in Tweed Heads on behalf of
+    the Tweed Shire Council. 
+  title: 'Kirkwood Road upgrade | SEE Civil project '
 ---
 
