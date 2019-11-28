@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: 'Gold Coast Airport - Ground Transport Infrastructure '
+title: 'Gold Coast Airport Ground Transport Infrastructure '
 featuredImage: >-
   https://ucarecdn.com/9e874221-6840-4e23-ae38-eb70a77ef222/-/preview/-/enhance/50/
 specs: |-
