@@ -8,7 +8,7 @@ specs: "* Location - Whitsunday Region, QLD\n* Completion Date - 2012\n* Value -
 date: 2012-08-31T04:09:44.134Z
 projectstatus: completed
 content: >-
-  SEE CIvil delivered several road recovery projects under the Natual Disaster
+  SEE Civil delivered several road recovery projects under the Natual Disaster
   Relief and Recovery Arrangements on behalf of the Whitsunday Regional
   Council. 
 
@@ -61,6 +61,11 @@ accordion:
       * Managing traffic and access in a built up Urban environments
 
       * Concrete pavement causeways
+  - title: photos
+    content: |-
+      ![](https://ucarecdn.com/207965d5-d98a-4218-9856-39941b3e5ec4/)
+
+      ![](https://ucarecdn.com/6763e59f-2060-4748-825f-e2deefe97364/)
 cta:
   buttonText: ''
   buttonUrl: ''
