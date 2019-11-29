@@ -5,7 +5,7 @@ businessName: See Group
 title: ''
 logo: 'https://ucarecdn.com/e271a0be-0e31-49e5-b78d-f1f860531fcc/'
 featuredImage: 'https://ucarecdn.com/3c1efb9c-813b-46c6-96cc-3efc134bd9b6/'
-buttonText: Contact Us
+buttonText: Contact us
 buttonUrl: /contact/
 description: >-
   SEE Group is made up of four businesses, SEE Civil, Quarry Solutions, Civil
