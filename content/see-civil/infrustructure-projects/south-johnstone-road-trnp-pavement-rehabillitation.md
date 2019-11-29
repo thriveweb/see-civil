@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: 'South Johnstone Road Pavement Rehabillitation '
+title: 'South Johnstone Road Pavement Rehabilitation '
 featuredImage: >-
   https://ucarecdn.com/de5f5196-6e3a-482c-8a77-a3b4ab6e4254/-/preview/-/enhance/50/
 specs: |-
@@ -13,7 +13,7 @@ projectstatus: completed
 content: >-
   The South Johnstone Road Pavement Rehabilitation project involved localised
   widening, pavement rehabilitation and drainage works on a state significant
-  road, just south of Innifail in far north Queensland. SEE Civil utilised a
+  road, just south of Innisfail in far north Queensland. SEE Civil utilised a
   combination of locally appointed staff and fly-in/fly-out teams to deliver the
   project.
 videoSection:
@@ -33,9 +33,21 @@ accordion:
 
       * Works were completed under live traffic conditions including a high
       percentage (around 25%) of heavy vehicle traffic
+  - title: photos
+    content: |-
+      ![](https://ucarecdn.com/6a25eafd-4e55-4f99-b477-4ab98d7ec3cc/)
+
+      ![](https://ucarecdn.com/d180062e-403e-4090-bc4c-88fbf0013528/)
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    The South Johnstone Road Pavement Rehabilitation project involved localised
+    widening, pavement rehabilitation and drainage works on a state significant
+    road, just south of Innisfail in far north Queensland. SEE Civil utilised a
+    combination of locally appointed staff and fly-in/fly-out teams to deliver
+    the project.
+  title: South Johnstone Road Pavement Rehabilitation | SEE Civil project
 ---
 
