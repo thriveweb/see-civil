@@ -25,6 +25,9 @@ videoSection:
 accordion:
   - title: scope of works
     content: >-
+      * Complex, staged traffic management on the Mount Lindesay Highway and
+      adjacent local roads
+
       * Construction of more than 47,000 square metres of pavements across
       several layers
 
@@ -47,6 +50,24 @@ accordion:
 
       * Disconnection of two local intersections (Maclean Street and Casuarina
       Road) to the Mount Lindesay Highway
+  - title: photos
+    content: >-
+      ![The Crest Road intersection with the Mount Lindesay Highway was
+      reconstructed as part of the
+      project](https://ucarecdn.com/5f08aac5-a347-4850-acb2-2fd9965eccdf/
+      "Reconstruction of Crest Road ")
+
+
+      ![Various road furniture and safety improvements including the
+      installlation of guardrail was undertaken on the Mount Lindesay Highway.
+      ](https://ucarecdn.com/f62806b7-ecc6-48d6-b720-0354ffbcbd61/ "Installation
+      of guardrail adjacent to the Mount Lindesay Highway")
+
+
+      ![The eastern service road was extended to connect Wharf Street to
+      Stockleigh
+      Road](https://ucarecdn.com/c83ca022-813e-4bb0-9cb8-678264c2c2b1/
+      "Construction on the eastern service road")
 cta:
   buttonText: ''
   buttonUrl: ''
