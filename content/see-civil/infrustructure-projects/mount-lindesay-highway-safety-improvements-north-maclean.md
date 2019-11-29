@@ -53,6 +53,14 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil constructed the Mount Lindesay Highway safety improvements project
+    - North Maclean on behalf of the Department of Transport and Main Roads. The
+    works included constructing a new signalised intersection at Greenbank
+    Road. 
+  title: >-
+    Mount Lindesay Highway - North Maclean safety improvements | SEE Civil
+    project
 ---
 
