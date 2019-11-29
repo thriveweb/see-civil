@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: >-
-  Natural Disaster Relief and Rcovery Arrangement (NDRRA) - Whitsunday Regional
+  Natural Disaster Relief and Recovery Arrangement (NDRRA) - Whitsunday Regional
   Council
 featuredImage: 'https://ucarecdn.com/310649f2-7e66-4361-9769-ff201e9b99ff/'
 specs: "* Location - Whitsunday Region, QLD\n* Completion Date - 2012\n* Value - $13 Million\r\n* Client - Whitsunday Regional Council"
