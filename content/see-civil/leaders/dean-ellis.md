@@ -10,7 +10,7 @@ biography: >-
 
 
   He was appointed to his current role at SEE Group's Workplace Health and
-  Safety Manager in June 2016. In this orle, he identifies WHS risks and
+  Safety Manager in June 2016. In this role, he identifies WHS risks and
   opportunities with potential to impact on SEE Group's operations, shape's the
   Group's WHS strategy and culture, liaises with the relevant state and industry
   regulators and provides strategic advice to the Group's senior managers. Dean
