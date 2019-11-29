@@ -43,12 +43,12 @@ accordion:
       the deep lift asphalt.
   - title: photos
     content: >-
-      ![](https://ucarecdn.com/be25eb05-f6e5-405e-ae7f-f971a948740f/ "Dewatering
+      ![](https://ucarecdn.com/f20aab7b-34cc-4c67-8323-78f7fef684dc/ "Dewatering
       works")
 
 
       ![Construction of the new tower
-      road](https://ucarecdn.com/4dc5223b-2378-493f-bd88-963a7ec632a2/
+      road](https://ucarecdn.com/ff59cf2d-7528-48d6-92f9-eed3d1c4c599/
       "Construction of the road to the control tower")
 
 
@@ -58,11 +58,16 @@ accordion:
 
 
       ![Road
-      formation](https://ucarecdn.com/d6c01b29-d5aa-4abb-bde1-1bf666a0735d/
+      formation](https://ucarecdn.com/3e801e5c-53dc-418c-b514-1bd373198e2d/
       "Road formation")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    The Tower Road project undertaken for the Gold Coast airport included the
+    construction of a new access road to the airport's control tower and a new
+    aircraft apron area including the relaignment of several major services.
+  title: Tower Road Gold Coast Airport | SEE Civil project
 ---
 
