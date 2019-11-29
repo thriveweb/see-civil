@@ -4,7 +4,7 @@ title: Westfield North Lakes
 featuredImage: 'https://ucarecdn.com/f61df64f-47a7-492f-9c57-38c31352e67a/'
 specs: |-
   * Location - North Lakes, QLD
-  * Completion Date - 2016
+  * Completion Date - October 2016
   * Value - $4.3 Million
   * Client - Scentre Design and Construction
 date: 2016-10-31T03:37:38.405Z
@@ -26,12 +26,7 @@ content: >-
   SCentre Group to deliver these works.
 videoSection:
   title: ''
-contentSecondary: |-
-  ![](https://ucarecdn.com/d4abcbd1-b4be-4b28-b147-2702b97e5165/)
-
-  ![](https://ucarecdn.com/33a8eed9-cd2b-42e6-a8d0-e45836dcca64/)
-
-  ![](https://ucarecdn.com/07ffdb2a-52b9-4c9a-9949-e259e9371de6/)
+contentSecondary: ''
 accordion:
   - title: 'Scope of Works '
     content: >-
@@ -45,11 +40,29 @@ accordion:
 
       * Upgrades to street lighting and traffic signals including the
       installation of  an overhead steel gantry, delivered under live traffic.
+  - title: photos
+    content: >-
+      ![Works included installation of a large gantry
+      structure](https://ucarecdn.com/a9311c1f-405d-4ecb-8c99-16cffac46542/
+      "Gantry installation complete")
+
+
+      ![A new off ramp was constructed from the motorway onto Anzac
+      Avenue](https://ucarecdn.com/6a5f4f41-bc10-4f3f-bdea-4854d48fefd1/
+      "Off-ramp construction")
+
+
+      ![Construction of pedestrian elements including a
+      footbridge](https://ucarecdn.com/a6c7a3f5-98be-4588-9527-4e9bc61e1e6f/
+      "Construction of pedestrian elements")
 cta:
   buttonText: ''
   buttonUrl: ''
 meta:
-  description: ''
-  title: 'North Lakes upgrade SEE Civil '
+  description: >-
+    The Westfield North Lakes project involved several upgrades to facilitate
+    vehicle and pedestrian movements around Anzac Avenue and the Westfield North
+    Lake Shopping Precinct.
+  title: North Lakes Westfield off ramp upgrade | SEE Civil project
 ---
 
