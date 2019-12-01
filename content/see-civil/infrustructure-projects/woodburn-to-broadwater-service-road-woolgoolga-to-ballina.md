@@ -55,5 +55,13 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
+meta:
+  description: >-
+    As part of the Woolgoolga to Ballina Pacific HIghway upgrade, SEE Civil
+    constructed a new permanent service road between Woodburn and Broadwater in
+    northern New South Wales. 
+  title: >-
+    Woodburn to Broadwater Service Road | SEE Civil project | Woolgoolga to
+    Ballina Pacific Highway upgrade
 ---
 
