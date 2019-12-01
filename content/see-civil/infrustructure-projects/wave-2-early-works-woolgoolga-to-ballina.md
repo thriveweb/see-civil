@@ -44,7 +44,7 @@ cta:
 meta:
   description: >-
     SEE Civil undertook early works between Whytes and Pimlico on the Pacific
-    Highway in prepartion for major Pacific Highway upgrade works. 
+    Highway in preparation for major Pacific Highway upgrade works. 
   title: >-
     Wave 2 Early Works | SEE Civil project  | Woolgoolga to Ballina Pacific
     Highway upgrade
