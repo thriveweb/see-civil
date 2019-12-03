@@ -10,7 +10,19 @@ specs: |-
   * Client - VillaGreen
 date: 2019-04-15T01:21:26.331Z
 projectstatus: completed
-content: "The Covella residential development is a 1500 lot subdivision at Greenbank in Queensland. SEE Civil has completed the first  two stages of a proposed 28 stages as well as infrastructure improvements on Pub Lane, the entrance to the estate.\r\n\nEach stage of the development involved significant cut to fill operations, more than 100 hectares of clearing, service\r\n\ninfrastructure installation and significant local road works.\r\n\nSEE Civil was recently awarded the next stage of development at Covella."
+content: >-
+  The Covella residential development is a 1500 lot subdivision at Greenbank in
+  Queensland. SEE Civil has completed the first  two stages of a proposed 28
+  stages as well as infrastructure improvements on Pub Lane, the entrance to the
+  estate.
+
+
+  Each stage of the development involved significant cut to fill operations,
+  more than 100 hectares of clearing, service infrastructure installation and
+  significant local road works.
+
+
+  SEE Civil was recently awarded the next stage of development at Covella.
 videoSection:
   title: ''
 accordion:
