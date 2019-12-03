@@ -27,7 +27,28 @@ videoSection:
   title: ''
 accordion:
   - title: Scope of Works
-    content: "* More than 46,000m3 of bulk and detailed earthworks\r\n* Placement of more than 16,000m3& of asphalt\r\n* Installation of 2.3 kilometres of stormwater infrastructure\r\n* Installation of 2.8 kilometres of water and 3.4 kilometres of water reticulation\r\n* More than 100 hectares of vegetation clearing, including high-arborist and fauna-spotter-catcher involvement\r\n* Construction and use of a complex network of bio retention basins\r\n* Working around and connecting to an extensive network of live services\r\n* Works undertaken within an identified Fire Ant biosecurity zone, including compliance with all necessary biosecurity regulations\r\n* Extensive and stringent erosion and sediment control measures required throughout the site.\r\n\nMore SEE Civil urban development projects\r\n\nMore about Covella"
+    content: >-
+      * More than 46,000m3 of bulk and detailed earthworks
+
+      * Placement of more than 16,000m3& of asphalt
+
+      * Installation of 2.3 kilometres of stormwater infrastructure
+
+      * Installation of 2.8 kilometres of water and 3.4 kilometres of water
+      reticulation
+
+      * More than 100 hectares of vegetation clearing, including high-arborist
+      and fauna-spotter-catcher involvement
+
+      * Construction and use of a complex network of bio retention basins
+
+      * Working around and connecting to an extensive network of live services
+
+      * Works undertaken within an identified Fire Ant biosecurity zone,
+      including compliance with all necessary biosecurity regulations
+
+      * Extensive and stringent erosion and sediment control measures required
+      throughout the site.
 cta:
   buttonText: ''
   buttonUrl: ''
