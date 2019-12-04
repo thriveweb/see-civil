@@ -1,6 +1,7 @@
 ---
 template: SingleProject
 title: Three Chain Road and Dawson Highway
+featuredImage: 'https://ucarecdn.com/19f623aa-1ea2-4427-b47d-e23be3cfcdd0/'
 specs: |-
   * Location - Moura, Central Queensland
   * Value - $21m
