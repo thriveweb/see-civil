@@ -33,5 +33,11 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
+meta:
+  description: >-
+    SEE Civil is constructing an improved Flood Diversion Channel in South
+    Lismore for the Lismore City Council. The flood diversion channel aims to
+    improve flood mitigation for the city. 
+  title: South Lismore Flood Mitigation project | SEE Civil project
 ---
 
