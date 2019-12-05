@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Lismore Flood Diversion Channel
+title: South Lismore Flood Mitigation Works
 specs: |-
   * Location - Lismore, NSW 
   * Value - $4.3 million 
@@ -12,7 +12,24 @@ videoSection:
   title: ''
 accordion:
   - title: scope of works
-    content: "* Excavate, haul and place roughly 410,000 cubic metres of extracted fill into three fill sites\n* Traffic control including full long-term closure (12 weeks) of Caniaba Street\r\n* Environmental controls including flora and fauna management and erosion and sediment control\r\n* Clearing and grubbing of each extraction cell\r\n* Stripping, stockpiling and re-spreading of topsoil, including hydromulching\r\n* Removal and disposal of five redundant Sewer Rising Main lines\r\n*"
+    content: >-
+      * Excavate, haul and place roughly 410,000 cubic metres of extracted fill
+      into three fill sites
+
+      * Traffic control including full long-term closure (12 weeks) of Caniaba
+      Street
+
+      * Environmental controls including flora and fauna management and erosion
+      and sediment control
+
+      * Clearing and grubbing of each extraction cell
+
+      * Stripping, stockpiling and re-spreading of topsoil, including
+      hydromulching
+
+      * Removal and disposal of five redundant Sewer Rising Main lines
+
+      *
 cta:
   buttonText: ''
   buttonUrl: ''
