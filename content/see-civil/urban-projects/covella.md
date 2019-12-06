@@ -56,12 +56,23 @@ accordion:
       * Extensive and stringent erosion and sediment control measures required
       throughout the site.
   - title: photos
-    content: |-
-      ![]()
+    content: >-
+      ![Covella is a residential estate in Greenbank Queensland.
+      ](https://ucarecdn.com/c25d53b8-c368-4891-b7a9-54ac8495f473/ "Aerial view
+      of Covella")
 
-      ![]()
 
-      ![]()
+      ![SEE Civil's works including construction of a 7 metre deep sewer
+      line](https://ucarecdn.com/e9b281c9-50f9-4380-a24f-543e2083d37d/ "Sewer
+      construction at Covella")
+
+
+      ![SEE Civil has completed the initial stages of a proposed 28 stage
+      development ](https://ucarecdn.com/e0d6684e-f03b-40e4-991e-78c327a9bc9a/
+      "Stages 1 and 2 of Covella")
+
+
+      ![](https://ucarecdn.com/cd63e023-637f-4511-bcb4-acb0b4e4dcf7/ "Covella")
 cta:
   buttonText: ''
   buttonUrl: ''
