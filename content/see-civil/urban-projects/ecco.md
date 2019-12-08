@@ -6,15 +6,79 @@ featuredImage: >-
 specs: "* Location - Ripley, QLD \r\n* Completion Date - Current\n* Value - $25 Million\n* Client - Sekisui House Australia"
 date: 2019-04-15T03:47:09.113Z
 projectstatus: current
-content: "The ECCO Ripley Estate is a mast-planned community developed by Sekisui House in the fast growing Ripley Valley region.  To date, SEE Civil has under the earthworks and civil construction for Stages 2-5, a new trunk sewer, 1 kilometre of external  roadworks as well as the earthworks and civil work for the $1.4 billion Ripley Town Centre.\r\n\nWorks to date have included residential and retail development and infrastructure works for services and minor and major\r roadworks."
+content: >-
+  SEE Civil has completed stages 2 - 12 of the Ecco Ripley estate for Sekisui
+  House with further works currently underway in the estate.
+
+
+  SEE Civil also completed the bulk earthworks for the Ecco Ripley town centre
+  as well as trunk sewer infrastructure works, two additional bulk earthworks
+  packages and upgrading more than one kilometre of Ripley Road including
+  constructing signalised intersections. 
+
+
+  Work packages completed so far for the estate has combined urban residential,
+  retail development and major upgrades of existing road infrastructure and
+  essential services. 
+
+
+  Ecco Ripley is being constructed in the Queensland Priority Development area
+  of [Ripley
+  Valley](https://www.dsdmip.qld.gov.au/economic-development-qld/priority-development-areas/ripley-valley.html)
+  . At completion, it is estimated Ecco Ripley will be home for some 120,000
+  residents.
 videoSection:
   title: ''
 accordion:
   - title: Scope of Works
-    content: "* Bulk earthworks exceeding 600,000m3\r\n* Construction of a 10,000m2 working platform for the construction of a Coles supermarket as an early access point\r\n* Construction of 4 signalised intersections\r\n* Installation of 4,000m of stormwater drainage\r\n* 3,000m of water reticulation\r\n* 4,200m of sewer reticulation at up to 8m in depth\r\n* High specification urban landscaping\r\n* provision of all services including water, sewer, trunk sewer, power and communications\r\n* extensive retaining structures\r\n* Use of soil nail anchors for embankment stabilisation along Ripley Road\r\n* Management of live traffic during external roadworks including complex traffic switches and night works\r\n* construction of bio-filtration basins\r\n\nMore SEE Civil urban development projects\r\n\nMore about Ecco Ripley"
+    content: >-
+      * Recent residential stages have included 8,500 square metres of concrete
+      sleeper retaining walls
+
+      * Bulk earthworks across the estate with a combined total of around
+      1,000,000 cubic metres of cut/fill and cut/export
+
+      * Construction of a 10,000 square metre working platform for the
+      construction of a key retail precinct in the town centre
+
+      * Contributing to design development on key areas where constructability
+      issues have been identified
+
+      * Installation of around 7,500 metres of stormwater drainage 
+
+      * Installation of around 6,000 metres of water reticulation
+
+      * Installation of around 7,200 metres of sewer reticulation, including a
+      large diametre trunk sewer up to 8 metres deep
+
+      * Construction of block retaining walls and Class A Sandstone boulder
+      walls 
+
+      * Soil nail anchors for embankment stabilisation along Ripley Road with a
+      shotcrete finish 
+
+      * Upgrades to a major external road (Ripley Road) including construction
+      of four signalised intersections, undertaken under live traffic using
+      complex traffic staging and nightworks 
+
+      * Construction of a regional detention basin including a 6 metre deep clay
+      core, box culverts and Q100 concrete spillway with pedestal structure for
+      future cycle path and various scour protection works.
+  - title: Photos
+    content: |-
+      ![]()
+
+      ![]()
+
+      ![]()
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil is constructing the Ecco Ripley residential development on behalf
+    of Sekisui House. SEE Civil has completed stages 2 -12 of the development
+    including earthworks and construction of civil infrastructure. 
+  title: ECCO Estate - Ripley | SEE Civil project
 ---
 
