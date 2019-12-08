@@ -3,7 +3,11 @@ template: SingleProject
 title: 'ECCO, Ripley'
 featuredImage: >-
   https://ucarecdn.com/dc94079c-6de7-470c-a33c-e20910c8475a/-/preview/-/enhance/52/
-specs: "* Location - Ripley, QLD \r\n* Completion Date - Current\n* Value - $25 Million\n* Client - Sekisui House Australia"
+specs: |-
+  * Location - Ripley, QLD 
+  * Completion Date - Current
+  * Value - $49.5 Million (combined total to date)
+  * Client - Sekisui House Australia
 date: 2019-04-15T03:47:09.113Z
 projectstatus: current
 content: >-
