@@ -69,12 +69,35 @@ accordion:
       core, box culverts and Q100 concrete spillway with pedestal structure for
       future cycle path and various scour protection works.
   - title: Photos
-    content: |-
-      ![]()
+    content: >-
+      ![Ecco Ripley is a residential estate in the fast growing Ripley
+      Valley](https://ucarecdn.com/07319b94-cce8-4e8f-8aae-a9d1adae3560/ "Aerial
+      Ecco Ripley ")
 
-      ![]()
 
-      ![]()
+      ![The terrain of the site meant retaining walls were
+      required](https://ucarecdn.com/41521b82-16d5-49f5-aa55-0bd574b8b37f/
+      "Retaining in Stage 5 of Ecco Ripley")
+
+
+      ![The project included upgrades to Ripley
+      Road](https://ucarecdn.com/4f5d486d-f969-459d-843a-00223b914f91/ "Culvert
+      construction for the Ripley road upgrade")
+
+
+      ![Steep slopes provided challenging conditions in some
+      areas](https://ucarecdn.com/b8ffcb34-da76-4909-ade9-f1372a43be11/ "Bulk
+      earthworks for Stage 5 of the Ecco Ripley development")
+
+
+      ![Early stages of Ecco Ripley including all clearing and grubbing
+      ](https://ucarecdn.com/112153fe-d372-4577-80ba-57e0b64649d2/ "Early stages
+      of Ecco Ripley")
+
+
+      ![Works included construction of a deep trunk
+      sewer](https://ucarecdn.com/0ed8d999-33b9-4db9-b127-23e3331a7f20/ "Trunk
+      sewer construction")
 cta:
   buttonText: ''
   buttonUrl: ''
