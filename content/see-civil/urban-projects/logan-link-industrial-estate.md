@@ -63,6 +63,12 @@ accordion:
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil constructed the commercial and industrial lots for the Logan Link
+    Industrial Estate on Wembley Road in Logan. Works included the earthworks
+    and civil infrastructure works as well as internal road construction and
+    upgrades to Wembley Road. 
+  title: 'Logan Link Industrial Estate | Wembley Road | SEE Civil project '
 ---
 
