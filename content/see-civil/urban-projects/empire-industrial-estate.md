@@ -61,12 +61,28 @@ accordion:
       * Civil works to facilitate the development of large industrial and
       commercial facilities on estate lots
   - title: photos
-    content: |-
-      ![]()
+    content: >-
+      ![Empire Industrial Estate required bulk earthworks across all
+      sites](https://ucarecdn.com/b90439ec-dca3-4b0c-bfd9-16359df6950b/ "Plant
+      working at Empire Industrial Estate - July 2017")
 
-      ![]()
 
-      ![]()
+      ![A significant drill, blast and crush program was required to meet the
+      project
+      program](https://ucarecdn.com/e79b4217-dc89-4f04-8e6e-b6518b871214/
+      "Aerial - Empire Industrial Estate")
+
+
+      ![Empire Industrial Estate is a 127 hectare site, home to former
+      Darlington Park
+      raceway](https://ucarecdn.com/ebdd4e20-4397-474d-b06c-ce8393837e83/ "Early
+      Stages of Empire Industrial Estate - July 2017")
+
+
+      ![SEE CIvil has moved more than 2 million cubic metres of earth and rocks
+      as part of their works at
+      Empire](https://ucarecdn.com/60807d58-7c31-4fe8-bd30-aa54c93723e4/ "Empire
+      Industrial Estate Aerial - May 2018 ")
 cta:
   buttonText: ''
   buttonUrl: ''
