@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: 'Flagstone '
-featuredImage: ''
+featuredImage: 'https://ucarecdn.com/2e9fd342-ce94-4b64-bd4f-c0c2df384ea4/'
 specs: |-
   * Location - Jimboomba, QLD 
   * Completion Date - Current
