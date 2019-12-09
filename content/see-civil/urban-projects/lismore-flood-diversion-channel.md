@@ -1,6 +1,7 @@
 ---
 template: SingleProject
 title: South Lismore Flood Mitigation Works
+featuredImage: 'https://ucarecdn.com/e83ba2f8-61e1-42ed-983b-b0d643edac84/'
 specs: |-
   * Location - Lismore, NSW 
   * Value - $4.3 million 
@@ -29,12 +30,17 @@ accordion:
 
       * Removal and disposal of five redundant Sewer Rising Main lines
   - title: photos
-    content: |-
-      ![]()
+    content: >-
+      ![](https://ucarecdn.com/fefc6211-8d16-4acf-b7fa-1195c8b7ce52/ "Lismore
+      flood channel 1 ")
 
-      ![]()
 
-      ![]()
+      ![](https://ucarecdn.com/5dcd5234-2683-4eb6-8d87-91e23c45e720/ "Lismore
+      Flood Channel 2 ")
+
+
+      ![](https://ucarecdn.com/bd6b34ab-428b-4eef-9e2f-d6bcd9533178/ "Lismore
+      flood channel 3")
 cta:
   buttonText: ''
   buttonUrl: ''
