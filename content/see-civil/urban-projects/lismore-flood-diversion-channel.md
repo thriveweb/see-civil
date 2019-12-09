@@ -28,8 +28,13 @@ accordion:
       hydromulching
 
       * Removal and disposal of five redundant Sewer Rising Main lines
+  - title: photos
+    content: |-
+      ![]()
 
-      *
+      ![]()
+
+      ![]()
 cta:
   buttonText: ''
   buttonUrl: ''
