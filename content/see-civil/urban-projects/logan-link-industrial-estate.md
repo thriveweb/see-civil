@@ -52,14 +52,20 @@ accordion:
 
       * Placement of deep lift asphalt pavements on motorway on and off ramps
   - title: Photos
-    content: |-
-      ![]()
+    content: >-
+      ![Logan Link is an industrial estate adjacent to the Logan Motorway in
+      Berrinba](https://ucarecdn.com/aac0307c-013d-419f-aaa6-c0e471d835ad/
+      "Logan Link Aerial - May 2015")
 
-      ![]()
 
-      ![]()
+      ![The project included upgrades to Wembley
+      Road](https://ucarecdn.com/9ae3df90-631e-4dee-a2cc-c9a0b428233a/ "Aerial
+      image - May 2015")
 
-      ![]()
+
+      ![SEE Civil completed all the civil and earthworks for the
+      project](https://ucarecdn.com/091aaa3e-6fec-4019-b16c-0c6f14effa50/
+      "Drainage installation ")
 cta:
   buttonText: ''
   buttonUrl: ''
