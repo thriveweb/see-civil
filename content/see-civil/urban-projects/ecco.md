@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: 'ECCO, Ripley'
+title: Ecco Ripley Estate
 featuredImage: >-
   https://ucarecdn.com/dc94079c-6de7-470c-a33c-e20910c8475a/-/preview/-/enhance/52/
 specs: |-
