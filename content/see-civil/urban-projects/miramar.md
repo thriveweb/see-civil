@@ -7,42 +7,51 @@ specs: |-
   * Location - Casuarina, NSW
   * Completion Date - 2015
   * Value - $9.2 Million
-  * Client - Casuarina Beach Holdings & Villawood
+  * Client - Villawood Pty Ltd
 date: 2014-09-30T03:35:41.929Z
 projectstatus: completed
+content: >-
+  Miramar Casuarina Beach is a residential property development  on Casuarina
+  Way, south of Kingscliff on the far north coast of New South Wales. 
+
+
+  SEE Civil completed the earthworks and civil works for all seven stages of the
+  estate totaling more than 220 residential lots.
 videoSection:
   title: ''
 accordion:
   - title: Scope of Works
     content: >-
-      Civil works associated with 3 Stages include,
+      * All clearing and grubbing for the earthworks site 
 
+      * Bulk and detailed earthworks for 223 residential lots 
 
-      * 1.0km of new road construction including 1.9km of Kerb and Gutter
+      * Construction of approximately one kilometre of internal new roads
+      including kerb and gutter
 
-      * 0.9km of stormwater pipeworks up to 1050mm Dia.
+      * Installation of around one kilometre of stormwater pipe work, up to
+      1050mm in diametre
 
-      * 1.3km of Sewer Reticulation
+      * Construction of more than one kilometre with sewer reticulation 
 
-      * 1.2km of concrete footpaths
+      * Onsite treatment of 35,000 cubic metres of uncontrolled fill
 
-      * Civil works and earthworks for the 223 lot (7 stage) residential
-      development 
+      * Construction of more than 1 kilometre of concrete footpaths 
 
-      * Treatment of around 35,000 cubic metres of uncontrolled fill 
-
-      * Construction of a new trunk sewer up to 5 metres deep 
-
-      * Roadworks on internal and external roads under live traffic conditions
-
-      *
+      * Civil infrastructure works including provision of telecommunications and
+      electrical conduits plus sewer and water reticulation systems
   - title: Photos
-    content: |-
-      ![]()
+    content: >-
+      ![](https://ucarecdn.com/2c263e0e-ac67-47fc-9fe9-c33f64edde73/ "Miramar
+      1")
 
-      ![]()
 
-      ![]()
+      ![](https://ucarecdn.com/da9e59d4-9d70-4724-8f4f-6099ba1f00bc/ "Miramar
+      2")
+
+
+      ![](https://ucarecdn.com/636825be-5cf2-4c6c-8c56-d0f8c2508034/ "Miramar
+      3")
 cta:
   buttonText: ''
   buttonUrl: ''
