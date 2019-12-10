@@ -5,10 +5,10 @@ featuredImage: >-
   https://ucarecdn.com/2f5a5997-8c32-4c3f-a4f7-ebf888a1d52e/-/preview/-/enhance/53/
 specs: |-
   * Location - Coomera, QLD
-  * Completion Date - 2016
+  * Completion Date - December 2014 
   * Value - $2.7 Million
   * Client - Villaworld
-date: 2019-04-15T01:01:52.683Z
+date: 2014-12-31T00:01:52.683Z
 projectstatus: completed
 content: "Description of Works –\r\n\n* 22 lot residential sub division"
 videoSection:
