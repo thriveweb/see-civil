@@ -15,62 +15,38 @@ content: >-
   community it is today over the 18 years between 1996 and 2014. 
 
 
-  Pacific Pines is made up of around 5000 residential lots.
+  SEE Civil undertook the earthworks and civil construction for around 5,000
+  residential lots within the estate.
 videoSection:
   title: ''
 accordion:
-  - title: Special features
+  - title: Scope of Works
     content: >-
-      * Bebo Arches – 1 x twin arch and 2 x single arch 20m long with light
-      shaft midway
+      * Construction of internal roads including divided roads, signalised
+      intersections  and new intersections with state controlled roads 
 
-      * Span is 11.5m each arch with precast headwalls
+      * Around 5 million cubic metres of earthworks with approximately 50 per
+      cent being rock which required blasting and ripping 
 
-      * Natural water course deviations
+      * Construction of more than 20 kilometres of rigid and flexible pavements
 
-      * Weir Structures
+      * Installation of approximately 1.8 kilometres of water reticulation 
 
-      * Divided Roads
+      * Construction of sewer infrastructure including gravity and rising mains
+      and three pump stations
 
-      * Signalised Intersections
+      * Construction of stormwater infrastructure including major RCBC through
+      natural water courses
 
-      * Bio filtration basin
-
-      * Extensive retaining structures
-
-
-
-
-
-
-      * Approximately 1500 residential lot site which consisted of 200Ha of
-      dense clearing
-
-      * 5 million m3 earthworks with approximately 50% being rock requiring
-      blasting and ripping
-
-      * Over 20km of rigid and flexible pavements
-
-      * Four signalised intersections
-
-      * Two signalised school zones
-
-      * tie inns to the Pacific Motorway
-
-      * 18,000m of water reticulation
-
-      * 18,000m of gravity and rising main sewer including three pump stations
-
-      * 9000m of stormwater including major RCBC through natural water courses
-
-      * Electrical reticulation and street lighting
-
-      * Nine bio-retention facilities
-
-      * 3 Bebo Arches
+      * Construction of three Bebo arch structures, including the use of a
+      natural water course diversion
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil undertook the civil construction of the Pacific Pines Estate on
+    the northern Gold Coast on behalf of Stockland Developments. 
+  title: Pacific Pines Estate | SEE Civil project
 ---
 
