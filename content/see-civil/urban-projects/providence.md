@@ -2,18 +2,72 @@
 template: SingleProject
 title: 'Providence '
 featuredImage: 'https://ucarecdn.com/77d2ec91-0e83-4d3e-b132-b681ec37a6a4/'
-specs: "* Location - Ripley, QLD \r\n* Completion Date - Current\n* Value - $25 Million\n* Client - Okeland Communities (formerly Amex Corporation)"
+specs: |-
+  * Location - Ripley, QLD 
+  * Completion Date - Current
+  * Value - $25 Million
+  * Client - Okeland Communities
 date: 2019-04-15T03:20:21.089Z
 projectstatus: current
-content: "Providence Estate is Amex Corporations' premiere Queensland development in the busy Ripley Valley. The Providence site is\r\n\n670ha of land which will eventually hold around 7,000 homes.\r\n\nTo date, SEE Civil has completed around 27 stages at Providence combining both urban residential and retail developments  as well as major upgrades to existing road infrastructure and associated service.\r\n\nSEE Civil has delivered around 700 residential lots to sale in Providence so far."
+content: >-
+  Providence Estate is Okeland Communities' (formerly Amex Corporation) premiere
+  master-planned community development in Queensland. Located in the Ripley
+  Valley Priority Development area, at completion Providence will be home to up
+  to 20,000 residents living in 7,000 homes. 
+
+
+  The Providence site is some 700 hectares of land. SEE Civil has completed the
+  earthworks and civil construction of some 27 individual staged works at
+  Providence combining urban residential, retail and community infrastructure
+  developments as well as major upgrades to existing road infrastructure and
+  associated services.
 videoSection:
   title: ''
 accordion:
-  - title: Special features
-    content: Construction of box culvert drains under future truck collector road
+  - title: Scope of Works
+    content: >-
+      * Bulk and detailed earthworks for a range of lot  including residential,
+      commerical and community infrastructure 
+
+      * Installation of all stormwater drainage, including temporary erosion and
+      sediment control during earthworks operations 
+
+      * Installation of water and sewer reticulation 
+
+      * High specification urban landscaping, including hard and soft scape
+      elements
+
+      * Installation of all services including water, sewer, trunk sewer,
+      electrical and telecommunications
+
+      * Extensive retaining structures 
+
+      * Construction of temporary and permanent biofiltration basins
+
+      * Installation of a large temporary underground water treatment facility
+      to facilitate sewer requirements until permanent connections to the sewer
+      network could be completed
+  - title: Photos
+    content: |-
+      ![]()
+
+      ![]()
+
+      ![]()
+  - title: More information
+    content: >-
+      * Find out more about[ Providence
+      here](https://www.providenceripley.com.au/)
+
+      * Find out more about the[ Ripley Valley Priority Development Area
+      here](https://www.dsdmip.qld.gov.au/economic-development-qld/priority-development-areas/ripley-valley.html)
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil has constructed twenty-seven stages of the Providence
+    master-planned community in South Ripley on behalf of Okeland Communities. 
+  title: 'Providence Estate | SEE Civil project '
 ---
 
