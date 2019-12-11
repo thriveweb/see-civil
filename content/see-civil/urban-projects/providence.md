@@ -48,12 +48,17 @@ accordion:
       to facilitate sewer requirements until permanent connections to the sewer
       network could be completed
   - title: Photos
-    content: |-
-      ![]()
+    content: >-
+      ![](https://ucarecdn.com/bd9b8d8d-382e-4429-9fb9-ccdb03a37674/ "Providence
+      1")
 
-      ![]()
 
-      ![]()
+      ![](https://ucarecdn.com/3e832864-fef5-41f2-9727-9efe25f6b740/ "Providence
+      2")
+
+
+      ![](https://ucarecdn.com/6a8b1ff1-9a95-4f4a-a1b1-4fc84122e277/ "Providence
+      3")
   - title: More information
     content: >-
       * Find out more about[ Providence
