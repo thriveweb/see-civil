@@ -11,7 +11,7 @@ specs: |-
 date: 2018-01-30T02:51:33.126Z
 projectstatus: completed
 content: >-
-  Sanctuary Cover is an award-winning, resort-style, master planned community
+  Sanctuary Cove is an award-winning, resort-style, master planned community
   located on a 474 hectare site in the northern Gold Coast region. 
 
 
@@ -27,15 +27,20 @@ videoSection:
 accordion:
   - title: Scope of Works
     content: >-
-      * Bulk and detailed earthworks of around 350,000 cubic metres ofs
-      tructural fill to form around 300 residential lots and associated
-      infrastructure
+      * More thank 500,000 cubic metres of cut to fill earthworks to form around
+      300 residential lots and associated infrastructure
 
       * Detailed earthworks including within Hope Harbour which required
       installation of rock revetment 
 
-      * Construction o  large earth retaining walls using SEE Civil's innovative
-      Rock Block retaining product to maximise land yield
+      * Export of more than 155,000 cubic metres of unsuitable material 
+
+      * Onsite treatment of deleterious and acid sulfate material for reuse
+      within work
+
+      * Construction of 35,000 square metres of brick-paved roads
+
+      * Construction of 3,500 square metres of concrete road 
 
       * Installation of stormwater infrastructure
 
@@ -46,7 +51,7 @@ accordion:
       * Some services were installed within water charged ground below the water
       table 
 
-      * Construction of a pump station to service peninsula neighbourhoods
+      * Construction of a three sewer pump stations in water charged ground
 
       * Finishing works including kerb and guttering and installation of street
       lighting 
@@ -57,6 +62,11 @@ accordion:
       * Construction of a new entry statement and entry road from Sickle Avenue
 
       * All temporary erosion, sedimetn and stormwater control
+
+      * Construction of a bespoke SEE Civil Rock Block retaining wall, 5 metres
+      in height and 450 metres in length. Rock Block allows unrestricted
+      building footprints on the 20 plus residential lots are directly above the
+      wall.
   - title: photos
     content: |-
       ![](https://ucarecdn.com/80564130-e976-49df-b79a-b6493552fa70/)
