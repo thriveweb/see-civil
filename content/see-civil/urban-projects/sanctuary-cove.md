@@ -5,20 +5,63 @@ featuredImage: >-
   https://ucarecdn.com/16c83894-88c8-4976-83db-94c3ae06cc5a/-/preview/-/enhance/49/
 specs: |-
   * Location - Sanctuary Cove, QLD 
-  * Completion Date - 2018
+  * Completion Date - January 2018
   * Value - $13 Million
   * Client - Mulpha Sanctuary Cove Developments
-date: 2019-04-30T03:51:33.126Z
+date: 2018-01-30T02:51:33.126Z
 projectstatus: completed
-content: ''
+content: >-
+  Sanctuary Cover is an award-winning, resort-style, master planned community
+  located on a 474 hectare site in the northern Gold Coast region. 
+
+
+  Sanctuary Cove was delivered in stages, with SEE Civil delivering five
+  residential stages, including the final waterfront stage, Sanctuary Point. In
+  total, SEE Civil delivered about 300 residential lots to sales in the
+  gated-estate. Stages included extensive cut to fill works, significant export
+  of unsuitable material and general spoil and extensive service works.
 videoSection:
-  imageOverlay: >-
-    https://ucarecdn.com/49aef8aa-da44-4513-b38d-c9941fcf466e/-/preview/-/enhance/50/
+  imageOverlay: ''
   title: ''
   video: ''
 accordion:
-  - title: Sanctuary Cove
-    content: "Sanctuary Cove is a multi-stage, premium residential development in Queensland. Stages were delivered in quick succession to meet the increased demand for residential land in this award-winning master-planned community. \r\n\nSEE Civil has delivered 5 residential stages at Sanctuary Cove, totalling around 300 lots. Stages included extensive cut and fill works, significant export of unsuitable material and general spoil and extensive service works."
+  - title: Scope of Works
+    content: >-
+      * Bulk and detailed earthworks of around 350,000 cubic metres ofs
+      tructural fill to form around 300 residential lots and associated
+      infrastructure
+
+      * Detailed earthworks including within Hope Harbour which required
+      installation of rock revetment 
+
+      * Construction o  large earth retaining walls using SEE Civil's innovative
+      Rock Block retaining product to maximise land yield
+
+      * Installation of stormwater infrastructure
+
+      * Installation of sewerage infrastructure
+
+      * Installation of telecommunications and electrical infrastructure 
+
+      * Some services were installed within water charged ground below the water
+      table 
+
+      * Construction of a pump station to service peninsula neighbourhoods
+
+      * Finishing works including kerb and guttering and installation of street
+      lighting 
+
+      * Management of the construction of a retaining wall with foundations in
+      Hope Harbour 
+
+      * Construction of a new entry statement and entry road from Sickle Avenue
+
+      * All temporary erosion, sedimetn and stormwater control
+  - title: photos
+    content: |-
+      ![]()
+
+      ![]()
 cta:
   buttonText: ''
   buttonUrl: ''
