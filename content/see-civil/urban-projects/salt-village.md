@@ -1,8 +1,7 @@
 ---
 template: SingleProject
 title: 'Salt Village '
-featuredImage: >-
-  https://ucarecdn.com/ae7a1df0-8667-4b8c-af99-031d00ef1402/-/preview/-/enhance/50/
+featuredImage: 'https://ucarecdn.com/caf2015a-1571-4c86-88cc-1d64763ae664/'
 specs: |-
   * Location - Casuarina, NSW
   * Completion Date - June 2006
@@ -33,7 +32,7 @@ accordion:
       predominantly in sand
 
       * Installation of civil infrastrucutre including water, electrical and
-      telecommunications 
+      telecommunications for commercial and residential lots
 
       * Use of hydro-cyclones to remove pyritic fines and return to the lake bed
       during dredging 
@@ -49,9 +48,19 @@ accordion:
 
       * The innovative use of the custom-built dredge system saved some 40,000
       truck movements on local roads
+  - title: photos
+    content: |-
+      ![](https://ucarecdn.com/9322a7c9-8180-4e64-a9ac-b4292cbf2ffb/)
+
+      ![](https://ucarecdn.com/d9479432-149a-4e9e-ba24-50f47a58871e/)
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    Salt Village is an urban and commercial development in Casuarina, south of
+    Kingscliff in northern New South Wales. SEE Civil completed the civil
+    construction and urban development for the site. 
+  title: Salt Village Casuarina | SEE Civil project
 ---
 
