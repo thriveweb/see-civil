@@ -1,6 +1,7 @@
 ---
 template: SingleProject
 title: 'Coraki Batch Plant '
+featuredImage: 'https://ucarecdn.com/19909cdc-f499-4a04-bc0f-8f6c7a5ab6dd/'
 specs: >-
   **Location** - Coraki, New South Wales
 
@@ -23,6 +24,7 @@ accordion: []
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  title: Integrated Concrete Solutions | ICS |Coraki
 ---
 
