@@ -12,9 +12,9 @@ biography: >-
 
 
   John's current role as Quality Manager Quarry Solutions was appointed to him
-  in December 2017 seeing him responsible for Development and maintaining
-  Quality Management System reviewing operations as part of Continual
-  Improvement Process to identify opportunities.
+  in December 2017 seeing him responsible for development and ongoing
+  maintenance of Quality Management Systems and reviewing operations as part of
+  Continual Improvement Process to identify opportunities.
 meta: {}
 ---
 
