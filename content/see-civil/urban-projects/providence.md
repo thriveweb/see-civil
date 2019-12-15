@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: 'Providence '
-featuredImage: 'https://ucarecdn.com/77d2ec91-0e83-4d3e-b132-b681ec37a6a4/'
+featuredImage: 'https://ucarecdn.com/7b0afe3f-74b9-47f8-bae8-a278a83fae61/'
 specs: |-
   * Location - Ripley, QLD 
   * Completion Date - Current
