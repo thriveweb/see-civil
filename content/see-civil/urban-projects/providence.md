@@ -16,7 +16,7 @@ content: >-
   to 20,000 residents living in 7,000 homes. 
 
 
-  The Providence site is some 700 hectares of land. SEE Civil has completed the
+  The Providence site covers 700 hectares of land. SEE Civil has completed the
   earthworks and civil construction of some 27 individual staged works at
   Providence combining urban residential, retail and community infrastructure
   developments as well as major upgrades to existing road infrastructure and
