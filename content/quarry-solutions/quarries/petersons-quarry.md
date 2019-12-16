@@ -53,10 +53,10 @@ accordion:
     file: 'https://ucarecdn.com/08058efa-3c82-41ec-b342-ebb4c4b10617/'
   - title: 'Coraki Complaints Register '
     content: Coraki's latest complaints register is available below.
-    file: 'https://ucarecdn.com/a29e1639-2641-41c3-b00e-2b03a4c13836/'
+    file: 'https://ucarecdn.com/94ef3674-885e-49a1-b236-33e4912506e2/'
   - title: 'Coraki Traffic Summary '
     content: Coraki's latest Traffic summary is below.
-    file: 'https://ucarecdn.com/9f555896-cf7a-41af-a72c-1ed5a9c1e74d/'
+    file: 'https://ucarecdn.com/7839b3f2-f838-4de3-a5ae-3c0c74a26939/'
   - title: 2018 Annual Report
     content: A copy of the 2018 Annual Report for Coraki Quarry can be downloaded here.
     file: 'https://ucarecdn.com/38d5d01a-c03b-4e4d-b32b-ee532dee6911/'
