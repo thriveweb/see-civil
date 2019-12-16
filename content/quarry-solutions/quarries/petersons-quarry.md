@@ -196,6 +196,9 @@ accordion:
   - title: 'Development Consent  - Coraki Quarry '
     content: Development Consent  - Coraki Quarry
     file: 'https://ucarecdn.com/677bcbe3-f0ac-4387-abd3-1f3ac134980d/'
+  - title: December 2019 - Quarterly Noise Compliance Report
+    content: December 2019 - Quarterly Noise Compliance Report
+    file: 'https://ucarecdn.com/f6f323e5-7d84-4fd8-8495-f0e9c726fa4f/'
 cta:
   buttonText: ''
   buttonUrl: ''
