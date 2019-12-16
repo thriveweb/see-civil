@@ -47,9 +47,21 @@ accordion:
       * Numerous traffic control plans were developed & implemented to ensure
       continual operation of the adjacent bus terminal and car park associated
       with the train station
+  - title: Photos
+    content: >-
+      ![](https://ucarecdn.com/f0953477-11c2-4579-962c-63554621ca06/ "Pedestrian
+      Bridge - Westfield Helensvale")
+
+
+      ![](https://ucarecdn.com/6742364e-1671-4616-84fa-44e9f8bd5e83/ "Westfield
+      Helensvale")
 cta:
   buttonText: ''
   buttonUrl: ''
-meta: {}
+meta:
+  description: >-
+    SEE Civil undertook the earthworks and road upgrades assocaited with the
+    construction of the Westfield Helensvale shopping centre in 2005 and 2006. 
+  title: Westfield Helensvale | SEE Civil project
 ---
 
