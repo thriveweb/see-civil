@@ -3,7 +3,7 @@ template: SingleLeader
 title: Morgan Hamilton
 generalOccupation: operational manager
 occupation: Senior Environmental Advisor
-profileImage: 'https://ucarecdn.com/fe1e45d0-9540-4f42-8f9a-f55f0dfbc9af/'
+profileImage: 'https://ucarecdn.com/4ee2ee72-094f-48f6-8d24-0ac6beea7998/'
 biography: >-
   Morgan has more than 8 years of project delivery experience as an
   Environmental Manager and Site Environmental Representative. He was appointed
