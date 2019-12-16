@@ -4,7 +4,7 @@ title: Seaside City
 featuredImage: 'https://ucarecdn.com/d4ed1105-b4a1-4f4e-a004-4dbb7d835e8b/'
 specs: |-
   * Location - Casuarina, NSW
-  * Completion Date - 2017
+  * Completion Date - January, 2017
   * Value - $9.8 Million
   * Client - Seaside City Developments Pty Ltd
 date: 2017-01-26T23:26:14.880Z
