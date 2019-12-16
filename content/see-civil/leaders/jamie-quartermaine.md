@@ -3,6 +3,7 @@ template: SingleLeader
 title: Jamie Quartermaine
 generalOccupation: operational manager
 occupation: Engineering Manager
+profileImage: 'https://ucarecdn.com/e0a19e7c-daf7-4fba-b7f2-0a2299fc0fb6/'
 biography: >-
   Jamie has more than 15 years experience in construction project delivery in a
   range of industries including civil infrastructure, rail, building and
@@ -19,6 +20,7 @@ biography: >-
   Jamie has extensive experience in a variety of contracting methods including
   design and construction, alliances and construct only. His varied contracting
   experience makes his valuable adviser for all of SEE Civil's projects.
-meta: {}
+meta:
+  title: SEE Civil Engineering Manager
 ---
 
