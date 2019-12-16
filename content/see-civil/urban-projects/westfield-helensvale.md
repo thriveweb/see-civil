@@ -10,7 +10,16 @@ specs: |-
   * Client - Westfield Design and Construction
 date: 2006-02-27T23:54:24.426Z
 projectstatus: completed
-content: ''
+content: >-
+  Westfield Helensvale (also know as the Helensvale Town Centre) was the first
+  shopping centre development undertaken by Westfield on the Gold Coast in
+  Queensland. The large site is adjacent to the Helensvale Train Station and is
+  now home to just under 200 retailers. 
+
+
+  SEE Civil undertook the earthworks and civil construction works for the centre
+  including the construction of a large pedestrian bridges and curved vehicular
+  bridges.
 videoSection:
   title: ''
 accordion:
@@ -35,9 +44,9 @@ accordion:
       and Legislative requirements as well as meeting specific contract
       specifications as outlined by Westfield.
 
-      * Numerous TCP where developed & implemented to ensure continual operation
-      of the adjacent bus terminal and car park associated with the train
-      station
+      * Numerous traffic control plans were developed & implemented to ensure
+      continual operation of the adjacent bus terminal and car park associated
+      with the train station
 cta:
   buttonText: ''
   buttonUrl: ''
