@@ -5,10 +5,10 @@ featuredImage: >-
   https://ucarecdn.com/a0cab38c-094a-4157-b151-2aba1611c0a2/-/preview/-/enhance/54/
 specs: |-
   * Location - Berrinba, QLD
-  * Completion Date - 2016
+  * Completion Date - July, 2016
   * Value - $5.6 Million
   * Client - The GPT Group
-date: 2019-04-15T01:13:10.323Z
+date: 2016-07-20T01:13:10.323Z
 projectstatus: completed
 content: >-
   Wembley Business Park is located on the corner of Wembley Road and Bardon Road
