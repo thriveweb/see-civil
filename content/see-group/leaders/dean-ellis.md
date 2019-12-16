@@ -19,6 +19,7 @@ biography: >-
 
   Dean is committed to building and maintaining SEE Group's strong safety
   culture and performance.
-meta: {}
+meta:
+  title: SEE Group leader
 ---
 
