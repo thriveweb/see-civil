@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: Three Chain Road and Dawson Highway
-featuredImage: 'https://ucarecdn.com/19f623aa-1ea2-4427-b47d-e23be3cfcdd0/'
+featuredImage: 'https://ucarecdn.com/33c258e6-3650-4843-ab53-e864f3d840f1/'
 specs: |-
   * Location - Moura, Central Queensland
   * Value - $21m
@@ -16,16 +16,16 @@ accordion:
     content: "Three Chain Road scope involves: \r\n\n* Clearing/stripping\r\n* Bulk earthworks and embankment fill \r\n* Pavement materials\r\n* 2 cell and 4 cell precast box culvers and precast slabs\r\n* Triple span bridge over road and mine conveyors\r\n* 75m bebo arch\r\n* 3no. 115lm 3m dia CSP culverts\r\n* Rapid Impact Compaction (RIC) foundation improvement\r\n* Wearing surface\r\n* Finishing works\r\n\nDawson Highway scope involves:\r\n\n* Clearing/stripping\r\n* Service protection works\r\n* Embankment fill\r\n* Pavement materials\r\n* Box and pipe culverts\r\n* Streetlights\r\n* Wearing surface\r\n* Finishing work\r\n* Traffic switches"
   - title: Photos
     content: >-
-      ![](https://ucarecdn.com/4b50b96f-b9c7-443d-9dca-0d1e812bae36/ "Aerial
-      view Three Chain Road")
+      ![](https://ucarecdn.com/7d0f3032-e68d-4235-ad37-8c734471b0aa/ "CSP
+      Culverts")
 
 
-      ![](https://ucarecdn.com/5da70d9d-872b-4187-bdaa-01c9499590fc/ "Aerial
-      view of Three Chain Road")
+      ![](https://ucarecdn.com/ec1536fb-a1d8-4a6a-baeb-25ea33adb3f7/ "Rock
+      backfill")
 
 
-      ![](https://ucarecdn.com/4a351a42-f4db-46a6-8842-b7277449aa81/ "Large
-      culvert")
+      ![](https://ucarecdn.com/6a107740-9e18-424a-b7be-ac81ec2e14fe/ "TCR -
+      RIC")
 
 
       ![](https://ucarecdn.com/9bcea5b8-ea29-4091-86c0-bc0ca3392e75/ "Large
