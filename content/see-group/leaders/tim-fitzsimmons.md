@@ -1,7 +1,7 @@
 ---
 template: SingleLeader
 title: Tim Fitzsimmons
-generalOccupation: operational manager
+generalOccupation: executive-general manager
 occupation: Executive General Manager - Commercial & Legal
 biography: >-
   Tim has more than 15 years of legal and commercial experience including 12
