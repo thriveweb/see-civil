@@ -39,8 +39,11 @@ content: >-
   ](https://ucarecdn.com/0a68bbbe-fece-40b6-87fe-ab160b49edb8/)
 videoSection:
   title: ''
-contentSecondary: ''
-accordion: []
+contentSecondary: The latest Tikitere Quarry Monitoring Reports can be found below.
+accordion:
+  - title: Tikitere Quarry - Blast Monitoring Report - January 2020
+    content: The latest Blast Monitoring Report can be found at the link below.
+    file: 'https://ucarecdn.com/54d76abe-704b-483e-a4eb-2f05927a94cd/'
 cta:
   buttonText: ''
   buttonUrl: ''
