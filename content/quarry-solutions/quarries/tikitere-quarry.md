@@ -44,6 +44,11 @@ accordion:
   - title: Tikitere Quarry - Blast Monitoring Report - January 2020
     content: The latest Blast Monitoring Report can be found at the link below.
     file: 'https://ucarecdn.com/54d76abe-704b-483e-a4eb-2f05927a94cd/'
+  - title: Tikitere Quarry - Pollution Incident Response Management Plan
+    content: >-
+      The latest version of the Pollution Incident Response Management Plan can
+      be found at the link below.
+    file: 'https://ucarecdn.com/04953b0c-bfb6-4c43-9944-df5b241277a8/'
 cta:
   buttonText: ''
   buttonUrl: ''
