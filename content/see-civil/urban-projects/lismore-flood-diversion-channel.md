@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: South Lismore Flood Mitigation Works
-featuredImage: 'https://ucarecdn.com/e83ba2f8-61e1-42ed-983b-b0d643edac84/'
+featuredImage: 'https://ucarecdn.com/63ed4049-057d-401e-b74b-bfce237e7af0/'
 specs: |-
   * Location - Lismore, NSW 
   * Value - $4.3 million 
@@ -31,16 +31,26 @@ accordion:
       * Removal and disposal of five redundant Sewer Rising Main lines
   - title: photos
     content: >-
-      ![](https://ucarecdn.com/fefc6211-8d16-4acf-b7fa-1195c8b7ce52/ "Lismore
-      flood channel 1 ")
+      ![](https://ucarecdn.com/602b554f-9ff5-46f1-ae27-50c07397dc6b/ "Aerial
+      view of the project")
 
 
-      ![](https://ucarecdn.com/5dcd5234-2683-4eb6-8d87-91e23c45e720/ "Lismore
-      Flood Channel 2 ")
+      ![](https://ucarecdn.com/45dab682-3f6f-4a52-bbb0-21ed4631fbc4/ "Filling of
+      the primary fill site.")
 
 
-      ![](https://ucarecdn.com/bd6b34ab-428b-4eef-9e2f-d6bcd9533178/ "Lismore
-      flood channel 3")
+      ![](https://ucarecdn.com/a23c7707-d015-4d60-af3a-6256d3ecc2eb/ "Frame
+      attachment for excavator to lay the Geosynthetic Clay Liner (GCL) over the
+      former landfill site.")
+
+
+      ![](https://ucarecdn.com/831ac9c3-3f52-4ba2-8c33-a07e092cda40/ "One of the
+      two road crossing across Caniaba Street to facilitate the filling to the
+      third party fill site ")
+
+
+      ![](https://ucarecdn.com/a08bdfd9-26a3-4d53-b4fd-bc07cdc91ae6/ "CAT 637
+      Scrapers placing fill to the Third Party Fill Site. ")
 cta:
   buttonText: ''
   buttonUrl: ''
