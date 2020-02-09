@@ -17,7 +17,7 @@ intro:
   buttonText: Read More
   buttonUrl: /quarry-solutions/about/
   content: >-
-    Quarry Solutions is a specliased quarrying and construction materials
+    Quarry Solutions is a specialised quarrying and construction materials
     production company. We've established ourselves as major project material
     delivery specialists with the capability and capacity to source, negotiate
     and legitimise quarry resources for major projects and as part of existing
