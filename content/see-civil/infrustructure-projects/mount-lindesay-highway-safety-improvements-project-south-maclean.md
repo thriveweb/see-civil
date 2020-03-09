@@ -60,8 +60,7 @@ accordion:
 
       ![Various road furniture and safety improvements including the
       installlation of guardrail was undertaken on the Mount Lindesay Highway.
-      ](https://ucarecdn.com/f62806b7-ecc6-48d6-b720-0354ffbcbd61/ "Installation
-      of guardrail adjacent to the Mount Lindesay Highway")
+      ]( "Installation of guardrail adjacent to the Mount Lindesay Highway")
 
 
       ![The eastern service road was extended to connect Wharf Street to
