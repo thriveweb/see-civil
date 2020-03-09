@@ -58,11 +58,6 @@ accordion:
       "Reconstruction of Crest Road ")
 
 
-      ![Various road furniture and safety improvements including the
-      installlation of guardrail was undertaken on the Mount Lindesay Highway.
-      ]( "Installation of guardrail adjacent to the Mount Lindesay Highway")
-
-
       ![The eastern service road was extended to connect Wharf Street to
       Stockleigh
       Road](https://ucarecdn.com/c83ca022-813e-4bb0-9cb8-678264c2c2b1/
