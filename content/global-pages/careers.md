@@ -11,10 +11,8 @@ intro:
     challenging projects that allow our employees to grow and develop with us.
 
 
-
-
     We're not afraid to innovate and encourage employees and teams to see ideas
-    through from concept to delivery. A role at a SEE Group business offers you
+    through from concept to delivery. A role at SEE Group business offers you
     the opportunity to be a part of a dynamic and growing organisation with all
     the benefits of a family-owned business.
   subtitle: See yourself at SEE Group
@@ -77,7 +75,7 @@ videoSection:
   title: '#### Our Safety Culture'
   video: '313947593'
 cta:
-  buttonText: SEE avilable positions
+  buttonText: SEE available positions
   buttonUrl: >-
     https://xjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26512&siteid=6978#home
   content: Apply today for our available roles
