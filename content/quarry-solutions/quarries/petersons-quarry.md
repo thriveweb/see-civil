@@ -50,7 +50,7 @@ contentSecondary: >-
 accordion:
   - title: 'Pollution Incident Response Management Plan '
     content: The Petersons and Coraki PIRMP can be downloaded via the link below.
-    file: 'https://ucarecdn.com/08058efa-3c82-41ec-b342-ebb4c4b10617/'
+    file: 'https://ucarecdn.com/c70f7963-20e3-4a03-b83c-8e324ea1c6cd/'
   - title: 'Coraki Complaints Register '
     content: Coraki's latest complaints register is available below.
     file: 'https://ucarecdn.com/69cf240f-53a8-4c59-8123-90ae0fc705da/'
