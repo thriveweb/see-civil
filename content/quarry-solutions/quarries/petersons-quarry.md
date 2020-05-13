@@ -58,8 +58,8 @@ accordion:
     content: Coraki's latest Traffic summary is below.
     file: 'https://ucarecdn.com/191c27ed-fcb9-4022-bafe-6d46bd2bcaa6/'
   - title: 2018 Annual Report
-    content: A copy of the 2018 Annual Report for Coraki Quarry can be downloaded here.
-    file: 'https://ucarecdn.com/38d5d01a-c03b-4e4d-b32b-ee532dee6911/'
+    content: A copy of the 2019 Annual Report for Coraki Quarry can be downloaded here.
+    file: 'https://ucarecdn.com/40d9e2cc-1489-444a-8c56-26de91909cc7/'
   - title: 2017 Annual Report
     content: A copy of the 2017 Annual Report for Coraki Quarry can be downloaded here.
     file: 'https://ucarecdn.com/2de46c6f-f966-4ecc-8223-e09cefe8008c/'
