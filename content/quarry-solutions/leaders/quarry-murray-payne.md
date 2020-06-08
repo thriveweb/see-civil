@@ -2,6 +2,7 @@
 template: SingleLeader
 title: 'Murray Payne '
 generalOccupation: operational manager
+occupation: Area Manager - Northern Rivers
 profileImage: 'https://ucarecdn.com/c77bcb7d-42c4-48c8-b6f6-0b4953c41b94/'
 biography: >-
   Murray has 30 years of progressive experience in the quarrying industry
