@@ -3,6 +3,7 @@ template: SingleLeader
 title: Tim Fitzsimmons
 generalOccupation: executive-general manager
 occupation: Executive General Manager - Commercial & Legal
+profileImage: 'https://ucarecdn.com/711d5d28-b2bf-4133-a282-8db7eaef16c5/'
 biography: >-
   Tim has more than 15 years of legal and commercial experience including 12
   years of construction and urban development industry experience. Tim commenced
