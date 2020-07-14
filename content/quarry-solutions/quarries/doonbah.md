@@ -40,7 +40,7 @@ videoSection:
   title: ''
 contentSecondary: >-
   The latest environmental monitoring data for Doonbah Quarry can be found
-  [here. ](https://www.emonitoring.com.au/doonbah)
+  [here.](https://www.emonitoring.com.au/doonbah)
 accordion: []
 cta:
   buttonText: ''
