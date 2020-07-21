@@ -3,7 +3,7 @@ template: SingleLeader
 title: David Lightfoot
 generalOccupation: operational manager
 occupation: 'Operations Manager - Infrastructure '
-profileImage: ''
+profileImage: 'https://ucarecdn.com/0eaa8849-f3ea-4b51-8752-001a959e199d/'
 biography: >-
   David has more than 15 years experience in the civil construction industry
   having worked on large-scale complex D&C projects and in alliances and
