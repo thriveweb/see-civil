@@ -17,7 +17,7 @@ content: >-
   Quarry Solutions designed and built specific dredging equipment for the
   Doonbah Quarry. The Pacific Highway Upgrade - Woolgoolga to Ballina involved
   the longest stretch of continuous concrete pavement every undertaken in
-  Australia with a majority of the sand supplied from Doonbah. Othe clients for
+  Australia with a majority of the sand supplied from Doonbah. Other clients for
   the Doonbah Sand quarry including regional councils and garden and landscaping
   suppliers. 
 
