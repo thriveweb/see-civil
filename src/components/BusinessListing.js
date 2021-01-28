@@ -16,7 +16,6 @@ export default ({
     'See Group',
     'See Civil',
     'Quarry Solutions',
-    'Integrated Concrete Solutions',
   ]
 
   const orderedItems = orders.map(order =>
