@@ -115,36 +115,6 @@ class Nav extends Component {
                 </Link>
               </li>
             </ul>
-            <ul className='integrated-concrete-solutions-list'>
-              <p>Integrated Concrete Solutions</p>
-              <li><Link to='/integrated-concrete-solutions/' activeClassName='current'>Home</Link></li>
-              <li><Link to='/integrated-concrete-solutions/about/' activeClassName='current'>About</Link></li>
-              <li><Link to='/integrated-concrete-solutions/capabilities/' activeClassName='current'>Products & Capabilities</Link></li>
-              <li><Link to='/integrated-concrete-solutions/locations/' activeClassName='current'>Locations</Link></li>
-              <li><Link to='/integrated-concrete-solutions/leaders/' activeClassName='current'>Our Leaders</Link></li>
-              <li>
-                <Link
-                  to='/careers/'
-                  state ={{
-                    activeCompany: 'integrated-concrete-solutions'
-                  }}
-                  activeClassName={activeCompany === 'integrated-concrete-solutions' ? 'current' : ''}
-                >
-                  People and Careers
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to='/contact/'
-                  state ={{
-                    activeCompany: 'integrated-concrete-solutions'
-                  }}
-                  activeClassName={activeCompany === 'integrated-concrete-solutions' ? 'current' : ''}
-                >
-                  Contact
-                </Link>
-              </li>
-            </ul>
             <ul>
               {phone && <li><a href={`tel:${phone}`}>{phone}</a></li>}
               {email && <li><a href={`mailto:${email}`}>{email}</a></li>}
