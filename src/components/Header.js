@@ -1,4 +1,3 @@
-import './Header.scss'
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import _throttle from 'lodash/throttle'
@@ -6,10 +5,9 @@ import _throttle from 'lodash/throttle'
 import SeeGroupLogo from './SeeGroupLogo'
 import CivilLogo from './CivilLogo'
 import QuarrySolutionsLogo from './QuarrySolutionsLogo'
-import ICSLogo from './ICSLogo'
-
-
+import './Header.scss'
 // Components
+
   import Nav from './Nav'
 
 class Header extends Component {
@@ -48,10 +46,8 @@ class Header extends Component {
                 <Link className='header-logo quarry-solutions-logo' activeClassName='current' to="/quarry-solutions">
                   <QuarrySolutionsLogo />
                 </Link>
-                <Link className='header-logo ics-logo' activeClassName='current' to="/integrated-concrete-solutions">
-                  <ICSLogo />
-                </Link>
               </div>
+
                 <Nav
                   activeCompany={activeCompany}
                 />
