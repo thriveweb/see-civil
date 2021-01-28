@@ -45,8 +45,8 @@ class Footer extends Component {
                 <Link className='logo' to="/quarry-solutions">
                     <img src='/images/uploads/quarry-solutions.png' alt="Quarry Solutions Logo" />
                 </Link>
-                <Link className='logo' to="/integrated-concrete-solutions">
-                    <img src='/images/uploads/ics-logo-new-white.svg' alt="Integrated Concrete Solutions Logo" />
+                <Link className='logo' to="/">
+                    <img src='/images/uploads/see-group-logo.png' alt="See Group Logo" />
                 </Link>
                 <p>Copyright © 2018, SEE Civil. Site by Thrive Digital. <Link to='/privacy/'>Privacy</Link> | <Link to='/disclaimer/'>Disclaimer</Link></p>
               </div>
