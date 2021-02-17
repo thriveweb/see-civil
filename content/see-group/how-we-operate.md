@@ -88,7 +88,9 @@ contentColumns:
 
 
       Our safety processes are award-winning, having taken home awards at the
-      SafeWork NSW and Safe Work and Return to Work Awards (QLD) in 2018. 
+      SafeWork NSW and Safe Work and Return to Work Awards (QLD) in 2018 and
+      more recently the 2020 SafeWork NSW Award for our 'Outstanding work health
+      and safety response to the changed working environment due to COVID-19'.
 
 
       SEE Group businesses operate under a third-party accredited safety
@@ -99,7 +101,7 @@ contentColumns:
 
 
       * Encouraging our workforce through effective consultation, collaboration
-      and communitcation and encouraging employee-driven solutions to safety
+      and communication and encouraging employee-driven solutions to safety
       issues and concerns. 
 
       * Understanding the reasons for success as well as learning from our
@@ -151,7 +153,7 @@ contentColumns:
       https://ucarecdn.com/5a470b0d-c57b-432d-b7fb-bf5e2fb43745/-/crop/1800x937/0,155/-/preview/
     titleFade: Sustainability
   - content: >-
-      ### Enviromental excellence
+      ### Environmental excellence
 
 
       As an experienced group of companies, SEE Group recognises that our works
@@ -169,7 +171,9 @@ contentColumns:
       SEE Civil in particular, has vast experience working successfully on
       environmentally sensitive projects including works within Endangered
       Ecological Communities. We’ve received praise from clients and government
-      agencies alike for our commitment to environmental standards. 
+      agencies alike for our commitment to environmental standards and won the
+      2017 CCF Earth Awards for our unrivalled environmental management
+      initiatives.
 
 
       SEE Group is committed to positive environmental outcomes of any projects
