@@ -55,8 +55,8 @@ iconList:
     icon: 'https://ucarecdn.com/230af26c-e583-4b0f-9b4f-124e46cd404f/'
     title: 'mobile crushing & screening '
 downloads:
-  - file: 'https://ucarecdn.com/f03c1151-38bb-4a50-aa2b-f66ad5f40112/'
-    title: Quarry Solutions Capability Statement
+  - file: ''
+    title: ''
 meta:
   title: 'Quarry Solutions capability. '
 ---
