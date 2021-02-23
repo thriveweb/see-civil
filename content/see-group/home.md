@@ -12,7 +12,7 @@ description: >-
   Rent, Integrated Concrete Solutions and DMC. 
 
 
-  It is an an Australian-owned civil construction and engineering group with
+  It is an Australian-owned civil construction and engineering group with
   expertise in major infrastructure, urban development, plant hire and plant
   management, material supply and quarrying, readymix and precast concrete
   products. 
