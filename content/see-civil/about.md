@@ -30,7 +30,7 @@ contentBanner:
   buttonText: Read More
   buttonUrl: /see-civil/capabilities/
   content: >-
-    SEE Civil offers clients comprehensive and diverse capabilities across  a
+    SEE Civil offers clients comprehensive and diverse capabilities across a
     range of industry sectors.
   image: 'https://ucarecdn.com/5fcd9135-be0d-428e-a3ab-98ba728713f1/'
   title: Capabilities
