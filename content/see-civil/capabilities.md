@@ -10,7 +10,7 @@ intro:
   title: Capabilities
 iconList:
   - content: >-
-      SEE Civil is nationally pre-qualified at the R4, B3 and F150 levels
+      SEE Civil is nationally pre-qualified at the R5, B3 and F100 levels
       allowing us to undertake construction of simple and complex road, bridge
       and other transport projects.
     icon: 'https://ucarecdn.com/c66d58c6-6eb0-46d9-b3fe-6b3ac35e6692/'
