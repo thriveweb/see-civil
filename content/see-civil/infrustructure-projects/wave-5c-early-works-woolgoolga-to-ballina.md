@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Wave 5C Early Works - Woolgoolga to Ballina
+title: 'Pacific Highway Upgrade, Woolgoolga to Ballina - Wave 5C Early Works '
 featuredImage: 'https://ucarecdn.com/a107b36e-e4ce-4cb5-a38c-deda40bc212c/'
 specs: |-
   * Location - Pacific Highway south of Woodburn
