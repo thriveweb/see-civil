@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Tyndale Borrow - Woolgoolga to Ballina
+title: 'Pacific Highway Upgrade, Woolgoolga to Ballina - Tyndale Borrow'
 featuredImage: 'https://ucarecdn.com/71d1fb26-bdba-416a-9f11-3b36c7d00cbd/'
 specs: |-
   * Location - Tyndale, NSW 
