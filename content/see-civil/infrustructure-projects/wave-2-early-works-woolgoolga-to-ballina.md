@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Wave 2 Early Works - Woolgoolga to Ballina
+title: 'Pacific Highway Upgrade, Woolgoolga to Ballina - Wave 2 Early Works '
 featuredImage: 'https://ucarecdn.com/cd0066bd-f1dc-47f0-9690-b3fb8e846120/'
 specs: |-
   * Location - Pacific Highway Whytes Lane to Pimlico, NSW 
