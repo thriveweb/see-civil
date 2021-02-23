@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Section 5 Earthworks - Woolgoolga to Ballina
+title: 'Pacific Highway Upgrade, Woolgoolga to Ballina - Section 5 Earthworks '
 featuredImage: 'https://ucarecdn.com/9edebaec-3d72-4e5a-947f-e2ae228e3cd1/'
 specs: |-
   * Location - Pacific Highway north of Maclean, NSW  
