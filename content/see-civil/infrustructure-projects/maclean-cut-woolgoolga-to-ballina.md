@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Maclean Cut - Woolgoolga to Ballina
+title: 'Pacific Highway Upgrade, Woolgoolga to Ballina - Maclean Cut '
 featuredImage: 'https://ucarecdn.com/cb37f00b-dda4-44b2-abdb-2fef512592e5/'
 specs: |-
   * Location - Pacific Highway near Yamba 
