@@ -1,6 +1,8 @@
 ---
 template: SingleProject
-title: Woodburn to Broadwater Service Road - Woolgoolga to Ballina
+title: >-
+  Pacific Highway Upgrade, Woolgoolga to Ballina - Woodburn to Broadwater
+  Service Road 
 featuredImage: 'https://ucarecdn.com/dcf19a75-bb5f-4fb7-a325-069485a0c5d8/'
 specs: |-
   * Location - Pacific Highway between Woodburn and Broadwater, NSW
