@@ -41,7 +41,12 @@ videoSection:
 contentSecondary: >-
   The latest environmental monitoring data for Doonbah Quarry can be found
   [here.](https://www.emonitoring.com.au/doonbah)
-accordion: []
+accordion:
+  - title: Pollution Incident Response Management Plan
+    content: >-
+      The Pollution Incident Response Management Plan for the Doonbah Quarry can
+      be found here.
+    file: 'https://ucarecdn.com/63180d33-d98e-43f7-bd28-1db47a5d60e9/'
 cta:
   buttonText: ''
   buttonUrl: ''
