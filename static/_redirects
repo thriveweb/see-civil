@@ -8,9 +8,9 @@ http://seecivil.com.au/* https://seegroup.com.au/see-civil:splat 301!
 
 http://seecivil.com.au/careers/* https://seegroup.com.au/careers/:splat 301!
 http://seecivil.com.au/about-us/* https://seegroup.com.au/see-civil/about/:splat 301!
-http://seecivil.com.au/projects/* https://seegroup.com.au/see-civil/infrustructure-projects/:splat 301!
+http://seecivil.com.au/projects/* https://seegroup.com.au/see-civil/infrastructure-projects/:splat 301!
 http://seecivil.com.au/contact/* https://seegroup.com.au/contact/:splat 301!
-http://seecivil.com.au/project_status/current-projects/* https://seegroup.com.au/see-civil/infrustructure-projects:splat 301!
+http://seecivil.com.au/project_status/current-projects/* https://seegroup.com.au/see-civil/infrastructure-projects:splat 301!
 http://seecivil.com.au/staff/* https://seegroup.com.au/careers/:splat 301!
 
 ########################################################################################################
