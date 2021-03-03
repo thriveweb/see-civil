@@ -374,7 +374,7 @@ collections:
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
 
       - file: "content/see-civil/infrustructure-projects.md"
-        label: "Infrustructure Projects"
+        label: "Infrastructure Projects"
         name: "infrustructure-projects"
         fields:
           - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
@@ -455,7 +455,7 @@ collections:
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
 
   - name: "infrustructureprojects"
-    label: "Infrustructure Projects"
+    label: "Infrastructure Projects"
     folder: content/see-civil/infrustructure-projects
     create: true
     fields:

@@ -43,6 +43,7 @@ export const HomePageTemplate = ({
 
 
   return <Fragment>
+
     <Helmet title={meta ? meta.title : `Home | ${metaTitle && metaTitle}`}>
       {meta && <meta name="description" content={meta.description} />}
       {meta && <link rel="canonical" href={meta.canonical} />}
@@ -56,6 +57,7 @@ export const HomePageTemplate = ({
       buttonUrl={buttonUrl}
       home
     />
+    {console.log(meta)}
     <Intro {...intro} />
     {className === 'see-group' &&
       <BusinessListing businesses={businesses} className={className} />
