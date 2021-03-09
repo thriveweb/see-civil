@@ -2,7 +2,7 @@
 template: SingleLeader
 title: Stuart Yaxley
 generalOccupation: operational manager
-occupation: Operations Manager - Urban
+occupation: Operations Manager - Urban Development
 profileImage: 'https://ucarecdn.com/90461e05-3819-491d-bcdc-092dc1639f96/'
 biography: >-
   Stuart has over 23 years’ experience within the construction industry. He has
