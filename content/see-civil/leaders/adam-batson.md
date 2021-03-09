@@ -1,30 +1,11 @@
 ---
 template: SingleLeader
-title: Adam Batson
+title: Finn Rowe
 generalOccupation: operational manager
-occupation: Pre-contracts Manager
-profileImage: 'https://ucarecdn.com/2e313c24-d2af-41ed-aab9-36fd607cff9c/'
-biography: >-
-  Adam has more than 20 years of civil construction industry experience,
-  commencing as a leading hand for civil construction projects, before working
-  his way through different roles and qualifications. 
-
-
-  Adam now serves as SEE Civil's pre-contracts manager. In his role, Adam is
-  responsible for the successful bidding and handover of all projects undertaken
-  by SEE Civil through the coordination of resources, ensuring clear and
-  consistenet financial reporting and aligning the business with current market
-  opportunities. 
-
-
-  Having worked at both the site and corporate levels, Adam brings a wealth of
-  knowledge and understanding of the pricing, structure and ultimate delivery of
-  both urban development and civil infrastructure projects. 
-
-
-  Through his role, Adam has built an extensive network of contacts within the
-  civil construction industry in south east Queensland and northern New South
-  Wales.
+occupation: Construction Manager
+profileImage: >-
+  https://ucarecdn.com/5a61773f-105d-4a2d-8359-970f46fa0bff/-/preview/-/enhance/86/-/sharp/11/
+biography: "Finn has over ten years’ engineering and management experience in the civil construction industry. During this time, he has worked on a broad range of infrastructure, mining, local government and urban projects across Queensland and New South Wales. \r\n\nSince joining SEE Civil in 2018, Finn has been an instrumental part of the team and directly involved in the successful tendering, planning and delivery of several key projects. Commencing as a Project Manager, Finn quickly progressed to Construction Manager and now forms part of the Senior Management Team reporting to the Executive General Manager – Operations. \r\n\nHis responsibilities include managing day to day operations of projects and resourcing requirements, technical input on tenders, collaboration with other SEE Civil business units and SEE Group companies and forward and strategic planning and business development."
 meta:
   title: SEE Civil leader
 ---
