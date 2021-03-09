@@ -1,25 +1,10 @@
 ---
 template: SingleLeader
-title: Jamie Quartermaine
+title: Rob Blyth
 generalOccupation: operational manager
-occupation: Engineering Manager
-profileImage: 'https://ucarecdn.com/e0a19e7c-daf7-4fba-b7f2-0a2299fc0fb6/'
-biography: >-
-  Jamie has more than 15 years experience in construction project delivery in a
-  range of industries including civil infrastructure, rail, building and
-  mining.  
-
-
-  He joined SEE Civil in 2017 as a Senior Project Manager before being appointed
-  to his current role as Engineering Manager in 2019. In his role, Jamie is
-  responsible for development and management of design during pre-contracts and
-  delivery phases, providing engineering and commercial support to group
-  businesses and continuous development of engineering systems.
-
-
-  Jamie has extensive experience in a variety of contracting methods including
-  design and construction, alliances and construct only. His varied contracting
-  experience makes his valuable adviser for all of SEE Civil's projects.
+occupation: Senior Project Manager
+profileImage: ''
+biography: "With over 25 years’ experience in the civil construction industry, Rob is a highly experienced Senior Project Manager specialising in bulk earthworks, complex mass haul, widening, pavements and completion works.\r\n\nPassionate about the construction industry, Rob is highly committed to managing safety and environmental factors responsibly and sustainably. \r\n\nSince joining SEE Civil, Rob has successfully delivered a range of infrastructure projects across our civil infrastructure and urban projects."
 meta:
   title: SEE Civil Engineering Manager
 ---
