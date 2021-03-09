@@ -10,9 +10,9 @@ biography: >-
   management. 
 
 
-  Stuart joined SEE Civil in 2013 as a project manager, moving into a
-  construction manager role in 2015 and finally his current role as operations
-  manager of SEE Civil's urban development team in 2018. 
+  Stuart joined SEE Civil in 2013 as a Project Manager, moving into a
+  Construction Manager role in 2015 and finally his current role as Operations
+  Manager of SEE Civil's urban development team in 2018. 
 
 
   In his current role Stuart is responsible for leading the urban team, building
