@@ -1,8 +1,8 @@
 ---
 template: SingleLeader
-title: Chantelle Neiland
+title: Cameron Brittain
 generalOccupation: operational manager
-occupation: People and Culture Manager
-biography: "Chantelle is a tertiary qualified Human Resources professional with over nine years’ experience gained through a range of operational and strategic human resources roles in the Engineering and Construction industry. \r\n\nAs People and Culture Manager at SEE Group, Chantelle leads the strategy, implementation and management of human resources, industrial relations and training and development. Chantelle is focused on supporting our leaders and fostering high performing teams to ensure our people are our competitive advantage."
+occupation: General Manager - Technology and Digital Engineering
+biography: "Cameron has more than 15 years’ experience in the construction industry having worked on large-scale Infrastructure projects including road, rail, oil and gas and mining projects for a variety of Clients. \r\n\nIn his role as General Manager – Technology and Digital Engineering for SEE Group, Cameron is responsible for ensuring the groups technology strategy aligns with the core business requirements and strategic direction. He also drives the group’s ability to deliver Digital Engineering requirements to the Specifications put forward by government. \r\n\nCameron’s experience across the business means that he can drive change into the various divisions across the group."
 ---
 
