@@ -1,25 +1,25 @@
 ---
 template: SingleProject
-title: Mount Lindesay Highway Safety Improvements project - South Maclean
+title: Mount Lindesay Highway Safety Improvements Project - South Maclean
 featuredImage: 'https://ucarecdn.com/4bcf9c79-c579-464b-a801-169a6a1e1bf5/'
 specs: |-
   * Location - South Maclean, QLD 
-  * Completion Date - expected early 2020 
+  * Start date - July 2019
+  * Completion date - March 2020 
   * Value - $7.1 million 
   * Client - Department of Transport and Main Roads
 date: 2019-11-29T00:15:40.124Z
-projectstatus: current
+projectstatus: completed
 content: >-
-  SEE Civil is undertaking the Mount Lindesay Highway Safety Improvement
-  projects - South Maclean on behalf of the Department of Transport and Main
-  Roads. 
+  SEE Civil undertook the Mount Lindesay Highway Safety Improvements Project -
+  South Maclean on behalf of the Department of Transport and Main Roads. 
 
 
-  The project invovles extending the eastern service road to connect Wharf
+  The project involved extending the eastern service road to connect Wharf
   Street and Stockleigh Road and  disconnecting the existing intersections of
   Casuarina Road and Maclean Street with the Mount Lindesay Highway. As part of
-  the proejct a new signalised intersection will also be built at Stockleigh
-  Road and Casuarina Road is being extended to connect with Crest Road.
+  the project a new signalised intersection was also be built at Stockleigh Road
+  and Casuarina Road to connect with Crest Road.
 videoSection:
   title: ''
 accordion:
