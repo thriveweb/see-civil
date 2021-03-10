@@ -1,24 +1,28 @@
 ---
 template: SingleProject
-title: Eastwood Estate
+title: Eastwood Estate - Stage 1
 featuredImage: 'https://ucarecdn.com/7b217f4b-6d01-4b09-bacf-74d4b7e6aab8/'
 specs: |-
   Location - Goonellabah, NSW
 
   Value - $4.2 million 
 
+  Start date - May 2019
+
+  Completion date - Jan 2020
+
   Client - McCloy Group
 date: 2019-12-15T21:41:54.662Z
-projectstatus: current
+projectstatus: completed
 content: >-
   Eastwood Estate is a residential subdivision being constructed in the Lismore
   City Council region by the McCloy Group. At completion, the site will hosts
   135 residential lots across a 21 hectare parcel.
 
 
-  SEE Civil is constructing the first stage of the development including an
-  entry road and statement, services infrastructure, retaining walls, internal
-  road construction, sewer pump station and hard and soft landscaping features.
+  SEE Civil constructed the first stage of the development including an entry
+  road and statement, services infrastructure, retaining walls, internal road
+  construction, sewer pump station and hard and soft landscaping features.
 videoSection:
   title: ''
 accordion:
