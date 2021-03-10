@@ -9,7 +9,24 @@ specs: |-
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2019-03-14T23:38:08.828Z
 projectstatus: completed
-content: "On behalf of the Australian and NSW governments, Roads and Maritime Services is progressively upgrading the Pacific Highway to dual carriageway between the Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway upgrade involves the duplication of 155 kilometres to a four-lane divided road. The upgrade starts about six kilometres north of Woolgoolga (north of Coffs Harbour) and ends about six kilometres south of Ballina. \r\n\n\rThe Tyndale Borrow package of work is part of the Woolgoolga to Ballina Pacific Highway upgrade. SEE Civil worked collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade. \r\n\nThe Tyndale Borrow package involved the estbalishment and operation of a borrow site to provide construction materials to the Woolgoolga to Ballina Pacific Highway upgrade."
+content: >-
+  On behalf of the Australian and NSW governments, Roads and Maritime Services
+  progressively upgraded the Pacific Highway to dual carriageway between the
+  Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway
+  upgrade involved the duplication of 155 kilometres to a four-lane divided
+  road. The upgrade starts six kilometres north of Woolgoolga (north of Coffs
+  Harbour) and ends six kilometres south of Ballina. 
+
+
+  The Tyndale Borrow package of work is part of the Woolgoolga to Ballina
+  Pacific Highway upgrade. SEE Civil worked collaboratively with Roads and
+  Maritime Services and Pacific Complete to deliver this part of the Woolgoolga
+  to Ballina Pacific Highway upgrade. 
+
+
+  The Tyndale Borrow package involved the establishment and operation of a
+  borrow site to provide construction materials to the Woolgoolga to Ballina
+  Pacific Highway upgrade.
 videoSection:
   title: ''
 accordion:
