@@ -5,9 +5,11 @@ featuredImage: 'https://ucarecdn.com/4a1f8938-5f6f-4d35-9f55-128eee50ef1c/'
 specs: |-
   * Location - Bahrs Scrub, QLD 
   * Value - $8 Million
+  * Start date - July 2019
+  * Completion date - January 2020
   * Client - Frasers Property
-date: 2019-04-15T04:06:41.050Z
-projectstatus: current
+date: ''
+projectstatus: completed
 content: "Brookhaven Estate is a greenfield master-planned community in Bahrs Scrub Queensland.  At completion the estate will be hold more than 1300 rediential properties, a retail centre and a variety of parks and green spaces. \r\n\nSEE Civil was initially engaged to deliver four stages of the project, including external roadworks on Menora Road and an upgrade of Berzins Court. Since commencement, SEE Civil has been awarded an additional four residential stages as well as an upgrade to Prangley Road."
 videoSection:
   title: ''
