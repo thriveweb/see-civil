@@ -4,12 +4,26 @@ title: 'Pacific Highway Upgrade, Woolgoolga to Ballina - Section 5 Earthworks '
 featuredImage: 'https://ucarecdn.com/9edebaec-3d72-4e5a-947f-e2ae228e3cd1/'
 specs: |-
   * Location - Pacific Highway north of Maclean, NSW  
-  * Completion date - early 2020 (anticipated)
+  * Start date - October 2019
+  * Completion date - February 2020
   * Value - $25 million 
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2019-12-02T05:31:52.628Z
-projectstatus: current
-content: "On behalf of the Australian and NSW governments, Roads and Maritime Services is progressively upgrading the Pacific Highway to dual carriageway between the Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway upgrade involves the duplication of 155 kilometres to a four-lane divided road. The upgrade starts about six kilometres north of Woolgoolga (north of Coffs Harbour) and ends about six kilometres south of Ballina.\r\n\nThe Section 5 earthworks package \rinvolves work to construct the northbound and southbound carriageways as well as interchange ramps and local roads, north of the Harwood Bridge. SEE Civil is working collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade."
+projectstatus: completed
+content: >-
+  On behalf of the Australian and NSW governments, Roads and Maritime Services
+  progressively upgraded the Pacific Highway to dual carriageway between the
+  Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway
+  upgrade involved the duplication of 155 kilometres to a four-lane divided
+  road. The upgrade starts six kilometres north of Woolgoolga (north of Coffs
+  Harbour) and ends six kilometres south of Ballina.
+
+
+  The Section 5 earthworks package involved the construction of the northbound
+  and southbound carriageways as well as interchange ramps and local roads,
+  north of the Harwood Bridge. SEE Civil worked collaboratively with Roads and
+  Maritime Services and Pacific Complete to deliver this part of the Woolgoolga
+  to Ballina Pacific Highway upgrade.
 videoSection:
   title: ''
 accordion:
