@@ -6,12 +6,31 @@ title: >-
 featuredImage: 'https://ucarecdn.com/dcf19a75-bb5f-4fb7-a325-069485a0c5d8/'
 specs: |-
   * Location - Pacific Highway between Woodburn and Broadwater, NSW
-  * Completion Date - March, 2018
+  * Completion Date - March 2018
   * Value - $40 million
   * Client - Roads and Maritime Services
 date: 2018-03-27T21:59:24.376Z
 projectstatus: completed
-content: "On behalf of the Australian and NSW governments, Roads and Maritime Services is progressively upgrading the Pacific Highway to dual carriageway between the Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway upgrade involves the duplication of 155 kilometres to a four-lane divided road. The upgrade starts about six kilometres north of Woolgoolga (north of Coffs Harbour) and ends about six kilometres south of Ballina. \r\n\nThe Woodburn to Broadwater service road project is part of the Woolgoolga to Ballina Pacific Highway upgrade. SEE Civil worked collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade. \n\nIn moving traffic onto the new service road, work was able to continue on the new highway. Separating traffic will help minimise the impact of work and improve safety for workers and highway motorists.  The service road will remain as a local road between Woodburn and Broadwater following the completion of the Pacific Highway upgrade."
+content: >-
+  On behalf of the Australian and NSW governments, Roads and Maritime Services
+  progressively upgraded the Pacific Highway to dual carriageway between the
+  Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway
+  upgrade involved the duplication of 155 kilometres to a four-lane divided
+  road. The upgrade starts six kilometres north of Woolgoolga (north of Coffs
+  Harbour) and ends six kilometres south of Ballina. 
+
+
+  The Woodburn to Broadwater service road project is part of the Woolgoolga to
+  Ballina Pacific Highway upgrade. SEE Civil worked collaboratively with Roads
+  and Maritime Services and Pacific Complete to deliver this part of the
+  Woolgoolga to Ballina Pacific Highway upgrade. 
+
+
+  In moving traffic onto the new service road, work was able to continue on the
+  new highway. Separating traffic helped minimise the impact of work and improve
+  safety for workers and highway motorists.  The service road remains as a local
+  road between Woodburn and Broadwater following the completion of the Pacific
+  Highway upgrade.
 videoSection:
   title: ''
 accordion:
