@@ -10,7 +10,30 @@ specs: |-
   * Client - Lismore City Council
 date: ''
 projectstatus: completed
-content: "The [Lismore Flood Diversion Channel](https://yoursay.lismore.nsw.gov.au/south-lismore-flood-mitigation-works) involves the excavation and placement of roughly 410,000m3 of material including, stripping and re-spreading of topsoil, revegetation works and the removal of existing Sewer Rising Mains.\r\n\nThe Lismore City Council has designed the flood diversion channel to provide flood mitigation to the city. Flood modelling undertaken in 2016 suggest the Flood Diversion Channel will reduce peak water levels in the CBD, North Lismore and South Lismore by as much as 100mm during a 1 in 100 year flood event.\n\nThe Diversion Channel will achieve this by: \n\n* Providing for a more even flow of floodwaters through the cross-section of the floodway \n* Reduce floodwater from Leycester Creek \n* Increase the cross-sectional area equivalent to the areas which abut the channel being excavated."
+content: >-
+  The [Lismore Flood Diversion
+  Channel](https://yoursay.lismore.nsw.gov.au/south-lismore-flood-mitigation-works)
+  involved the excavation and placement of roughly 410,000m3 of material
+  including, stripping and re-spreading of topsoil, revegetation works and the
+  removal of existing Sewer Rising Mains.
+
+
+  The Lismore City Council designed the flood diversion channel to provide flood
+  mitigation to the city. Flood modelling undertaken in 2016 suggest the Flood
+  Diversion Channel will reduce peak water levels in the CBD, North Lismore and
+  South Lismore by as much as 100mm during a 1 in 100 year flood event.
+
+
+  The Diversion Channel will achieve this by: 
+
+
+  * Providing for a more even flow of floodwaters through the cross-section of
+  the floodway 
+
+  * Reduce floodwater from Leycester Creek 
+
+  * Increase the cross-sectional area equivalent to the areas which abut the
+  channel being excavated.
 videoSection:
   title: ''
 accordion:
