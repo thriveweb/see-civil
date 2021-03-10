@@ -5,9 +5,11 @@ featuredImage: 'https://ucarecdn.com/63ed4049-057d-401e-b74b-bfce237e7af0/'
 specs: |-
   * Location - Lismore, NSW 
   * Value - $4.3 million 
+  * Start date - September 2019
+  * Completion date - July 2020
   * Client - Lismore City Council
-date: 2019-12-05T21:46:28.966Z
-projectstatus: current
+date: ''
+projectstatus: completed
 content: "The [Lismore Flood Diversion Channel](https://yoursay.lismore.nsw.gov.au/south-lismore-flood-mitigation-works) involves the excavation and placement of roughly 410,000m3 of material including, stripping and re-spreading of topsoil, revegetation works and the removal of existing Sewer Rising Mains.\r\n\nThe Lismore City Council has designed the flood diversion channel to provide flood mitigation to the city. Flood modelling undertaken in 2016 suggest the Flood Diversion Channel will reduce peak water levels in the CBD, North Lismore and South Lismore by as much as 100mm during a 1 in 100 year flood event.\n\nThe Diversion Channel will achieve this by: \n\n* Providing for a more even flow of floodwaters through the cross-section of the floodway \n* Reduce floodwater from Leycester Creek \n* Increase the cross-sectional area equivalent to the areas which abut the channel being excavated."
 videoSection:
   title: ''
