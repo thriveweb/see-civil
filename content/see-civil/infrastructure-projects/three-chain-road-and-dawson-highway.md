@@ -4,11 +4,27 @@ title: Three Chain Road and Dawson Highway
 featuredImage: 'https://ucarecdn.com/33c258e6-3650-4843-ab53-e864f3d840f1/'
 specs: |-
   * Location - Moura, Central Queensland
-  * Value - $21m
+  * Value - $27m
+  * Start date - July 2019
+  * Completion date - July 2020
   * Client - Anglo American
-date: 2019-12-04T22:50:40.209Z
-projectstatus: current
-content: "The Three Chain Road & Dawson Highway project is a new local road and highway upgrade project adjacent to and through the Dawson Mine for Anglo American, near Moura in Central Queensland.\r\n\n\rThe Three Chain Road works are located within the operating mine lease (Dawson Mine leases ML 5591 and ML 5598) and private land. The area of works has been excised from mine operations and works will be carried out under the Work Health and Safety Act 2011 and Work Health and Safety Regulation 2011. The road and bridge crosses the current mines coal conveyors and CHPP road and through the centre of the mine towards the Dawson Highway.\r\n\nThe Dawson Highway works is the duplication of the existing highway while extending the Three Chain Road bell mouth to facilitate larger haul trucks due to the location against the Aurizon rail line."
+date: ''
+projectstatus: completed
+content: >-
+  The Three Chain Road and Dawson Highway project saw the construction of a new
+  local road and highway upgrade adjacent to and through the Dawson Mine for
+  Anglo American, near Moura in Central Queensland.
+
+
+  The Three Chain Road works were located within the operating mine lease
+  (Dawson Mine leases ML 5591 and ML 5598) and private land. The area of works
+  was excised from mine operations and works were carried out under the Work
+  Health and Safety Act 2011 and Work Health and Safety Regulation 2011. 
+
+
+  The Dawson Highway works duplicated the existing highway while extending the
+  Three Chain Road bell mouth to facilitate larger haul trucks due to the
+  location against the Aurizon rail line.
 videoSection:
   title: ''
 accordion:
