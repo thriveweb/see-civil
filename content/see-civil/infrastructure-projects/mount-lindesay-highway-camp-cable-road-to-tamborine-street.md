@@ -6,10 +6,28 @@ specs: |-
   * Location: Jimboomba
   * Value: $13.3m
   * Start date: January 2020
+  * Completion date: October 2020
   * Client: TMR South Coast
-date: 2020-02-12T03:40:18.036Z
-projectstatus: current
-content: "SEE Civil has been awarded the latest package of works on the Mount Lindesay Highway with the Department of Transport and Main Roads (TMR). \r\n\n\rSEE Civil started construction in January 2020 on the duplication of the existing Mount Lindesay Highway in Jimboomba between Camp Cable Road and the Tamborine/Johanna Street intersection. SEE Civil have won three of the four projects along the Mount Lindesay Highway since TMR announced funding in late 2016 for the Mount Lindesay Highway upgrades between Jimboomba and North Maclean.\r\n\n\rThis project will see a duplication of the existing Mt Lindesay Highway in Jimboomba between Camp Cable Road and Johanna Street to create flood immunity by constructing a new northbound alignment 3m higher than the existing road alignment. \r\n\n\rSEE Civil remains passionate and committed to providing local benefit opportunities to the project’s region through support of the local communities and businesses as previously demonstrated during our delivery of the last two packages."
+date: ''
+projectstatus: completed
+content: >-
+  SEE Civil started construction in January 2020 on the duplication of the
+  existing Mount Lindesay Highway in Jimboomba between Camp Cable Road and the
+  Tamborine/Johanna Street intersection. SEE Civil have won three of the four
+  projects along the Mount Lindesay Highway since TMR announced funding in late
+  2016 for the Mount Lindesay Highway upgrades between Jimboomba and North
+  Maclean.
+
+
+  This project duplicated the existing Mt Lindesay Highway in Jimboomba between
+  Camp Cable Road and Johanna Street to create flood immunity by constructing a
+  new northbound alignment 3m higher than the existing road alignment. 
+
+
+  SEE Civil remains passionate and committed to providing local benefit
+  opportunities to the project’s region through support of the local communities
+  and businesses as previously demonstrated during our delivery of the last two
+  packages.
 videoSection:
   title: ''
 accordion:
