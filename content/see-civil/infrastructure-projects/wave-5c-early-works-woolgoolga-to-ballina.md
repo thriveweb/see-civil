@@ -9,7 +9,27 @@ specs: |-
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2016-12-29T22:31:15.860Z
 projectstatus: completed
-content: "The Wave 5C Early Works package is part of the Woolgoolga to Ballina Pacific Highway upgrade. SEE Civil worked collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade. \r\n\nThere was two distinct areas of this early works package – Tabbimoble and Lang Hill.\n\nOverall SEE Civil undertook foundation and embankment treatment works across about 4 kilometres.  \r\n\nIn 2017, this project was announced as the Winner of Category 4 (project $10 million to $30 million) in the NSW branch CCF Earth Awards.  \r\n\nThere early works were undertaken to ensure major construction could proceed in this area."
+content: >-
+  The Wave 5C Early Works package was part of the Woolgoolga to Ballina Pacific
+  Highway upgrade. SEE Civil worked collaboratively with Roads and Maritime
+  Services and Pacific Complete to deliver this part of the Woolgoolga to
+  Ballina Pacific Highway upgrade. 
+
+
+  There was two distinct areas of this early works package – Tabbimoble and Lang
+  Hill.
+
+
+  Overall SEE Civil undertook foundation and embankment treatment works across
+  four kilometers.  
+
+
+  In 2017, this project was announced as the Winner of Category 4 (project $10
+  million to $30 million) in the NSW branch CCF Earth Awards.  
+
+
+  There early works were undertaken to ensure major construction could proceed
+  in this area.
 videoSection:
   title: ''
 contentSecondary: ''
