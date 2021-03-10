@@ -9,7 +9,24 @@ specs: |-
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2017-02-13T22:31:15.860Z
 projectstatus: completed
-content: "On behalf of the Australian and NSW governments, Roads and Maritime Services is progressively upgrading the Pacific Highway to dual carriageway between the Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway upgrade involves the duplication of 155 kilometres to a four-lane divided road. The upgrade starts about six kilometres north of Woolgoolga (north of Coffs Harbour) and ends about six kilometres south of Ballina. \r\n\nThe Wave 4 Early Works package is part of the Woolgoolga to Ballina Pacific Highway upgrade. SEECivil worked collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade. \n\nThere early works were undertaken to ensure appropriate management, pre-load and settlement of soft soil areas prior to major roadworks commencing on this section of highway."
+content: >-
+  On behalf of the Australian and NSW governments, Roads and Maritime Services
+  progressively upgraded the Pacific Highway to dual carriageway between the
+  Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway
+  upgrade involved the duplication of 155 kilometres to a four-lane divided
+  road. The upgrade starts six kilometres north of Woolgoolga (north of Coffs
+  Harbour) and ends six kilometres south of Ballina. 
+
+
+  The Wave 4 Early Works package was part of the Woolgoolga to Ballina Pacific
+  Highway upgrade. SEECivil worked collaboratively with Roads and Maritime
+  Services and Pacific Complete to deliver this part of the Woolgoolga to
+  Ballina Pacific Highway upgrade. 
+
+
+  There early works were undertaken to ensure appropriate management, pre-load
+  and settlement of soft soil areas prior to major roadworks commencing on this
+  section of highway.
 videoSection:
   title: ''
 contentSecondary: ''
