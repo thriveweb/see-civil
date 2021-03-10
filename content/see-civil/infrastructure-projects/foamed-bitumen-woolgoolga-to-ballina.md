@@ -7,8 +7,25 @@ specs: |-
   * Value - $ 25 million 
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2019-12-05T03:07:19.164Z
-projectstatus: current
-content: "On behalf of the Australian and NSW governments, Roads and Maritime Services is progressively upgrading the Pacific Highway to dual carriageway between the Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway upgrade involves the duplication of 155 kilometres to a four-lane divided road. The upgrade starts about six kilometres north of Woolgoolga (north of Coffs Harbour) and ends about six kilometres south of Ballina.\r\n\nThe Section 5 Foamed Bitumen package involves the provision and placing of foamed bitumen pavement on the northbound and southbound carriageway of the Pacific Highway between the new Maclean interchange and the Iluka Interchange. \n\nSEE Civil is working collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade."
+projectstatus: completed
+content: >-
+  On behalf of the Australian and NSW governments, Roads and Maritime Services
+  progressively upgraded the Pacific Highway to dual carriageway between the
+  Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway
+  upgrade involved the duplication of 155 kilometres to a four-lane divided
+  road. The upgrade starts six kilometres north of Woolgoolga (north of Coffs
+  Harbour) and ends six kilometres south of Ballina.
+
+
+  This Section 5 Foamed Bitumen package involved the provision and placing of
+  foamed bitumen pavement on the northbound and southbound carriageway of the
+  Pacific Highway between the new Maclean interchange and the Iluka
+  Interchange. 
+
+
+  SEE Civil worked collaboratively with Roads and Maritime Services and Pacific
+  Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway
+  upgrade.
 videoSection:
   title: ''
 accordion:
