@@ -7,10 +7,30 @@ specs: |-
 
   Value: $7.3m
 
+  Start date: July 2019
+
+  Completion date: August 2020
+
   Client: Hutchinson Builders
 date: 2019-12-05T04:42:23.841Z
-projectstatus: current
-content: "The last remaining undeveloped land in the suburb of Casuarina, the Casuarina Town Centre Stage 2 Project is mixed commercial and residential development comprising 89 lots, open space areas, play equipment and beach access pathways.\r\n\n\rThe works were started in July 2019 and are due to be completed in May 2020. The contract is with Hutchinson Builders who have been appointed Principal Contractor at the site by Clarence Properties. The works are to be completed in accordance with Tweed Shire Council Specifications under the watch of Certifying Engineers Newton Deny Chappelle.\r\n\nThe Project will see the final parcel of land completed in the master planned community of Casuarina with residential lots surrounding a centralised commercial and high density living precinct. All lots were sold prior to construction approval by Council."
+projectstatus: completed
+content: >-
+  The last remaining undeveloped land in the suburb of Casuarina, the Casuarina
+  Town Centre Stage 2 Project is mixed commercial and residential development
+  comprising 89 lots, open space areas, play equipment and beach access
+  pathways.
+
+
+  This contract was with Hutchinson Builders who were appointed Principal
+  Contractor at the site by Clarence Properties. The works were completed in
+  accordance with Tweed Shire Council Specifications under the watch of
+  Certifying Engineers Newton Deny Chappelle.
+
+
+  This Project saw the final parcel of land completed in the master planned
+  community of Casuarina with residential lots surrounding a centralised
+  commercial and high density living precinct. All lots were sold prior to
+  construction approval by Council.
 videoSection:
   title: ''
 accordion:
