@@ -9,7 +9,26 @@ specs: |-
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2019-08-28T00:10:10.383Z
 projectstatus: completed
-content: "On behalf of the Australian and NSW governments, Roads and Maritime Services is progressively upgrading the Pacific Highway to dual carriageway between the Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway upgrade involves the duplication of 155 kilometres to a four-lane divided road. The upgrade starts about six kilometres north of Woolgoolga (north of Coffs Harbour) and ends about six kilometres south of Ballina. \r\n\nThe Maclean cut project was awarded as a variation to the Woodburn to Broadwater service road project. Both packages are part of the Woolgoolga to Ballina Pacific Highway upgrade. SEE Civil worked collaboratively with Roads and Maritime Services and Pacific Complete to deliver this part of the Woolgoolga to Ballina Pacific Highway upgrade. \r\n\nThere was two distinct scopes of work for the Maclean Cut package, these were constructing the pavement crossovers and widenings to facilitate future traffic staging at Maclean Cut and Farlows Flat, and preload and foundation treatment of the Yamba interchange area."
+content: >-
+  On behalf of the Australian and NSW governments, Roads and Maritime Services
+  progressively upgraded the Pacific Highway to dual carriageway between the
+  Hunter and NSW/Queensland border. The Woolgoolga to Ballina Pacific Highway
+  upgrade involved the duplication of 155 kilometres to a four-lane divided
+  road. The upgrade starts six kilometres north of Woolgoolga (north of Coffs
+  Harbour) and ends six kilometres south of Ballina. 
+
+
+  The Maclean cut project was awarded as a variation to the Woodburn to
+  Broadwater service road project. Both packages were part of the Woolgoolga to
+  Ballina Pacific Highway upgrade. SEE Civil worked collaboratively with Roads
+  and Maritime Services and Pacific Complete to deliver this part of the
+  Woolgoolga to Ballina Pacific Highway upgrade. 
+
+
+  There was two distinct scopes of work for the Maclean Cut package, these were
+  constructing the pavement crossovers and widenings to facilitate future
+  traffic staging at Maclean Cut and Farlows Flat, and preload and foundation
+  treatment of the Yamba interchange area.
 videoSection:
   title: ''
 accordion:
