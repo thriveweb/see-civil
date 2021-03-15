@@ -9,10 +9,12 @@ featuredImageThumbnail: 'https://ucarecdn.com/bbbedbd1-8f54-4221-a9a5-f2cf221e75
 buttonText: 'Contact Us '
 buttonUrl: /contact/
 description: >-
-  SEE Civil delivers construction and engineering services for major
-  infrastructure and urban development projects. SEE Civil has a strong 30 year
+  SEE Civil deliver construction and engineering services for major
+  infrastructure and urban development projects. SEE Civil has a strong 32 year
   history in the civil construction and engineering sector working with a range
-  of clients and industries. 
+  of clients and industries. We differentiate ourselves with our robust
+  vertically integrated self-perform model to deliver optiumum results for
+  Clients.
 intro:
   buttonText: Read More
   buttonUrl: /see-civil/about/
