@@ -4,26 +4,7 @@ slug: about
 title: About SEE Civil
 featuredImage: 'https://ucarecdn.com/5c459278-ce35-4088-a962-b82ff669ef82/'
 intro:
-  content: >-
-    We've grown our civil infrastructure and urban development capabilities over
-    more than 30 years of successful industry experience. Our highly experienced
-    teams continually exceed client expectations through an unrivalled
-    commitment to delivering quality outcomes safely. 
-
-
-    Our projects range from $2 million to $150 million and we engage through
-    several contracting methods, including design and construction, schedule of
-    rates/bill of quantities, lump sum and joint ventures. 
-
-
-    SEE Civil adopts an integrated approach to project delivery, utilising the
-    skills and experience of all SEE Group businesses to help deliver complete
-    construction solutions. 
-
-
-    Our project delivery teams build strong working relationships with clients
-    through collaboration and by developing innovative construction solutions
-    that provide cost-savings and deliver best-for-project outcomes.
+  content: "SEE Civil is an award-winning civil construction and engineering company based in Helensvale on the northern Gold Coast. We deliver construction solutions for major infrastructure and urban development projects in Queensland and New South Wales. \r\n\nOur experienced and highly collaborative project teams deliver civil construction services for projects ranging from $1 million through to $150 million across various contracting models, including early contractor involvement, design and construct, schedule rates/bill of quantities and lump sum. \r\n\nAt SEE Civil we differentiate ourselves by our integrated approach to project delivery, utilising the skills and experience of all SEE Group businesses to help deliver complete construction solutions that continually exceed client expectations through an unrivalled commitment to delivering quality outcomes safely. \r\n\nOur project delivery teams build strong working relationships with clients through collaboration and by developing innovative construction solutions that provide cost-savings and deliver best-for-project outcomes."
   subtitle: 'Constructing the future, on the strength of our past'
   title: About Us
 contentBanner:
