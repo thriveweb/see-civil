@@ -9,7 +9,7 @@ specs: >-
 
 
   **Major Clients -** Department of Transport and Main Roads, Tenterfield Shire
-  Council, Southern Downs Regional Council
+  Council, Southern Downs Regional Council, Brown Contractors, SEE Civil
 date: 2020-11-26T05:31:10.398Z
 videoSection:
   title: ''
