@@ -48,7 +48,7 @@ capabilities:
       title: Industrial and Commercial Development
     - icon: 'https://ucarecdn.com/f2d08fbf-a4dc-453b-99cc-2789a0d36e81/'
       title: Residential development
-    - icon: 'https://ucarecdn.com/46c7ab98-0d25-4f1d-a066-8bde3e82c5d5/'
+    - icon: 'https://ucarecdn.com/6fe3509d-355f-4e10-9c76-415a1723240b/'
       title: Foamed bitumen and asphalt installation
   subtitle: Capabilities
   title: Capabilities
