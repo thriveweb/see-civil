@@ -23,7 +23,7 @@ intro:
     build the capabilities of our company and our people.
   subtitle: >-
     SEE Civil delivers construction and engineering services for major
-    infrastructure and urban development projects
+    infrastructure and urban development clientele.
   title: About
 capabilities:
   buttonText: Explore
@@ -46,6 +46,8 @@ capabilities:
       title: Industrial and Commercial Development
     - icon: 'https://ucarecdn.com/f2d08fbf-a4dc-453b-99cc-2789a0d36e81/'
       title: Residential development
+    - icon: ''
+      title: Foamed bitumen and asphalt installation
   subtitle: Capabilities
   title: Capabilities
 contentBanner:
