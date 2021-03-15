@@ -17,8 +17,8 @@ iconList:
     title: transport infrastructure
   - content: >-
       We've constructed significant water infrastructure works including
-      pipelines and stormwater drainage, trunk sewers, waste water treatment
-      plants, pump stations and raising mains. Our teams also have experience in
+      pipelines and stormwater drainage, trunk sewers, wastewater treatment
+      plants, pump stations and rising mains. Our teams also have experience in
       the installation of all major service infrastructure.
     icon: 'https://ucarecdn.com/349c67cd-4288-4521-ba25-cd894a0c0697/'
     title: 'Utility and water infrastructure '
@@ -36,9 +36,9 @@ iconList:
     title: 'Soft soil and foundation treatment '
   - content: >-
       We've been a part of some of the most iconic commercial and industrial
-      developments on the Gold Coast and across Queensland. Our expertise
-      includes bulk and detailed earthworks, utility and services construction
-      and installation, roadworks and landscaping.
+      developments on the Gold Coast and across Queensland and New South Wales.
+      Our expertise includes bulk and detailed earthworks, utility and services
+      construction and installation, roadworks and landscaping.
     icon: 'https://ucarecdn.com/d8a4c2be-f9e1-4f4f-9a51-8cb86c620409/'
     title: 'Industrial and Commercial development '
   - content: >-
