@@ -7,9 +7,9 @@ intro:
   content: >-
     SEE Group was established to combine the capability, experience and
     knowledge of SEE Civil and Quarry Solutions. Since then, we've constructed
-    our capability to include concrete and material supply and plant and
+    our capability to include asphalt and foam bitumen supply and plant and
     equipment ownership and management to complement our construction and
-    engineering expertise.
+    engineering expertise. 
 
 
     This combined expertise allows SEE Group to deliver complete construction
@@ -18,7 +18,7 @@ intro:
 
 
     Our businesses have more than 30 years of success in the civil construction
-    industry. 
+    industry and currently employ over 350 people.
 
 
     ## The SEE Group Difference
@@ -29,9 +29,9 @@ intro:
   title: 'SEE Group '
 divisionIntro:
   content: >-
-    SEE Group now combines the experience and capability of three businesses
-    across the civil construction industry - SEE Civil, Quarry Solutions and
-    Integrated Concrete Solutions.
+    SEE Group now combines the experience and capability of four businesses
+    across the civil construction industry - SEE Civil, Quarry Solutions, Civil
+    Rent and DMC.
 
 
     Our integrated approach to project delivery allows us to deliver complete
