@@ -5,6 +5,8 @@ featuredImage: 'https://ucarecdn.com/9727f0bc-034f-4bb9-b4b3-9d015e50f578/'
 specs: |-
   * Location - Pacific Highway between Maclean and Iluka 
   * Value - $ 25 million 
+  * Start date - October 2018
+  * Completion date - February 2020
   * Client - Roads and Maritime Services and Pacific Complete
 date: 2019-12-05T03:07:19.164Z
 projectstatus: completed
