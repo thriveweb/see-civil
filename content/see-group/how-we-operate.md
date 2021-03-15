@@ -134,50 +134,11 @@ contentColumns:
 
       * **Collaboration**  - working collaboratively with our client, between
       businesses and across the broader construction industry to identify,
-      deliver and drive sustainability best practices. 
-
-
-      Follow the links below to see our corporate commitments to sustainability
-      via our company sustainability policies. 
-
-
-
-
-      [SEE Civil Pty Ltd sustainability
-      policy](http://www.dmcquarries.com.au/wp-content/uploads/2019/10/22-A1-26-Sustainability-Policy.pdf)
-
-
-      [Quarry Solutions Pty Ltd sustainability policy
-      ](http://www.dmcquarries.com.au/wp-content/uploads/2019/10/Q-22-A1-26-Sustainability-Policy.pdf)
+      deliver and drive sustainability best practices.
     image: >-
       https://ucarecdn.com/5a470b0d-c57b-432d-b7fb-bf5e2fb43745/-/crop/1800x937/0,155/-/preview/
     titleFade: Sustainability
-  - content: >-
-      ### Environmental excellence
-
-
-      As an experienced group of companies, SEE Group recognises that our works
-      have the potential to impact on the environment. We’re committed to
-      minimising and reducing the environmental impacts of our operations.
-
-
-      We encourage environmental awareness within our workforce and support
-      project teams to uphold the highest standards when implementing our
-      environmental procedures. The environmental procedures and policies
-      contained within our integrated management system comply with the relevant
-      environmental legislation and regulations. 
-
-
-      SEE Civil in particular, has vast experience working successfully on
-      environmentally sensitive projects including works within Endangered
-      Ecological Communities. We’ve received praise from clients and government
-      agencies alike for our commitment to environmental standards and won the
-      2017 CCF Earth Awards for our unrivalled environmental management
-      initiatives.
-
-
-      SEE Group is committed to positive environmental outcomes of any projects
-      it undertakes.
+  - content: "### Environmental excellence\n\nAs an experienced group of companies, SEE Group recognises that our works have the potential to impact on the environment. We’re committed to minimising and reducing the environmental impacts of our operations.\n\nWe encourage environmental awareness within our workforce and support project teams to uphold the highest standards when implementing our environmental procedures. The environmental procedures and policies contained within our integrated management system comply with the relevant environmental legislation and regulations. \n\nSEE Civil in particular, has vast experience working successfully on environmentally sensitive projects including works within Endangered Ecological Communities. We’ve received praise from clients and government agencies alike for our commitment to environmental standards and won the 2017 CCF Earth Awards for our unrivalled environmental management initiatives.\n\nCivil construction has a significant role to play with the major responsibility of ensuring the protection of the environment and wildlife where we work and that the impact is minimal, managed and mitigated.\r\n\nWe are proud at the SEE Group to now be an active corporate partner with the Currumbin Wildlife Hospital Foundation and support and recognise the amazing work the wildlife doctors, nurses, volunteers and the operations team conduct on a daily basis, 365 days a year.\r\n\nAt SEE Group we are committed to positive environmental outcomes of any projects we undertake and look forward to playing a collaborative role in the sustainability of our environment and wildlife with the hospital, leaving a positive legacy for our future generations to enjoy."
     image: >-
       https://ucarecdn.com/7eeefac2-2595-42e8-b669-60ef07b99a6d/-/crop/575x442/0,104/-/preview/
     titleFade: Environment
