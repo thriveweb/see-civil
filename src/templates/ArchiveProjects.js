@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
-
 import Layout from '../layouts/Layout'
 
 // Components
@@ -87,7 +86,7 @@ export const pageQuery = graphql`
 
     divisionProjects: allMarkdownRemark(
       filter: {frontmatter: {template: {eq: "SingleProject"}}}
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: ASC, fields: [frontmatter___date] }
     ) {
       edges {
         node {

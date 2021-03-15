@@ -12,19 +12,21 @@ export default({ projects, className, title, buttonText, spliceValue, titleDark,
   if (titleDark) thisClass += 'title-dark'
 
   const filteredProjects = projects.filter(project => project.fields.contentType.split('/')[0] === className)
+  const currentFilteredProjects = filteredProjects.filter(current => current.frontmatter.projectstatus === 'current' )
+
 
   return <section className='home-projects'>
     {title && <div className={thisClass}><h2 className='title-banner'>{title}</h2></div>}
     <div className='container'>
       <div className='project-listing'>
-        {filteredProjects.splice(0, spliceValue).map(({ id, fields, frontmatter }) =>
+        {currentFilteredProjects.splice(0, spliceValue).map(({ id, fields, frontmatter }) =>
           <Project key={`project-${id}`} {...frontmatter} {...fields} />
         )}
       </div>
       {buttonText &&
         <Link
           className='button'
-          to={`/${className}/${className === 'quarry-solutions' ? 'quarries' : className === 'integrated-concrete-solutions' ? 'locations' : 'projects'}`}
+          to={`/${className}/${className === 'quarry-solutions' ? 'quarries' : className === 'integrated-concrete-solutions' ? 'locations' : 'infrastructure-projects'}`}
         >
           {buttonText}
         </Link>

@@ -115,7 +115,10 @@ export const CapabilitiesPageQuery = graphql`
       }
     }
 
-    projects: allMarkdownRemark(filter: {frontmatter: {template: {eq: "SingleProject"}}}) {
+    projects: allMarkdownRemark(
+      filter: {frontmatter: {template: {eq: "SingleProject"}}}
+      sort: { order: ASC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
           id
@@ -124,6 +127,7 @@ export const CapabilitiesPageQuery = graphql`
             contentType
           }
           frontmatter {
+            projectstatus
             title
             featuredImage
             specs
