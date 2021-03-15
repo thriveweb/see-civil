@@ -8,22 +8,21 @@ featuredImage: 'https://ucarecdn.com/3c1efb9c-813b-46c6-96cc-3efc134bd9b6/'
 buttonText: Contact us
 buttonUrl: /contact/
 description: >-
-  SEE Group is made up of four businesses, SEE Civil, Quarry Solutions, Civil
-  Rent, Integrated Concrete Solutions and DMC. 
+  SEE Group is made up of four key businesses, SEE Civil, Quarry Solutions,
+  Civil Rent and DMC. 
 
 
-  It is an Australian-owned civil construction and engineering group with
+  We are an Australian-owned civil construction and engineering group with
   expertise in major infrastructure, urban development, plant hire and plant
-  management, material supply and quarrying, readymix and precast concrete
-  products. 
+  management and material supply and quarrying. 
 intro:
   buttonText: Read More
   buttonUrl: /about/
   content: >-
-    SEE Group is made up of three key businesses - SEE Civil, Quarry Solutions
-    and  Integrated Concrete Solutions. Each SEE Group business exists to play a
-    key role in delivering the civil construction and materials needs of our
-    projects, creating complete construction solutions for our clients. 
+    SEE Group is made up of four key businesses - SEE Civil, Quarry Solutions,
+    Civil Rent and DMC. Each SEE Group business exists to play a key role in
+    delivering the civil construction and materials needs of our projects,
+    creating complete construction solutions for our clients. 
 
 
     Our strong reputation is backed by our ability to build strong and honest
