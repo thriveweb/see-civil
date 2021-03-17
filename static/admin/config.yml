@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-display_url: https://seegroup.com.au/admin/#/
+display_url: https://seegroup.com.au/
 
 media_library:
   name: uploadcare
