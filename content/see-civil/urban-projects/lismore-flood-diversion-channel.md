@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: South Lismore Flood Mitigation Works
+title: South Lismore Flood Diversion Channel
 featuredImage: 'https://ucarecdn.com/63ed4049-057d-401e-b74b-bfce237e7af0/'
 specs: |-
   * Location - Lismore, NSW 
