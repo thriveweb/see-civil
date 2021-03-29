@@ -1,14 +1,16 @@
 ---
 template: SingleProject
-title: 'Covella '
+title: Covella Estate
 featuredImage: >-
   https://ucarecdn.com/b729d029-0648-4c35-b468-9a587bff13ac/-/preview/-/enhance/50/
 specs: |-
   * Location - Greenbank, QLD
-  * Value - $8 Million
+  * Start date - Sep 2017
+  * Completion date - Ongoing
+  * Value - $26 Million
   * Client - VillaGreen
 date: 2019-04-15T01:21:26.331Z
-projectstatus: completed
+projectstatus: current
 content: >-
   The Covella residential development is a 1500 lot subdivision at Greenbank in
   Queensland. SEE Civil are completing the first two stages of a proposed 28
