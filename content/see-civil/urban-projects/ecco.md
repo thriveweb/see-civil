@@ -5,8 +5,9 @@ featuredImage: >-
   https://ucarecdn.com/dc94079c-6de7-470c-a33c-e20910c8475a/-/preview/-/enhance/52/
 specs: |-
   * Location - Ripley, QLD 
-  * Completion Date - Current
-  * Value - $49.5 Million (combined total to date)
+  * Start date - Jun 2014
+  * Completion date - Current
+  * Value - $62.5 million (combined total to date)
   * Client - Sekisui House Australia
 date: 2019-04-15T03:47:09.113Z
 projectstatus: current
