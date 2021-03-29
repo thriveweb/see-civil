@@ -9,7 +9,7 @@ specs: |-
 
   Start date: July 2019
 
-  Completion date: August 2020
+  Completion date: June 2020
 
   Client: Hutchinson Builders
 date: 2019-12-05T04:42:23.841Z
