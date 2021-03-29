@@ -5,11 +5,12 @@ featuredImage: >-
   https://ucarecdn.com/8f09bd2b-5221-4da3-95e9-a8a502132e67/-/preview/-/enhance/50/
 specs: |-
   * Location - Yatala, QLD
-  * Completion Date - September 2019
-  * Value - $35 Million
+  * Start date - Apr 2015
+  * Completion date - Jul 2022
+  * Value - $52.5 Million
   * Client - The Stephens Group
 date: 2019-09-23T22:30:26.884Z
-projectstatus: completed
+projectstatus: current
 content: >-
   Empire Industrial Estate is a 127 hectare industrial site located within the
   Yatala Enterprise Area in Queensland. SEE has completed eight of a proposed
