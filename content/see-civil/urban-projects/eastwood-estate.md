@@ -1,15 +1,15 @@
 ---
 template: SingleProject
-title: Eastwood Estate - Stage 1
+title: Eastwood Estate - Stage 1 to 5
 featuredImage: 'https://ucarecdn.com/7b217f4b-6d01-4b09-bacf-74d4b7e6aab8/'
 specs: |-
   Location - Goonellabah, NSW
 
-  Value - $4.2 million 
+  Value - $15.2 million 
 
   Start date - May 2019
 
-  Completion date - Jan 2020
+  Completion date - late 2021
 
   Client - McCloy Group
 date: 2019-12-15T21:41:54.662Z
@@ -22,7 +22,11 @@ content: >-
 
   SEE Civil constructed the first stage of the development including an entry
   road and statement, services infrastructure, retaining walls, internal road
-  construction, sewer pump station and hard and soft landscaping features.
+  construction, sewer pump station and hard and soft landscaping features. 
+
+
+  We have since been awarded stages 2-5, which are due for completion in late
+  2021.
 videoSection:
   title: ''
 accordion:
