@@ -4,8 +4,9 @@ title: 'Providence '
 featuredImage: 'https://ucarecdn.com/7b0afe3f-74b9-47f8-bae8-a278a83fae61/'
 specs: |-
   * Location - Ripley, QLD 
-  * Completion Date - Current
-  * Value - $25 Million
+  * Start date - Feb 2015
+  * Completion date - Current
+  * Value - $67 million
   * Client - Okeland Communities
 date: 2019-04-15T03:20:21.089Z
 projectstatus: current
