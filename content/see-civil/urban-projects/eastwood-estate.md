@@ -13,7 +13,7 @@ specs: |-
 
   Client - McCloy Group
 date: 2019-12-15T21:41:54.662Z
-projectstatus: completed
+projectstatus: current
 content: >-
   Eastwood Estate is a residential subdivision being constructed in the Lismore
   City Council region by the McCloy Group. At completion, the site will hosts
