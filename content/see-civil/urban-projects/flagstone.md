@@ -1,11 +1,12 @@
 ---
 template: SingleProject
-title: 'Flagstone '
+title: Flagstone Estate
 featuredImage: 'https://ucarecdn.com/2e9fd342-ce94-4b64-bd4f-c0c2df384ea4/'
 specs: |-
-  * Location - Jimboomba, QLD 
+  * Location - Jimboomba, QLD
+  * Start date - Feb 2018
   * Completion Date - Current
-  * Value - $29 million
+  * Value - $42 million
   * Client - Peet Pty Ltd
 date: 2019-04-15T01:24:46.407Z
 projectstatus: current
@@ -31,7 +32,7 @@ content: >-
 
 
   SEE Civil has been working with clients Peet Pty Ltd to deliver rolling
-  packages of work since mid-2018.
+  packages of work since early 2018.
 videoSection:
   title: ''
 accordion:
