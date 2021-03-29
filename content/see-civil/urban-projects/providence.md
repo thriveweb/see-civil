@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: 'Providence '
+title: Providence Estate
 featuredImage: 'https://ucarecdn.com/7b0afe3f-74b9-47f8-bae8-a278a83fae61/'
 specs: |-
   * Location - Ripley, QLD 
