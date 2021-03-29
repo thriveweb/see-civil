@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: New England Highway (Warwick to Wallangarra) Package 4 & 5
-featuredImage: ''
+featuredImage: 'https://ucarecdn.com/05d7104d-7f53-4bb1-afb5-38d4c9bcbdf9/'
 specs: |-
   Location: Warwick, QLD
 
