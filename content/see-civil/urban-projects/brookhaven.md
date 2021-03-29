@@ -1,12 +1,12 @@
 ---
 template: SingleProject
-title: 'Brookhaven '
+title: Brookhaven (various stages)
 featuredImage: 'https://ucarecdn.com/4a1f8938-5f6f-4d35-9f55-128eee50ef1c/'
 specs: |-
   * Location - Bahrs Scrub, QLD 
-  * Value - $8 Million
-  * Start date - July 2019
-  * Completion date - January 2020
+  * Value - $23 Million
+  * Start date - Oct 2018
+  * Completion date - Jun 2020
   * Client - Frasers Property
 date: ''
 projectstatus: completed
