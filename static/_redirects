@@ -18,11 +18,10 @@ http://seecivil.com.au/staff/* https://seegroup.com.au/careers/:splat 301!
 # These rules will change if you change your site’s custom domains or HTTPS settings
 # Redirect domain aliases to primary domain
 
-# https://integratedconcrete.com.au/* https://seegroup.com.au/:splat 301!
-# https://www.integratedconcrete.com.au/* https://seegroup.com.au/:splat 301!
-# https://quarrysolutions.com.au/* https://seegroup.com.au/:splat 301!
-# https://www.quarrysolutions.com.au/* https://seegroup.com.au/:splat 301!
-
+https://integratedconcrete.com.au/* https://seegroup.com.au/:splat 301!
+https://www.integratedconcrete.com.au/* https://seegroup.com.au/:splat 301!
+https://quarrysolutions.com.au/* https://seegroup.com.au/:splat 301!
+https://www.quarrysolutions.com.au/* https://seegroup.com.au/:splat 301!
 https://seecivil.com.au/* https://seegroup.com.au/:splat 301!
 https://www.seecivil.com.au/* https://seegroup.com.au/:splat 301!
 
