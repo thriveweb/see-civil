@@ -58,6 +58,11 @@ contentBanner:
   image: 'https://ucarecdn.com/763299b8-c743-4ab4-9dc1-37e809be906d/'
   title: Work with us
 meta:
-  description: ''
+  title: >-
+    Quarry Solutions - Specialised quarrying and construction materials
+    production company.
+  description: >-
+    Quarry Solutions are the high-volume, high-quality material extraction and
+    production experts.
 ---
 
