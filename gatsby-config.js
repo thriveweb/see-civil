@@ -4,10 +4,15 @@ module.exports = {
     siteUrl: 'https://civil-test.netlify.com/'
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-sitemap',
     'gatsby-transformer-yaml',
+    {
+      resolve: 'gatsby-plugin-react-helmet',
+      options: {
+        sitUrl: `https://seegroup.com.au/`
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
