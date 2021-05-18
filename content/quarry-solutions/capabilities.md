@@ -55,7 +55,7 @@ iconList:
     icon: 'https://ucarecdn.com/230af26c-e583-4b0f-9b4f-124e46cd404f/'
     title: 'mobile crushing & screening '
 downloads:
-  - file: 'https://ucarecdn.com/91ac8045-5da6-4e5e-addd-b6613156589d/'
+  - file: 'https://ucarecdn.com/5b63fa7d-c0ea-4fa2-9b8f-d92774a3c07e/'
     title: SEE Group Capability Statement
 meta:
   title: 'Quarry Solutions capability. '
