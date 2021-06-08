@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: 'Inland Rail - Narrabri to North Star Separable Portion 1 '
-featuredImage: 'https://ucarecdn.com/2fd904e5-8c82-43d6-acfe-fde9092a9238/'
+featuredImage: 'https://ucarecdn.com/6dbba4d6-34b7-4ab2-9274-af1594b28ce9/'
 specs: |-
   Location: Moree, NSW
 
