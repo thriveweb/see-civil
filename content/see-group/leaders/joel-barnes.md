@@ -2,17 +2,18 @@
 template: SingleLeader
 title: Joel Barnes
 generalOccupation: operational manager
-occupation: Executive General Manager - Operations
+occupation: Executive Director - Operations
 profileImage: 'https://ucarecdn.com/81a42f71-5d20-4f0e-8b4c-ccc6773fc930/'
 biography: >-
   Joel has more than 18 years’ experience delivering major road, rail and civil
   infrastructure projects. Joel was appointed to his current role as SEE Groups
-  Executive General Manager - Operations in 2020. 
+  Executive Director - Operations in 2021. 
 
 
   Joel joined SEE Civil in 2016 as a Construction Manager before progressing to
-  Operations Manager, then General Manager, overseeing some of SEE Civil's most
-  successful projects. 
+  Operations Manager, then General Manager, before being promoted in 2020 to
+  Executive General Manager - Operations overseeing some of SEE Civil's most
+  successful projects.
 
 
   In this current role, Joel is responsible for the overall performance,
