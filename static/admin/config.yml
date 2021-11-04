@@ -402,6 +402,34 @@ collections:
               - {label: Description, name: description, widget: text, required: false}
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
 
+      - file: "content/see-civil/mining-projects.md"
+        label: "Mining Projects"
+        name: "mining-projects"
+        fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "ArchiveProjects"}
+          - {label: "Slug", name: "slug", widget: "hidden", default: "projects"}
+          - {label: "Title", name: "title", widget: "string", default: "", required: false}
+          - {label: "Featured Image", name: "featuredImage", widget: "image", default: "", required: false}
+          - {label: "Featured Image Thumbnail", name: "featuredImageThumbnail", widget: "image", default: "", required: false}
+          - label: "Call To Action"
+            name: "cta"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string", default: "", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "string", default: "", required: false}
+              - {label: "Content", name: "content", widget: "markdown", default: "", required: false}
+              - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+              - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
       - file: "content/see-civil/urban-projects.md"
         label: "Urban Projects"
         name: "urban-projects"
@@ -458,6 +486,54 @@ collections:
   - name: "infrastructureprojects"
     label: "Infrastructure Projects"
     folder: content/see-civil/infrastructure-projects
+    create: true
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleProject}
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Specs", name: "specs", widget: "markdown", required: false}
+      - {label: "Date", name: "date", widget: "date", required: false}
+      - label: "Project Status"
+        name: "projectstatus"
+        widget: "select"
+        options: ["current", "completed"]
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - label: Video Section
+        name: videoSection
+        required: false
+        widget: object
+        fields:
+          - {label: Image Overlay, name: imageOverlay, widget: image, required: false}
+          - {label: Title, name: title, widget: markdown, required: false, default: ''}
+          - {label: Video, name: video, widget: string, required: false}
+      - {label: Content Secondary, name: contentSecondary, widget: markdown, required: false}
+      - label: Accordion
+        name: accordion
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Title", name: "title", widget: "string", default: ""}
+          - {label: "Content", name: "content", widget: "markdown", default: ""}
+      - label: "Call To Action"
+        name: "cta"
+        widget: "object"
+        required: false
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: "Button Text", name: "buttonText", widget: "string", default: "", required: false}
+          - {label: "Button Url", name: "buttonUrl", widget: "string", default: "", required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+
+  - name: "miningprojects"
+    label: "Mining Projects"
+    folder: content/see-civil/mining-projects
     create: true
     fields:
       - {label: Template, name: template, widget: hidden, default: SingleProject}
