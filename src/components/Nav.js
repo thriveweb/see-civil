@@ -61,6 +61,7 @@ class Nav extends Component {
               <li><Link to='/see-civil/capabilities/' activeClassName='current'>Capabilities</Link></li>
               <li><Link to='/see-civil/infrastructure-projects/' activeClassName='current'>Infrastructure Projects</Link></li>
               <li><Link to='/see-civil/urban-projects/' activeClassName='current'>Urban Projects</Link></li>
+              <li><Link to='/see-civil/mining-projects/' activeClassName='current'>Mining Projects</Link></li>
               <li><Link to='/see-civil/leaders/' activeClassName='current'>Our Leaders</Link></li>
               <li>
                 <Link
