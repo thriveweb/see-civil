@@ -12,7 +12,6 @@ export default({ archivesListing }) => {
         archivesListing.map(({ fields, frontmatter, id }) => {
           const { slug } = fields
           const { title, featuredImageThumbnail } = frontmatter
-          console.log(`${featuredImageThumbnail}-/resize/1920x/`)
 
           return <Link
                   className='archive-project-link'
