@@ -3,6 +3,8 @@ template: SingleProject
 title: Mount Lindesay Highway - Stoney Camp Road and Chambers Flat Road
 featuredImage: 'https://ucarecdn.com/53bbca2f-b663-471f-b00a-ffc61028e95b/'
 specs: |-
+  Client - DTMR - South Coast
+
   Location - Munruben, South East Queensland
 
   Value - $34M
