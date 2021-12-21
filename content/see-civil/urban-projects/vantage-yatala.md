@@ -9,7 +9,7 @@ specs: |-
   * Value - $12.6 million
   * Client - Frasers Property Industrial
 date: 2021-03-29T04:06:46.680Z
-projectstatus: current
+projectstatus: completed
 content: "SEE Civil have commenced work on Stage 1 of Vantage Yatala for Frasers Property Industrial. This next generation industrial precinct includes over 2.3 hectares of green open space and will secure the Yatala region as one of the major distribution hubs for South East Queensland.\r\n\n\r\rPractical Completion for Stage 1 is scheduled for September 2021."
 videoSection:
   title: ''
