@@ -1,35 +1,21 @@
 ---
 template: SingleProject
-title: Aquilla Project - Overland Conveyor and Pit G Civil Works
-featuredImage: 'https://ucarecdn.com/822049ce-2b4e-4806-a459-ee8511c8890a/'
+title: Moranbah North Mine - Dam 6 Civil Works and CDA North Expansion Works
+featuredImage: 'https://ucarecdn.com/4b7bad92-95d2-4918-9ba7-1fd834fa3bcc/'
 specs: |-
-  * Location - Middlemount, Central QLD
-  * Value - $26.5
-  * Start date - Sep 2020 
-  * Completion date - Aug 2021
+  * Location - Moranbah, QLD
+  * Value - $27M
+  * Start date - Jun 2021 
+  * Completion date - Jun 2022
   * Client - Anglo American
 date: 2021-12-21T00:04:13.128Z
-projectstatus: completed
-content: >-
-  Aquila is an underground hard coking coal mine near Middlemount, which will
-  extend the life of Anglo American’s existing Capcoal underground operations by
-  six years to 2028 and continue to optimise the Capcoal complex.
-
-
-  SEE Civil's scope of works included raising the Pit G area of the project by
-  3m for flood immunity and involved upgrading the current road into the Pit,
-  installing drainage culverts, piling works, structures for the conveyor
-  foundations, precast retaining walls, bulk earthworks and pavements.
-
-
-  The Overland Conveyor area involved bulk earthworks, pavements, piling,
-  structures footings, and finishing works for the incoming contractor to
-  install the conveyor mech and elec.
+projectstatus: current
+content: "SEE Civil were first engaged by Anglo American in June 2019 on the Three Chain Road and Dawson Highway Upgrade near Moura in Central QLD. \r\n\nDue to our collaborative nature and safety record on site, we were awarded another two contracts in quick succession by Anglo American, totaling $67M. \r\n\nThe Moranbah North Mine – Dam 6 and Co-Disposal Area Northern Expansion Civil Works project is the third project Anglo American have awarded to SEE Civil. The project commenced in June 2021 and is expected to be complete in June 2022."
 videoSection:
   title: ''
 accordion:
   - title: Scope of works
-    content: "**Pit G and Road A Scope of Works:**\n\n* 80,450m3 Cut to Fill \r\n* 15,220m3 Pavement material\r\n* 240m Drainage CSP culverts\r\n* 485m 600dia bored piles \r\n* 64 Precast retaining walls\r\n* 865m3 Concrete slabs and footings\r\n* 80m Guardrail\r\n* 21,250m2 Topsoil\n\n**Overland Conveyor Scope of Works:**\r\n\n* 655,000m3 Cut to Fill\r\n* 300,000m3 Cut to Stockpile\r\n* 13,850m3 Pavement materials\r\n* 435m Drainage CSP culverts\r\n* 1,380m 600-900dia bored piles\r\n* 1,913m 300dia bored piles\r\n* 990m3 Concrete slabs and footings\r\n* 1,765m Guardrail\r\n* 117,000m2 Topsoiling"
+    content: "**Dam 6 Civil Works**\n\n* 52ha clearing and grubbing\r\n* 392,256m3 topsoil removal\r\n* 532,853m3 dam embankment cut to fill \r\n* 9,275m3 pavement materials,\r\n* Decant structure, valves, and fitting \r\n* Return water inlet structure \r\n* Geotechnical vibrating wire piezos\r\n\n**Co-disposal Area Northern Expansion Civil Works**\n\n* 161ha clearing and grubbing \r\n* 340,300m3 topsoil removal \r\n* 898,220m3 CDA embankment cut to fill \r\n* Decant structures \r\n* Decant outlet pipes \r\n* Geotechnical vibrating wire piezos \r****"
 cta:
   buttonText: ''
   buttonUrl: ''
