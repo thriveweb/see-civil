@@ -13,7 +13,7 @@ specs: |-
 
   Client: Department of Transport and Main Roads
 date: ''
-projectstatus: current
+projectstatus: completed
 content: ''
 videoSection:
   title: ''
