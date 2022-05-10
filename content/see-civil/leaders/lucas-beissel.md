@@ -3,7 +3,7 @@ template: SingleLeader
 title: Lucas Beissel
 generalOccupation: operational manager
 occupation: Construction Manager - Civil Infrastructure
-profileImage: ''
+profileImage: 'https://ucarecdn.com/42f2f87f-fa98-4247-9e58-05dbc17a57d5/'
 biography: >-
   Lucas commenced his career at SEE Civil in 2016 as a Project Manager with a
   wide range of experience in project based engineering and estimating. He
