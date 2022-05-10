@@ -1,7 +1,7 @@
 ---
 template: SingleLeader
 title: Lucas Beissel
-generalOccupation: operational manager
+generalOccupation: director
 occupation: Construction Manager - Civil Infrastructure
 profileImage: 'https://ucarecdn.com/42f2f87f-fa98-4247-9e58-05dbc17a57d5/'
 biography: >-
