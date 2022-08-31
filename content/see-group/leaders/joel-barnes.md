@@ -3,7 +3,8 @@ template: SingleLeader
 title: Joel Barnes
 generalOccupation: operational manager
 occupation: Executive Director - Operations
-profileImage: 'https://ucarecdn.com/81a42f71-5d20-4f0e-8b4c-ccc6773fc930/'
+profileImage: >-
+  https://ucarecdn.com/34ea257e-cf54-4569-bb14-196aafd02b19/-/crop/1086x690/78,25/-/preview/
 biography: >-
   Joel has more than 18 years’ experience delivering major road, rail and civil
   infrastructure projects. Joel was appointed to his current role as SEE Groups
