@@ -1,6 +1,7 @@
 ---
 template: SingleProject
 title: DMC Quarry
+featuredImage: 'https://ucarecdn.com/7dfde071-9085-4f11-b2be-ddf3ba8701d5/'
 specs: >-
   **Location -** Sunnyside, New South Wales
 
