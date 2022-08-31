@@ -3,7 +3,8 @@ template: SingleLeader
 title: Kirrilly Gordon
 generalOccupation: operational manager
 occupation: Group Commercial and Legal Manager
-profileImage: ''
+profileImage: >-
+  https://ucarecdn.com/6c06b3bf-e640-410f-b3ac-33abf96714c7/-/crop/1168x761/89,20/-/preview/
 biography: >-
   Kirrilly has over 14 years’ experience practicing as a lawyer in both private
   practice and in-house roles for a ASX listed company specialising in the areas
