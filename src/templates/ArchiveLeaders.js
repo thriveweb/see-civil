@@ -95,7 +95,7 @@ export const LeadersPageQuery = graphql`
       }
     }
 
-    allMarkdownRemark(filter :{frontmatter: {template: {eq: "SingleLeader"}}}) {
+    allMarkdownRemark(filter: {frontmatter: {template: {eq: "SingleLeader"}}}, sort: {order: ASC, fields: frontmatter___displayOrder}) {
       edges {
         node {
           fields {

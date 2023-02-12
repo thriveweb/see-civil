@@ -3,6 +3,7 @@ template: SingleLeader
 title: Peta Newton
 generalOccupation: director
 occupation: Executive Director - Corporate Services
+displayOrder: 3
 profileImage: >-
   https://ucarecdn.com/9e04ef71-94c4-4ad9-b0b7-292586719321/-/crop/1113x714/101,21/-/preview/
 biography: >-

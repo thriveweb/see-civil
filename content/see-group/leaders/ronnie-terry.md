@@ -3,6 +3,7 @@ template: SingleLeader
 title: Mark Turner
 generalOccupation: director
 occupation: Executive Director - Plant & Logistics
+displayOrder: 2
 profileImage: 'https://ucarecdn.com/9c21c2bd-6768-405a-ab37-7645fac8fdc8/'
 biography: >-
   Mark has more than 20 years of civil construction industry experience in

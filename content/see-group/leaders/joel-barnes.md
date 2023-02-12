@@ -1,8 +1,9 @@
 ---
 template: SingleLeader
 title: Joel Barnes
-generalOccupation: operational manager
+generalOccupation: director
 occupation: Executive Director - Operations
+displayOrder: 4
 profileImage: >-
   https://ucarecdn.com/34ea257e-cf54-4569-bb14-196aafd02b19/-/crop/1086x690/78,25/-/preview/
 biography: >-
