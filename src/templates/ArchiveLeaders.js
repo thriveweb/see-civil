@@ -26,8 +26,11 @@ export const LeadersPageTemplate = ({
         .join(' ');
 
   const director = leaders.filter(leader => leader.frontmatter.generalOccupation === 'director')
+  console.log("*** director",director)
   const generalManager = leaders.filter(leader => leader.frontmatter.generalOccupation === 'executive-general manager')
+  console.log("*** generalManager",generalManager)
   const operationalManager = leaders.filter(leader => leader.frontmatter.generalOccupation === 'operational manager')
+  console.log("*** operationalManager",operationalManager)
 
 
   return <Fragment>
