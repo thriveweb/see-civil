@@ -213,7 +213,7 @@ collections:
         widget: "select"
         options: ["director", "executive-general manager", "operational manager"]
       - {label: Occupation, name: occupation, widget: string, required: false}
-      - {label: Display Order, name: displayOrder, widget: string, required: false}
+      - {label: Display Order, name: displayOrder, widget: number, value_type: "int", required: false}
       - {label: "Profile Image", name: "profileImage", widget: "image", required: false}
       - {label: "Biography", name: "biography", widget: "markdown"}
       - label: "Meta"
