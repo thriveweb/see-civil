@@ -27,11 +27,11 @@ accordion:
       * 27 kilometres of shoulder widening along northbound and southbound
       carriageways in two locations between Conjuboy and Mount Garnet
 
-      * Fully pavement overalays under live traffic conditions 
+      * Fully pavement overlays under live traffic conditions 
 
       * Upgrading and reconstruction stormwater culverts and structures
 
-      * Sourcing and importnat general fill for road shoulders from borrow pits 
+      * Sourcing and important general fill for road shoulders from borrow pits 
 
       * Construction using stablised pavements
   - title: photo
